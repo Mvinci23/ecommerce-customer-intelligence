@@ -23,7 +23,8 @@ High churn rate (54.6%) and untapped customer segments threatened revenue growth
 | Customer Reactivation Value| $753,000                   | Revenue opportunity                |
 
 ## Visual Dashboards
-![Dashboard Screenshot](./results/dashboard_visualization.png)
+![Executive Dashboard](executive_dashboard.png)
+
 
 ## Resources
 - [Python Code (ecommerce_intelligence_platform.py)](./code/ecommerce_intelligence_platform.py)  
