@@ -1,0 +1,2001 @@
+customer_id,age,gender,location,registration_date,customer_segment,total_orders,total_spent,avg_order_value,last_purchase_date,churn_risk
+C000001,41,Female,Ohio,2023-10-25,Occasional,3,1226.3,408.77,2025-07-12,Low
+C000002,66,Male,New York,2023-04-08,Premium,7,1467.52,209.65,2023-08-29,High
+C000003,28,Female,Pennsylvania,2024-10-24,Regular,0,0.0,0.0,,High
+C000004,64,Male,Pennsylvania,2023-10-02,Regular,3,541.25,180.42,2024-01-05,Low
+C000005,43,Female,Georgia,2023-04-27,Regular,4,1093.91,273.48,2024-03-04,Medium
+C000006,48,Female,Texas,2024-12-07,Premium,1,497.6,497.6,2025-01-13,Low
+C000007,64,Male,Texas,2024-12-13,Premium,2,323.54,161.77,2025-04-08,Medium
+C000008,48,Female,Texas,2024-08-27,Occasional,3,1041.32,347.11,2025-08-02,Medium
+C000009,57,Male,Texas,2024-01-03,Regular,5,467.78,93.56,2024-04-05,Medium
+C000010,44,Female,New York,2023-04-26,Premium,8,2489.33,311.17,2024-06-25,Medium
+C000011,38,Male,North Carolina,2024-11-01,Occasional,2,243.58,121.79,2025-04-16,High
+C000012,32,Female,North Carolina,2024-08-01,Occasional,1,566.3,566.3,2024-12-01,High
+C000013,57,Male,Ohio,2024-12-18,Occasional,2,268.35,134.17,2025-02-09,High
+C000014,48,Female,Ohio,2023-09-12,Premium,2,1464.65,732.33,2023-10-24,High
+C000015,21,Male,Texas,2024-09-19,Occasional,3,604.23,201.41,2025-02-20,Medium
+C000016,28,Male,Georgia,2024-05-22,Regular,2,558.85,279.43,2024-07-22,Low
+C000017,35,Male,North Carolina,2023-12-05,Premium,4,1491.35,372.84,2023-12-22,High
+C000018,42,Female,Florida,2024-10-20,Premium,2,645.64,322.82,2025-03-28,Medium
+C000019,69,Female,California,2024-03-30,Regular,1,315.25,315.25,2024-08-23,Medium
+C000020,25,Female,New York,2023-11-20,Premium,2,884.9,442.45,2024-03-03,Medium
+C000021,20,Male,California,2024-02-27,Occasional,4,529.43,132.36,2024-05-08,High
+C000022,37,Male,Georgia,2024-10-14,Regular,1,56.87,56.87,2025-06-03,Medium
+C000023,70,Male,Georgia,2023-02-25,Regular,3,514.01,171.34,2024-07-07,High
+C000024,56,Female,Pennsylvania,2024-09-26,Occasional,3,316.45,105.48,2024-10-17,Medium
+C000025,24,Male,New York,2023-04-27,Regular,4,2635.24,658.81,2025-02-17,Medium
+C000026,69,Female,North Carolina,2024-10-10,Occasional,1,355.31,355.31,2024-12-02,Medium
+C000027,24,Male,Texas,2024-12-19,Regular,4,1474.08,368.52,2025-04-27,Low
+C000028,24,Female,Michigan,2024-02-24,Premium,2,243.37,121.68,2025-06-11,Low
+C000029,43,Male,Georgia,2023-05-04,Premium,5,711.9,142.38,2023-09-06,High
+C000030,24,Female,New York,2023-12-13,Occasional,3,1039.0,346.33,2024-05-30,High
+C000031,25,Female,Georgia,2024-08-25,Occasional,1,91.11,91.11,2025-06-04,High
+C000032,26,Female,New York,2024-05-31,Occasional,4,699.56,174.89,2025-01-06,High
+C000033,53,Female,Michigan,2023-02-19,Regular,7,1690.57,241.51,2024-04-13,High
+C000034,62,Male,Texas,2023-07-01,Premium,1,340.83,340.83,2023-12-05,Medium
+C000035,56,Female,North Carolina,2024-11-04,Regular,2,64.87,32.44,2024-11-16,Medium
+C000036,62,Male,Illinois,2024-09-15,Regular,1,25.72,25.72,2025-05-27,Medium
+C000037,46,Male,Texas,2023-10-29,Regular,3,435.67,145.22,2025-05-01,High
+C000038,65,Female,North Carolina,2024-12-17,Regular,1,99.05,99.05,2025-08-16,High
+C000039,58,Male,Florida,2024-07-20,Premium,1,158.62,158.62,2025-04-14,High
+C000040,61,Female,Texas,2023-10-25,Occasional,7,839.64,119.95,2023-11-03,High
+C000041,50,Female,California,2023-07-02,Regular,6,789.58,131.6,2025-08-14,High
+C000042,55,Female,North Carolina,2024-05-06,Regular,3,805.94,268.65,2024-08-16,Medium
+C000043,51,Male,New York,2023-01-14,Regular,1,411.62,411.62,2023-09-13,Low
+C000044,60,Male,Florida,2023-02-24,Regular,5,348.04,69.61,2025-06-07,Low
+C000045,61,Female,Texas,2023-10-21,Premium,5,631.48,126.3,2025-05-01,High
+C000046,31,Male,Pennsylvania,2023-10-30,Regular,4,1288.38,322.1,2024-09-11,Low
+C000047,61,Male,North Carolina,2024-09-22,Regular,3,297.58,99.19,2024-11-20,Low
+C000048,68,Female,New York,2024-06-07,Regular,4,309.81,77.45,2025-01-29,Medium
+C000049,68,Female,North Carolina,2024-03-02,Premium,3,796.93,265.64,2024-06-14,Low
+C000050,30,Female,Florida,2023-09-15,Occasional,7,1802.48,257.5,2024-11-08,High
+C000051,59,Female,Michigan,2024-12-27,Occasional,3,958.57,319.52,2025-01-15,High
+C000052,30,Male,Illinois,2024-09-09,Regular,2,344.18,172.09,2025-01-27,Low
+C000053,22,Male,Texas,2024-11-30,Occasional,1,17.86,17.86,2025-04-03,High
+C000054,42,Male,Ohio,2023-05-03,Regular,5,1090.33,218.07,2023-11-18,High
+C000055,26,Male,Michigan,2023-09-28,Regular,7,1424.34,203.48,2024-06-13,Low
+C000056,47,Male,New York,2023-12-05,Premium,6,816.74,136.12,2025-05-22,Medium
+C000057,21,Female,Georgia,2024-09-03,Occasional,0,0.0,0.0,,High
+C000058,22,Female,North Carolina,2024-01-02,Premium,4,459.61,114.9,2024-04-25,Low
+C000059,22,Male,Ohio,2024-06-17,Occasional,1,186.3,186.3,2025-01-10,High
+C000060,23,Female,Florida,2024-02-18,Premium,2,148.71,74.35,2024-11-24,High
+C000061,39,Female,Illinois,2023-12-06,Premium,7,1368.8,195.54,2025-07-11,High
+C000062,48,Male,California,2024-06-27,Occasional,4,1081.63,270.41,2024-07-25,Medium
+C000063,33,Male,New York,2024-04-01,Occasional,4,539.68,134.92,2025-07-28,Medium
+C000064,68,Male,Ohio,2024-01-26,Regular,3,443.08,147.69,2024-03-29,High
+C000065,19,Female,North Carolina,2023-10-17,Occasional,3,283.09,94.36,2024-08-21,Medium
+C000066,20,Female,Florida,2024-05-13,Regular,3,155.42,51.81,2025-08-01,High
+C000067,24,Male,North Carolina,2023-03-26,Occasional,6,2395.18,399.2,2025-01-07,Low
+C000068,22,Male,Florida,2024-10-03,Occasional,3,456.06,152.02,2024-11-01,Medium
+C000069,31,Female,California,2023-04-17,Occasional,4,1335.26,333.82,2023-07-30,High
+C000070,19,Female,Pennsylvania,2023-06-07,Premium,8,1002.38,125.3,2024-03-31,Low
+C000071,21,Male,Illinois,2023-03-17,Occasional,4,1065.34,266.33,2025-03-17,Low
+C000072,70,Male,Illinois,2024-08-11,Regular,3,775.31,258.44,2025-01-10,Medium
+C000073,58,Female,Ohio,2024-04-06,Regular,1,123.21,123.21,2024-12-22,Low
+C000074,61,Male,North Carolina,2024-02-03,Premium,4,467.6,116.9,2024-09-17,High
+C000075,22,Male,California,2024-09-25,Regular,2,225.48,112.74,2024-12-09,High
+C000076,36,Female,Michigan,2023-04-19,Premium,1,1312.31,1312.31,2025-04-16,Medium
+C000077,42,Female,New York,2024-03-24,Regular,1,524.81,524.81,2024-07-14,Low
+C000078,32,Male,Ohio,2024-06-30,Occasional,3,353.26,117.75,2024-07-27,Medium
+C000079,27,Female,Pennsylvania,2024-10-11,Premium,4,987.99,247.0,2025-04-21,High
+C000080,27,Male,New York,2024-07-22,Premium,3,419.11,139.7,2025-06-17,High
+C000081,43,Male,Illinois,2024-09-02,Premium,6,1161.46,193.58,2025-07-24,High
+C000082,31,Female,North Carolina,2023-12-19,Premium,0,0.0,0.0,,Low
+C000083,32,Female,Florida,2023-07-08,Premium,6,785.22,130.87,2023-11-05,Low
+C000084,69,Male,North Carolina,2024-11-18,Regular,2,43.1,21.55,2025-06-30,High
+C000085,22,Female,California,2024-07-16,Regular,3,373.78,124.59,2024-10-15,Low
+C000086,64,Female,Pennsylvania,2023-07-22,Regular,4,1397.6,349.4,2023-10-20,Low
+C000087,59,Male,California,2024-11-18,Regular,2,598.47,299.24,2025-05-07,High
+C000088,30,Female,Georgia,2023-03-13,Regular,7,2059.64,294.23,2024-11-24,Medium
+C000089,60,Female,Michigan,2024-09-23,Premium,4,687.06,171.76,2025-02-28,High
+C000090,41,Female,Ohio,2024-08-03,Premium,2,613.99,307.0,2024-11-12,Low
+C000091,33,Male,Ohio,2023-11-17,Regular,3,185.37,61.79,2025-08-08,Medium
+C000092,61,Female,Georgia,2023-05-18,Regular,5,796.69,159.34,2025-02-20,Medium
+C000093,67,Female,Georgia,2024-01-03,Occasional,3,1634.88,544.96,2024-03-27,Low
+C000094,59,Male,Illinois,2023-06-29,Premium,8,1307.15,163.39,2025-06-10,High
+C000095,34,Male,California,2023-07-21,Premium,3,382.41,127.47,2024-12-24,High
+C000096,19,Female,Michigan,2024-10-08,Premium,0,0.0,0.0,,Low
+C000097,34,Female,Texas,2024-07-18,Regular,0,0.0,0.0,,Medium
+C000098,67,Female,Texas,2023-08-17,Regular,3,533.9,177.97,2025-07-06,High
+C000099,23,Female,Pennsylvania,2024-06-06,Occasional,4,1395.94,348.98,2025-02-22,Low
+C000100,33,Male,North Carolina,2024-11-09,Premium,2,84.7,42.35,2025-07-23,Medium
+C000101,29,Male,Georgia,2023-06-13,Regular,7,710.5,101.5,2025-06-08,Low
+C000102,66,Female,Florida,2023-08-13,Premium,4,640.83,160.21,2023-12-16,Medium
+C000103,32,Male,Florida,2024-01-14,Occasional,10,2719.84,271.98,2025-03-01,Medium
+C000104,48,Female,New York,2024-02-02,Premium,3,917.61,305.87,2025-08-16,High
+C000105,24,Female,Illinois,2023-11-28,Occasional,4,1229.57,307.39,2025-03-13,High
+C000106,29,Female,Ohio,2024-08-06,Regular,2,431.72,215.86,2025-08-22,High
+C000107,22,Female,Ohio,2024-10-31,Premium,2,299.42,149.71,2025-05-25,High
+C000108,40,Female,Georgia,2024-02-20,Regular,4,1223.54,305.88,2024-09-22,High
+C000109,50,Male,Georgia,2023-01-07,Premium,3,337.54,112.51,2025-02-06,Low
+C000110,50,Female,Florida,2023-03-20,Premium,7,1150.29,164.33,2024-06-15,Low
+C000111,41,Male,Florida,2023-06-11,Regular,2,300.21,150.1,2025-06-17,Medium
+C000112,48,Female,Georgia,2023-04-27,Premium,4,508.37,127.09,2023-05-03,High
+C000113,59,Female,New York,2023-06-15,Premium,6,517.42,86.24,2023-07-25,Low
+C000114,54,Male,Texas,2023-05-11,Occasional,5,683.46,136.69,2023-08-23,High
+C000115,54,Male,New York,2023-02-10,Premium,4,1273.9,318.47,2023-12-04,Medium
+C000116,51,Female,Michigan,2023-07-04,Occasional,6,1307.2,217.87,2024-05-27,High
+C000117,64,Female,California,2023-01-20,Premium,5,1206.69,241.34,2023-09-15,Medium
+C000118,48,Female,Texas,2024-09-13,Premium,2,174.94,87.47,2025-01-30,Medium
+C000119,27,Male,Michigan,2024-09-07,Occasional,3,1176.14,392.05,2024-12-31,High
+C000120,28,Female,Georgia,2023-09-28,Occasional,4,719.04,179.76,2024-12-08,High
+C000121,32,Female,Ohio,2023-03-12,Premium,5,884.67,176.93,2025-02-26,Low
+C000122,30,Female,Texas,2023-01-17,Occasional,3,742.36,247.45,2024-01-13,Low
+C000123,48,Male,North Carolina,2023-07-01,Occasional,4,1309.92,327.48,2023-10-31,Low
+C000124,48,Male,Michigan,2023-04-06,Occasional,4,702.39,175.6,2025-01-10,Low
+C000125,59,Female,North Carolina,2024-11-25,Regular,3,464.89,154.96,2025-02-13,Medium
+C000126,62,Female,Florida,2023-02-14,Regular,5,1002.07,200.41,2025-04-13,Medium
+C000127,55,Male,Ohio,2023-12-25,Premium,0,0.0,0.0,,Medium
+C000128,67,Male,California,2024-05-03,Regular,2,1034.2,517.1,2025-05-21,High
+C000129,44,Female,Florida,2024-07-10,Premium,1,52.08,52.08,2025-02-06,High
+C000130,54,Male,North Carolina,2023-01-08,Premium,6,1357.45,226.24,2025-07-15,Medium
+C000131,31,Female,Ohio,2024-11-01,Regular,1,652.37,652.37,2025-05-17,Low
+C000132,45,Female,Illinois,2023-06-08,Occasional,5,1639.64,327.93,2024-09-30,Medium
+C000133,41,Female,Ohio,2024-08-01,Premium,1,90.1,90.1,2024-12-03,Medium
+C000134,68,Female,Texas,2024-07-19,Regular,1,33.49,33.49,2024-12-11,High
+C000135,48,Female,Illinois,2024-07-22,Occasional,3,240.04,80.01,2024-11-04,Medium
+C000136,43,Male,California,2024-12-23,Occasional,1,460.03,460.03,2025-04-11,Low
+C000137,68,Male,California,2024-04-02,Premium,4,427.64,106.91,2025-06-01,High
+C000138,68,Female,North Carolina,2024-02-15,Occasional,2,277.7,138.85,2025-07-30,High
+C000139,63,Male,Texas,2024-12-01,Regular,2,62.06,31.03,2025-04-04,High
+C000140,69,Male,Texas,2023-01-06,Regular,5,1120.02,224.0,2024-03-20,High
+C000141,23,Male,Illinois,2024-03-21,Premium,5,892.38,178.48,2024-04-03,Medium
+C000142,56,Male,Ohio,2023-03-23,Regular,4,598.53,149.63,2025-05-02,High
+C000143,51,Female,Michigan,2024-11-02,Premium,1,264.15,264.15,2025-04-30,Low
+C000144,49,Female,New York,2024-10-17,Premium,0,0.0,0.0,,High
+C000145,36,Male,New York,2024-06-14,Occasional,2,474.44,237.22,2024-10-22,High
+C000146,62,Male,Michigan,2024-06-12,Premium,2,639.65,319.82,2025-03-01,High
+C000147,41,Male,New York,2023-02-06,Premium,4,498.91,124.73,2023-07-06,Low
+C000148,67,Female,Pennsylvania,2023-10-10,Occasional,5,1666.45,333.29,2024-07-27,Medium
+C000149,55,Male,North Carolina,2024-02-20,Premium,5,1054.23,210.85,2025-07-04,High
+C000150,22,Male,North Carolina,2024-12-21,Regular,2,510.45,255.22,2025-01-24,High
+C000151,55,Female,Pennsylvania,2024-07-26,Regular,2,359.28,179.64,2025-05-24,Low
+C000152,30,Female,Ohio,2024-09-12,Occasional,0,0.0,0.0,,Low
+C000153,29,Female,North Carolina,2023-09-25,Premium,6,1481.38,246.9,2024-01-23,High
+C000154,50,Female,Pennsylvania,2023-03-16,Premium,2,252.17,126.09,2023-10-28,High
+C000155,52,Female,Georgia,2023-09-21,Regular,3,164.68,54.89,2024-09-28,High
+C000156,67,Male,Pennsylvania,2024-05-10,Regular,1,369.53,369.53,2024-11-01,High
+C000157,55,Male,Georgia,2024-04-16,Premium,1,227.1,227.1,2024-06-12,Medium
+C000158,42,Male,Florida,2023-03-11,Regular,9,1551.06,172.34,2025-07-08,Medium
+C000159,51,Male,Illinois,2023-12-28,Premium,1,139.03,139.03,2025-04-25,Medium
+C000160,43,Female,California,2023-04-06,Occasional,2,734.36,367.18,2024-01-28,Low
+C000161,38,Female,Florida,2024-05-02,Occasional,1,882.43,882.43,2024-12-20,Medium
+C000162,65,Male,Georgia,2023-07-07,Occasional,6,1362.89,227.15,2023-07-16,Low
+C000163,65,Male,Illinois,2023-08-29,Premium,1,454.5,454.5,2023-12-02,Low
+C000164,33,Female,Texas,2023-07-27,Premium,6,1051.31,175.22,2024-11-07,Low
+C000165,61,Female,Michigan,2023-03-22,Premium,10,1991.7,199.17,2025-03-26,High
+C000166,48,Female,Michigan,2023-02-13,Regular,6,1376.33,229.39,2025-04-03,Medium
+C000167,35,Female,Texas,2024-08-11,Occasional,1,435.14,435.14,2025-01-31,Medium
+C000168,32,Male,New York,2024-02-12,Occasional,5,2354.28,470.86,2024-12-08,Medium
+C000169,52,Male,North Carolina,2024-05-04,Regular,3,684.85,228.28,2024-07-17,Medium
+C000170,67,Male,Georgia,2024-12-03,Premium,3,528.87,176.29,2025-01-19,High
+C000171,47,Female,New York,2024-06-14,Premium,3,1174.07,391.36,2024-12-11,High
+C000172,42,Male,Pennsylvania,2023-08-04,Regular,2,961.69,480.85,2023-10-26,High
+C000173,29,Female,Florida,2023-09-23,Regular,5,947.72,189.54,2024-06-18,Medium
+C000174,39,Female,Texas,2024-09-19,Regular,1,295.55,295.55,2024-10-06,Medium
+C000175,44,Female,Pennsylvania,2023-08-04,Regular,2,164.07,82.04,2025-07-02,Medium
+C000176,29,Male,Michigan,2024-04-06,Occasional,0,0.0,0.0,,Low
+C000177,64,Female,Florida,2023-04-13,Occasional,7,750.19,107.17,2025-04-26,Medium
+C000178,30,Male,Texas,2024-01-26,Regular,5,1653.33,330.67,2024-05-05,Low
+C000179,44,Female,Texas,2023-06-30,Occasional,5,1756.72,351.34,2023-10-21,High
+C000180,64,Female,Georgia,2024-06-30,Regular,2,172.73,86.37,2024-12-09,Medium
+C000181,54,Male,Ohio,2024-07-29,Premium,3,405.28,135.09,2025-01-31,High
+C000182,21,Male,Illinois,2023-06-17,Regular,2,1234.97,617.48,2025-04-12,High
+C000183,46,Female,Illinois,2023-04-09,Regular,6,1219.67,203.28,2024-07-10,Medium
+C000184,53,Female,Pennsylvania,2024-07-27,Premium,1,786.67,786.67,2024-08-06,Medium
+C000185,40,Male,Michigan,2023-05-05,Occasional,10,2305.0,230.5,2025-04-06,High
+C000186,52,Male,Illinois,2024-10-26,Regular,3,895.71,298.57,2025-05-08,Medium
+C000187,50,Female,Georgia,2024-11-20,Premium,0,0.0,0.0,,Medium
+C000188,36,Female,Texas,2024-09-20,Premium,1,181.44,181.44,2025-04-22,High
+C000189,44,Female,California,2023-12-12,Premium,3,481.0,160.33,2024-02-04,Low
+C000190,32,Female,Pennsylvania,2023-12-18,Occasional,1,294.28,294.28,2025-01-12,Medium
+C000191,35,Female,Illinois,2024-12-28,Regular,2,1364.78,682.39,2025-07-15,Medium
+C000192,51,Female,Ohio,2024-08-24,Premium,0,0.0,0.0,,Low
+C000193,26,Male,Illinois,2023-01-24,Occasional,3,976.97,325.66,2023-06-26,High
+C000194,31,Male,Ohio,2023-03-23,Premium,6,1015.83,169.31,2025-07-28,Low
+C000195,48,Male,New York,2023-03-07,Regular,6,2551.69,425.28,2023-10-04,High
+C000196,24,Female,Michigan,2023-03-27,Premium,3,763.51,254.5,2025-04-04,Low
+C000197,42,Female,Florida,2024-11-01,Premium,0,0.0,0.0,,High
+C000198,46,Male,Texas,2023-10-18,Occasional,2,372.11,186.06,2025-03-19,Low
+C000199,20,Female,Pennsylvania,2023-01-30,Regular,7,5963.91,851.99,2024-06-09,Medium
+C000200,35,Female,Texas,2024-07-07,Occasional,1,266.11,266.11,2024-11-14,High
+C000201,55,Female,Michigan,2023-07-01,Regular,7,815.51,116.5,2024-07-09,High
+C000202,58,Female,Pennsylvania,2024-10-17,Regular,2,187.51,93.76,2024-11-06,High
+C000203,69,Male,Georgia,2023-08-21,Regular,8,2160.51,270.06,2024-04-21,Medium
+C000204,34,Male,Illinois,2024-02-27,Premium,1,8.05,8.05,2024-04-18,Low
+C000205,70,Male,Pennsylvania,2024-06-19,Regular,5,1525.34,305.07,2025-08-18,Medium
+C000206,18,Female,Georgia,2024-07-01,Regular,1,779.58,779.58,2025-07-12,Low
+C000207,69,Female,Michigan,2024-03-16,Premium,6,1124.08,187.35,2025-02-09,Low
+C000208,41,Male,Ohio,2024-07-15,Occasional,2,419.54,209.77,2024-12-31,Medium
+C000209,33,Male,Ohio,2024-02-09,Regular,4,713.2,178.3,2025-03-17,Low
+C000210,23,Female,Florida,2023-09-27,Occasional,5,740.82,148.16,2024-02-01,High
+C000211,61,Female,Illinois,2024-12-11,Occasional,2,559.87,279.94,2025-05-22,High
+C000212,69,Female,Ohio,2024-06-28,Premium,3,437.85,145.95,2025-05-27,Low
+C000213,26,Female,California,2023-07-06,Occasional,5,1816.24,363.25,2024-04-08,Medium
+C000214,46,Female,Michigan,2024-09-24,Regular,1,366.53,366.53,2025-06-16,Low
+C000215,19,Male,New York,2023-11-25,Occasional,4,954.6,238.65,2025-02-24,Low
+C000216,24,Female,Illinois,2023-07-10,Premium,4,857.03,214.26,2025-01-10,High
+C000217,64,Male,Florida,2024-03-24,Premium,5,1016.95,203.39,2024-08-20,Low
+C000218,49,Male,Pennsylvania,2023-01-16,Regular,8,2166.6,270.83,2024-03-18,Medium
+C000219,41,Female,New York,2024-05-25,Regular,6,2014.56,335.76,2025-08-18,Low
+C000220,21,Female,Ohio,2023-05-30,Premium,3,954.17,318.06,2023-10-30,High
+C000221,29,Male,Illinois,2024-04-26,Regular,2,506.48,253.24,2025-06-03,Low
+C000222,67,Male,Ohio,2023-05-05,Regular,6,1646.88,274.48,2024-03-20,Low
+C000223,30,Female,California,2023-02-04,Occasional,7,837.37,119.62,2024-04-16,High
+C000224,48,Female,Illinois,2023-08-02,Regular,8,2071.42,258.93,2025-02-13,Low
+C000225,64,Male,North Carolina,2024-10-06,Occasional,1,306.36,306.36,2025-06-28,Low
+C000226,48,Female,Florida,2023-09-17,Regular,4,916.92,229.23,2023-10-15,Low
+C000227,31,Male,Florida,2024-11-13,Occasional,1,15.7,15.7,2025-05-27,Medium
+C000228,18,Male,Illinois,2023-11-29,Occasional,4,976.17,244.04,2024-10-25,Low
+C000229,68,Male,New York,2024-02-10,Premium,2,514.71,257.36,2025-03-10,High
+C000230,48,Male,Pennsylvania,2024-12-08,Premium,3,844.93,281.64,2025-03-11,Low
+C000231,49,Male,Michigan,2023-06-11,Regular,7,2854.25,407.75,2025-04-28,High
+C000232,21,Female,Texas,2023-03-03,Occasional,6,1624.52,270.75,2024-03-27,High
+C000233,26,Female,Florida,2023-04-20,Regular,2,315.23,157.61,2024-11-29,High
+C000234,66,Female,Georgia,2024-10-22,Occasional,2,911.41,455.7,2024-12-07,Low
+C000235,62,Female,Pennsylvania,2023-01-22,Occasional,11,6602.22,600.2,2024-04-03,Low
+C000236,20,Female,Georgia,2023-09-14,Occasional,5,1574.08,314.82,2023-10-10,Medium
+C000237,62,Female,Florida,2024-07-09,Occasional,3,361.07,120.36,2025-03-22,Low
+C000238,40,Female,Georgia,2024-07-10,Regular,0,0.0,0.0,,High
+C000239,28,Male,North Carolina,2024-07-21,Premium,4,262.37,65.59,2024-07-29,Medium
+C000240,70,Female,North Carolina,2023-10-30,Regular,3,1315.07,438.36,2024-11-02,Medium
+C000241,67,Female,Texas,2023-01-01,Premium,4,921.53,230.38,2024-08-20,High
+C000242,67,Male,Pennsylvania,2024-01-08,Occasional,5,715.65,143.13,2024-06-07,Low
+C000243,52,Female,Florida,2024-11-05,Occasional,1,294.19,294.19,2025-04-18,High
+C000244,67,Male,Michigan,2024-05-24,Regular,3,468.8,156.27,2025-08-12,Medium
+C000245,59,Female,California,2024-02-24,Premium,6,1108.33,184.72,2025-05-19,High
+C000246,22,Male,Texas,2024-11-05,Premium,5,2380.31,476.06,2025-08-19,Low
+C000247,24,Female,Florida,2023-07-26,Premium,4,567.1,141.78,2023-08-14,Low
+C000248,59,Female,Georgia,2024-08-07,Occasional,3,2327.14,775.71,2024-10-17,High
+C000249,55,Female,New York,2024-12-19,Regular,0,0.0,0.0,,Low
+C000250,63,Male,New York,2024-09-12,Premium,0,0.0,0.0,,High
+C000251,23,Female,New York,2024-05-18,Regular,2,733.42,366.71,2025-01-12,High
+C000252,70,Female,New York,2024-03-01,Occasional,3,304.8,101.6,2024-03-26,Medium
+C000253,20,Male,Illinois,2024-06-25,Premium,6,2816.48,469.41,2024-07-22,Low
+C000254,24,Male,Florida,2024-06-15,Occasional,1,54.02,54.02,2025-06-12,Medium
+C000255,30,Male,Michigan,2023-07-14,Occasional,6,1988.82,331.47,2025-05-29,Low
+C000256,65,Female,California,2024-07-25,Occasional,1,59.51,59.51,2025-05-16,High
+C000257,61,Female,Ohio,2024-01-02,Premium,2,206.42,103.21,2025-01-16,Low
+C000258,53,Female,North Carolina,2023-07-04,Regular,3,996.05,332.02,2024-04-11,High
+C000259,52,Female,Pennsylvania,2023-06-11,Regular,6,1471.28,245.21,2023-09-04,High
+C000260,41,Female,Ohio,2023-11-29,Occasional,7,1562.35,223.19,2024-01-06,Medium
+C000261,33,Male,Ohio,2024-09-15,Occasional,3,1329.52,443.17,2024-12-07,High
+C000262,41,Female,Georgia,2023-09-18,Regular,2,2880.94,1440.47,2024-10-08,Low
+C000263,36,Male,North Carolina,2023-02-05,Premium,4,463.31,115.83,2025-03-21,Medium
+C000264,37,Male,Florida,2023-01-07,Regular,5,703.34,140.67,2025-03-25,Low
+C000265,70,Female,North Carolina,2024-12-07,Occasional,1,236.94,236.94,2025-03-19,High
+C000266,54,Male,California,2024-08-07,Premium,4,660.13,165.03,2024-10-24,Medium
+C000267,27,Male,Illinois,2023-12-31,Regular,2,96.91,48.45,2024-09-22,High
+C000268,32,Female,Illinois,2023-09-13,Premium,3,508.21,169.4,2025-01-02,High
+C000269,54,Male,California,2024-02-14,Occasional,4,697.93,174.48,2025-05-11,Medium
+C000270,29,Female,Michigan,2024-05-09,Premium,3,1743.67,581.22,2024-08-12,High
+C000271,37,Male,Michigan,2024-10-19,Regular,1,45.73,45.73,2025-03-08,Low
+C000272,67,Female,Pennsylvania,2023-02-27,Regular,5,909.95,181.99,2025-07-12,Medium
+C000273,67,Male,Michigan,2023-05-04,Premium,6,1566.66,261.11,2024-05-12,High
+C000274,42,Male,Illinois,2024-10-09,Occasional,1,197.21,197.21,2025-01-24,Low
+C000275,52,Male,Pennsylvania,2023-11-23,Occasional,3,915.33,305.11,2024-06-21,High
+C000276,27,Male,Ohio,2023-08-15,Regular,5,1140.88,228.18,2025-04-26,High
+C000277,50,Male,Florida,2024-08-12,Regular,3,379.23,126.41,2024-08-19,Medium
+C000278,27,Male,Pennsylvania,2024-02-08,Premium,3,314.03,104.68,2025-03-25,Medium
+C000279,65,Male,North Carolina,2024-08-08,Regular,4,879.04,219.76,2024-12-16,Medium
+C000280,43,Female,Texas,2023-03-29,Premium,7,1566.08,223.73,2024-03-28,Medium
+C000281,30,Female,Ohio,2024-07-26,Occasional,1,48.11,48.11,2024-09-26,High
+C000282,53,Male,Florida,2023-07-20,Premium,4,1300.89,325.22,2024-10-24,Medium
+C000283,38,Male,California,2024-03-16,Occasional,4,1798.21,449.55,2025-04-20,Medium
+C000284,41,Female,Florida,2024-03-09,Regular,5,1367.12,273.42,2024-09-09,Medium
+C000285,59,Male,Illinois,2024-08-31,Premium,1,138.22,138.22,2025-05-13,Medium
+C000286,70,Female,Michigan,2024-09-23,Premium,1,95.04,95.04,2025-04-23,Medium
+C000287,70,Male,Florida,2023-02-15,Occasional,10,2148.88,214.89,2025-01-09,Medium
+C000288,66,Male,California,2023-06-09,Occasional,4,1100.04,275.01,2023-11-24,Low
+C000289,57,Male,Illinois,2023-09-06,Premium,3,326.79,108.93,2023-10-24,Medium
+C000290,69,Male,Illinois,2024-12-11,Regular,0,0.0,0.0,,Medium
+C000291,39,Male,North Carolina,2023-01-24,Premium,2,280.25,140.12,2024-05-29,Low
+C000292,51,Female,North Carolina,2024-07-13,Regular,4,738.33,184.58,2024-11-13,High
+C000293,62,Male,Ohio,2023-05-25,Occasional,6,1471.81,245.3,2023-05-27,High
+C000294,20,Female,Texas,2024-06-23,Premium,2,125.8,62.9,2025-02-13,Medium
+C000295,68,Female,New York,2023-07-25,Regular,3,941.1,313.7,2025-05-09,High
+C000296,22,Female,Illinois,2023-01-09,Occasional,5,1603.75,320.75,2024-06-25,High
+C000297,24,Male,Illinois,2024-01-04,Occasional,2,253.29,126.64,2024-03-09,Medium
+C000298,42,Male,Pennsylvania,2023-08-25,Regular,6,989.19,164.87,2024-01-21,High
+C000299,23,Male,Florida,2024-06-28,Occasional,3,373.19,124.4,2024-07-31,Medium
+C000300,63,Male,New York,2024-07-28,Premium,5,827.05,165.41,2024-10-25,High
+C000301,39,Female,Ohio,2023-11-09,Occasional,3,678.68,226.23,2023-11-26,Low
+C000302,40,Female,Pennsylvania,2023-01-19,Occasional,5,515.02,103.0,2025-06-08,Medium
+C000303,50,Female,New York,2023-08-30,Occasional,7,1271.52,181.65,2024-01-10,Medium
+C000304,70,Male,North Carolina,2024-02-01,Regular,1,1089.81,1089.81,2024-09-24,Low
+C000305,39,Female,Texas,2023-06-05,Premium,4,340.16,85.04,2024-07-30,High
+C000306,51,Male,Ohio,2024-01-27,Premium,7,1799.16,257.02,2024-04-13,High
+C000307,45,Female,Michigan,2023-06-06,Regular,6,1412.61,235.43,2025-08-17,Medium
+C000308,26,Male,Texas,2024-07-09,Occasional,3,698.76,232.92,2025-07-05,High
+C000309,69,Male,Texas,2024-12-01,Regular,1,222.98,222.98,2025-05-05,High
+C000310,51,Male,Ohio,2024-12-23,Premium,1,439.1,439.1,2025-06-11,High
+C000311,28,Female,California,2024-08-01,Occasional,3,742.39,247.46,2024-08-10,High
+C000312,29,Female,Texas,2023-05-02,Occasional,7,1907.37,272.48,2023-07-08,Low
+C000313,44,Female,Illinois,2023-11-23,Regular,3,1464.98,488.33,2024-07-23,High
+C000314,65,Female,Texas,2024-10-14,Premium,1,274.04,274.04,2024-12-28,Low
+C000315,29,Male,Michigan,2023-05-15,Occasional,5,448.51,89.7,2025-06-17,Medium
+C000316,54,Male,Michigan,2024-09-12,Premium,2,268.37,134.18,2025-01-21,Low
+C000317,19,Female,California,2024-12-04,Occasional,3,732.05,244.02,2025-05-02,Medium
+C000318,50,Female,Pennsylvania,2023-05-18,Premium,4,616.39,154.1,2025-05-29,Medium
+C000319,48,Male,Texas,2024-05-18,Premium,5,1496.4,299.28,2024-10-27,Low
+C000320,44,Male,Illinois,2023-02-03,Regular,3,728.48,242.83,2024-05-07,Low
+C000321,30,Male,California,2024-11-18,Premium,6,1344.87,224.14,2025-07-03,Medium
+C000322,49,Female,Georgia,2024-09-23,Premium,1,192.82,192.82,2025-04-07,Medium
+C000323,67,Male,Michigan,2024-02-19,Occasional,4,336.48,84.12,2025-01-22,Medium
+C000324,43,Male,North Carolina,2023-11-17,Premium,0,0.0,0.0,,Medium
+C000325,70,Male,Florida,2024-04-12,Occasional,3,124.26,41.42,2025-03-18,High
+C000326,65,Male,North Carolina,2024-02-10,Regular,3,379.9,126.63,2024-12-08,High
+C000327,21,Male,Illinois,2024-10-07,Regular,2,825.37,412.69,2024-11-06,Medium
+C000328,67,Female,Georgia,2023-11-08,Premium,7,1465.2,209.31,2023-11-24,Medium
+C000329,57,Male,North Carolina,2023-10-29,Premium,6,1837.66,306.28,2024-07-17,Medium
+C000330,46,Male,North Carolina,2024-10-23,Premium,4,1200.09,300.02,2025-02-03,Low
+C000331,62,Male,Ohio,2024-08-22,Regular,2,437.83,218.92,2025-02-28,Medium
+C000332,19,Male,Georgia,2024-04-06,Occasional,4,1895.02,473.75,2025-04-08,High
+C000333,47,Male,Illinois,2023-07-26,Regular,2,424.94,212.47,2024-02-18,High
+C000334,63,Male,California,2024-10-26,Premium,1,35.97,35.97,2025-05-01,Low
+C000335,46,Female,California,2024-12-24,Occasional,1,855.7,855.7,2025-08-08,High
+C000336,64,Male,Ohio,2024-01-29,Occasional,3,798.45,266.15,2024-11-01,Medium
+C000337,67,Male,Pennsylvania,2023-02-14,Occasional,6,1370.6,228.43,2025-07-30,High
+C000338,28,Male,Texas,2023-06-03,Occasional,2,108.89,54.44,2023-10-13,Low
+C000339,37,Female,Georgia,2024-03-05,Regular,3,1168.68,389.56,2025-03-19,High
+C000340,25,Male,Florida,2023-07-05,Premium,10,2179.66,217.97,2025-08-19,High
+C000341,18,Female,Georgia,2023-09-17,Regular,5,2441.04,488.21,2024-08-16,High
+C000342,56,Female,Florida,2023-01-06,Premium,4,677.05,169.26,2024-11-04,High
+C000343,48,Female,Ohio,2024-11-06,Regular,3,1071.27,357.09,2025-06-09,Low
+C000344,56,Male,Florida,2024-09-07,Occasional,4,1012.38,253.1,2025-04-11,Medium
+C000345,58,Male,New York,2024-09-26,Premium,0,0.0,0.0,,Low
+C000346,59,Female,New York,2023-02-26,Premium,6,1662.17,277.03,2024-03-11,Low
+C000347,54,Female,Pennsylvania,2024-11-14,Premium,1,175.35,175.35,2025-02-12,Low
+C000348,44,Male,Texas,2023-04-22,Occasional,8,4040.51,505.06,2025-08-22,Medium
+C000349,60,Male,Georgia,2024-09-17,Occasional,5,466.85,93.37,2025-01-09,High
+C000350,20,Male,Illinois,2024-01-04,Regular,5,989.89,197.98,2024-11-02,Medium
+C000351,70,Male,Ohio,2024-01-24,Occasional,1,22.67,22.67,2024-02-14,Low
+C000352,48,Male,California,2023-10-27,Occasional,4,1444.93,361.23,2024-11-17,Medium
+C000353,51,Female,North Carolina,2023-12-04,Premium,5,1643.09,328.62,2025-05-24,High
+C000354,57,Male,California,2023-08-03,Occasional,4,534.52,133.63,2025-01-09,High
+C000355,51,Male,Georgia,2024-10-06,Occasional,1,23.26,23.26,2025-02-23,High
+C000356,68,Female,Ohio,2024-09-11,Occasional,1,75.22,75.22,2025-06-14,Medium
+C000357,51,Female,Texas,2023-09-23,Occasional,3,179.73,59.91,2024-05-22,High
+C000358,51,Female,Georgia,2024-05-23,Premium,1,543.33,543.33,2025-07-31,High
+C000359,63,Female,Florida,2023-08-27,Premium,3,404.77,134.92,2023-12-20,Low
+C000360,47,Male,Florida,2023-01-25,Occasional,6,912.83,152.14,2023-04-13,Medium
+C000361,20,Female,Pennsylvania,2024-02-28,Occasional,2,509.11,254.56,2024-08-20,High
+C000362,18,Male,Illinois,2023-08-06,Regular,5,325.26,65.05,2024-04-09,Low
+C000363,37,Female,New York,2023-11-12,Premium,2,332.14,166.07,2025-01-25,High
+C000364,39,Female,Michigan,2023-12-08,Occasional,4,1264.87,316.22,2024-09-18,Low
+C000365,30,Female,Pennsylvania,2023-06-29,Occasional,3,730.73,243.58,2024-10-06,Medium
+C000366,69,Male,Texas,2024-04-30,Regular,3,845.08,281.69,2024-05-25,Low
+C000367,47,Female,Georgia,2024-10-04,Regular,4,623.96,155.99,2024-11-18,High
+C000368,51,Female,Michigan,2023-02-27,Occasional,4,935.1,233.78,2023-06-10,High
+C000369,53,Male,Florida,2023-11-20,Occasional,4,603.73,150.93,2024-11-17,High
+C000370,69,Female,California,2023-12-06,Premium,4,1283.07,320.77,2024-06-22,Medium
+C000371,39,Female,North Carolina,2023-02-01,Premium,5,2129.54,425.91,2023-12-21,High
+C000372,42,Male,Michigan,2024-09-12,Premium,1,327.89,327.89,2025-07-25,Medium
+C000373,38,Male,Illinois,2024-12-23,Regular,1,77.66,77.66,2025-01-20,Low
+C000374,33,Female,Georgia,2024-05-23,Regular,2,968.43,484.22,2024-08-05,Low
+C000375,37,Male,California,2024-06-21,Regular,6,1702.91,283.82,2024-12-11,Low
+C000376,23,Female,North Carolina,2023-07-26,Premium,8,1786.79,223.35,2024-02-02,Medium
+C000377,27,Male,Pennsylvania,2024-05-27,Regular,1,324.74,324.74,2025-04-06,High
+C000378,37,Female,Texas,2024-06-20,Premium,4,344.6,86.15,2024-11-11,High
+C000379,26,Male,New York,2024-11-23,Regular,3,1201.48,400.49,2024-11-30,Medium
+C000380,51,Male,New York,2024-12-31,Regular,2,127.33,63.67,2025-05-20,Low
+C000381,56,Male,Pennsylvania,2024-12-04,Regular,1,349.92,349.92,2025-05-15,Low
+C000382,51,Female,New York,2023-04-16,Occasional,4,1830.17,457.54,2025-07-30,Medium
+C000383,31,Female,Florida,2024-10-16,Premium,2,1164.57,582.29,2025-08-01,Medium
+C000384,52,Female,Georgia,2023-10-11,Occasional,2,354.01,177.0,2023-11-30,Low
+C000385,27,Male,Illinois,2023-10-07,Premium,3,489.73,163.24,2024-10-01,Low
+C000386,53,Male,Florida,2024-09-29,Occasional,2,59.4,29.7,2024-12-05,Medium
+C000387,38,Female,Texas,2024-07-16,Occasional,5,208.68,41.74,2025-04-02,Medium
+C000388,33,Male,California,2024-08-10,Regular,2,124.13,62.07,2025-01-01,High
+C000389,52,Female,New York,2023-12-13,Premium,6,3354.05,559.01,2024-10-11,Low
+C000390,61,Male,California,2024-04-27,Regular,4,1069.21,267.3,2024-07-21,Low
+C000391,45,Female,Texas,2023-03-30,Occasional,4,431.27,107.82,2024-06-22,High
+C000392,58,Female,Michigan,2024-08-29,Regular,5,777.25,155.45,2025-02-20,Medium
+C000393,70,Male,North Carolina,2023-12-07,Premium,3,254.78,84.93,2024-10-16,Medium
+C000394,26,Male,Georgia,2024-08-04,Premium,3,334.18,111.39,2025-05-09,Medium
+C000395,61,Female,Georgia,2023-11-14,Premium,2,905.04,452.52,2024-08-01,Low
+C000396,57,Female,Pennsylvania,2023-05-28,Regular,5,1080.15,216.03,2023-08-24,Low
+C000397,60,Female,Pennsylvania,2024-12-17,Regular,0,0.0,0.0,,Medium
+C000398,22,Female,California,2023-01-31,Regular,5,650.32,130.06,2023-08-02,Medium
+C000399,28,Female,Pennsylvania,2024-04-17,Occasional,1,163.48,163.48,2025-04-15,High
+C000400,50,Male,Ohio,2023-05-11,Occasional,7,2181.2,311.6,2025-01-10,Low
+C000401,53,Male,Illinois,2023-11-30,Occasional,4,617.95,154.49,2025-07-08,Medium
+C000402,55,Female,Florida,2024-02-15,Occasional,5,996.95,199.39,2024-08-22,Low
+C000403,28,Female,Ohio,2024-07-15,Premium,4,990.07,247.52,2025-05-23,Medium
+C000404,70,Female,Ohio,2023-08-02,Occasional,3,758.04,252.68,2024-05-14,Medium
+C000405,62,Male,Texas,2024-07-11,Occasional,1,36.66,36.66,2024-08-25,High
+C000406,65,Female,California,2023-03-21,Occasional,6,1213.25,202.21,2024-11-27,High
+C000407,38,Male,Georgia,2024-04-19,Premium,3,1165.31,388.44,2025-02-13,Medium
+C000408,22,Male,Michigan,2024-02-20,Regular,2,336.62,168.31,2024-12-08,Medium
+C000409,59,Male,California,2024-05-21,Premium,1,456.29,456.29,2024-10-02,Low
+C000410,66,Male,Texas,2024-08-17,Occasional,1,132.64,132.64,2025-07-23,Low
+C000411,52,Female,Ohio,2024-04-08,Occasional,5,441.1,88.22,2025-01-12,High
+C000412,30,Male,Pennsylvania,2024-04-02,Regular,4,163.98,40.99,2024-10-02,High
+C000413,37,Female,Pennsylvania,2024-11-26,Premium,2,710.55,355.28,2025-01-08,High
+C000414,57,Female,Texas,2023-01-09,Regular,4,1511.53,377.88,2023-04-23,Low
+C000415,53,Male,New York,2024-01-14,Occasional,3,2299.68,766.56,2025-02-06,High
+C000416,25,Female,New York,2024-01-03,Premium,3,123.85,41.28,2025-02-26,Medium
+C000417,55,Female,Pennsylvania,2024-12-20,Occasional,0,0.0,0.0,,Medium
+C000418,42,Female,North Carolina,2024-02-20,Premium,3,1035.93,345.31,2025-02-10,High
+C000419,48,Male,Florida,2023-06-27,Occasional,4,1279.11,319.78,2024-01-02,Medium
+C000420,44,Male,Illinois,2024-01-04,Occasional,3,2387.9,795.97,2024-12-23,Low
+C000421,18,Male,New York,2023-05-18,Premium,7,704.44,100.63,2024-04-30,High
+C000422,60,Female,Texas,2024-05-13,Premium,2,1670.84,835.42,2025-05-18,Low
+C000423,69,Female,Georgia,2024-10-19,Occasional,1,1163.88,1163.88,2025-03-14,High
+C000424,57,Male,Georgia,2024-03-11,Occasional,3,911.34,303.78,2025-06-16,Medium
+C000425,70,Female,Ohio,2024-07-19,Regular,1,607.06,607.06,2024-12-02,Low
+C000426,45,Male,Michigan,2023-07-10,Regular,6,1318.28,219.71,2024-04-01,High
+C000427,63,Female,Ohio,2023-08-31,Occasional,3,1698.32,566.11,2025-06-16,High
+C000428,20,Male,Michigan,2024-01-11,Regular,3,548.77,182.92,2024-10-29,High
+C000429,25,Female,California,2024-01-13,Premium,4,697.12,174.28,2024-04-14,High
+C000430,66,Female,Georgia,2024-06-23,Occasional,1,138.22,138.22,2024-07-30,Low
+C000431,57,Male,Florida,2024-06-19,Regular,1,120.54,120.54,2024-10-25,High
+C000432,60,Male,North Carolina,2024-11-10,Occasional,2,3561.94,1780.97,2025-01-10,Medium
+C000433,21,Female,North Carolina,2024-09-19,Premium,3,451.61,150.54,2024-11-18,Medium
+C000434,50,Female,Michigan,2024-04-09,Occasional,2,511.14,255.57,2024-10-22,Medium
+C000435,40,Female,Illinois,2024-03-07,Premium,3,1318.07,439.36,2024-05-30,Low
+C000436,56,Female,Michigan,2024-12-12,Regular,2,1448.2,724.1,2025-06-07,Low
+C000437,48,Male,Michigan,2024-10-06,Premium,0,0.0,0.0,,High
+C000438,69,Male,Illinois,2023-10-26,Regular,3,581.69,193.9,2025-08-05,Low
+C000439,50,Male,Illinois,2023-05-10,Regular,8,1147.0,143.37,2025-05-06,Low
+C000440,35,Female,Illinois,2024-09-22,Premium,3,958.64,319.55,2025-01-02,High
+C000441,56,Male,Michigan,2023-04-25,Occasional,10,5984.45,598.44,2023-10-04,Low
+C000442,46,Female,Texas,2024-11-05,Regular,3,456.27,152.09,2025-04-25,High
+C000443,49,Male,North Carolina,2023-08-30,Premium,2,162.62,81.31,2024-01-21,Medium
+C000444,27,Male,Georgia,2023-03-28,Regular,5,1187.61,237.52,2025-01-01,Medium
+C000445,60,Female,Texas,2023-09-01,Premium,5,1883.11,376.62,2024-11-28,High
+C000446,21,Female,California,2023-12-20,Premium,3,1084.35,361.45,2025-03-25,Low
+C000447,43,Female,Illinois,2024-04-20,Regular,2,68.74,34.37,2024-12-12,High
+C000448,32,Female,Ohio,2024-06-29,Regular,2,201.53,100.76,2024-11-01,Medium
+C000449,51,Female,New York,2023-05-29,Regular,8,1687.93,210.99,2025-01-06,Medium
+C000450,61,Female,North Carolina,2024-01-27,Occasional,2,398.07,199.03,2025-02-03,Low
+C000451,52,Female,Ohio,2023-04-10,Occasional,5,5389.52,1077.9,2024-08-09,High
+C000452,39,Female,Illinois,2023-10-07,Premium,3,716.06,238.69,2024-04-07,Medium
+C000453,55,Female,Georgia,2024-11-01,Occasional,2,1192.28,596.14,2025-07-22,High
+C000454,64,Male,North Carolina,2023-09-05,Regular,3,188.67,62.89,2024-07-22,High
+C000455,29,Female,North Carolina,2024-12-07,Premium,2,351.74,175.87,2025-04-28,High
+C000456,22,Male,Ohio,2023-01-09,Premium,6,1130.07,188.35,2024-09-26,High
+C000457,61,Female,Pennsylvania,2023-04-17,Premium,5,818.84,163.77,2024-06-20,High
+C000458,34,Male,New York,2023-10-18,Premium,5,1036.72,207.34,2025-08-19,High
+C000459,21,Male,Michigan,2023-04-05,Occasional,3,357.4,119.13,2023-06-05,Low
+C000460,25,Male,Michigan,2024-12-26,Premium,2,88.51,44.26,2025-02-20,Medium
+C000461,66,Male,California,2024-11-03,Occasional,1,333.68,333.68,2024-12-25,Low
+C000462,36,Female,California,2023-09-17,Occasional,4,1285.9,321.48,2024-08-03,Medium
+C000463,67,Female,Pennsylvania,2023-10-11,Regular,1,1704.01,1704.01,2024-06-06,Low
+C000464,35,Male,Ohio,2023-03-17,Regular,3,326.14,108.71,2024-12-10,Medium
+C000465,34,Female,Texas,2023-03-03,Regular,3,473.49,157.83,2024-02-26,Low
+C000466,30,Female,Texas,2024-05-18,Occasional,4,1029.41,257.35,2025-04-15,Medium
+C000467,27,Female,Florida,2023-04-22,Occasional,6,1004.66,167.44,2025-05-28,High
+C000468,46,Female,California,2023-04-19,Premium,6,1770.11,295.02,2023-12-05,Low
+C000469,54,Female,Georgia,2023-03-14,Premium,6,553.03,92.17,2024-09-29,Medium
+C000470,59,Male,New York,2023-06-02,Occasional,4,1325.54,331.38,2024-10-27,Medium
+C000471,27,Female,Ohio,2023-09-30,Occasional,3,366.63,122.21,2023-12-20,Low
+C000472,63,Female,Georgia,2024-06-11,Regular,1,212.12,212.12,2025-02-06,Medium
+C000473,52,Male,New York,2023-03-13,Regular,3,295.9,98.63,2025-04-08,High
+C000474,25,Female,Pennsylvania,2024-05-08,Occasional,3,1146.84,382.28,2024-08-25,Medium
+C000475,21,Male,Pennsylvania,2024-02-15,Occasional,2,716.46,358.23,2024-02-22,Medium
+C000476,47,Female,Florida,2023-03-24,Premium,7,1469.33,209.9,2023-12-04,High
+C000477,42,Male,Illinois,2023-02-10,Occasional,11,2950.65,268.24,2023-02-21,Medium
+C000478,58,Female,Georgia,2023-04-20,Premium,9,2719.33,302.15,2024-07-13,High
+C000479,65,Male,Texas,2024-03-24,Premium,7,1104.77,157.82,2025-05-02,Low
+C000480,64,Male,Georgia,2023-01-26,Regular,9,2129.56,236.62,2024-10-29,Low
+C000481,59,Female,Georgia,2024-07-07,Occasional,5,1395.29,279.06,2024-10-06,Medium
+C000482,20,Female,New York,2023-01-17,Regular,6,658.6,109.77,2025-03-10,High
+C000483,43,Male,Florida,2023-02-13,Occasional,8,2175.71,271.96,2023-03-17,High
+C000484,47,Male,Michigan,2024-06-19,Premium,3,579.52,193.17,2025-07-02,Low
+C000485,65,Male,Georgia,2023-02-07,Occasional,3,1101.41,367.14,2023-07-02,Low
+C000486,57,Male,Florida,2024-04-27,Occasional,2,562.18,281.09,2024-10-16,High
+C000487,18,Male,New York,2023-05-14,Regular,6,1589.58,264.93,2024-02-07,Low
+C000488,57,Male,Michigan,2024-04-12,Premium,3,596.65,198.88,2024-11-06,Low
+C000489,49,Male,California,2023-04-27,Premium,5,241.98,48.4,2023-07-25,Medium
+C000490,69,Female,Pennsylvania,2023-12-12,Premium,4,1081.21,270.3,2025-08-10,High
+C000491,52,Male,Pennsylvania,2024-08-12,Premium,1,177.64,177.64,2024-12-12,Low
+C000492,29,Female,California,2024-08-30,Premium,1,59.19,59.19,2025-07-17,Medium
+C000493,66,Female,Texas,2023-05-25,Occasional,5,506.27,101.25,2023-12-03,Medium
+C000494,28,Female,Florida,2024-07-20,Occasional,4,1623.25,405.81,2025-04-20,Low
+C000495,24,Female,Texas,2023-05-17,Premium,6,1753.27,292.21,2024-06-13,Medium
+C000496,18,Male,Texas,2023-03-24,Premium,4,1084.41,271.1,2024-05-14,High
+C000497,55,Female,Ohio,2024-10-29,Occasional,2,73.01,36.51,2025-08-09,Medium
+C000498,26,Male,Texas,2024-12-09,Occasional,2,1322.29,661.14,2025-06-18,Medium
+C000499,46,Female,Florida,2024-06-19,Premium,4,1372.65,343.16,2024-12-08,High
+C000500,20,Male,Georgia,2024-12-09,Occasional,1,583.22,583.22,2025-02-25,Low
+C000501,70,Female,Pennsylvania,2024-10-04,Regular,4,1647.22,411.8,2025-05-20,Low
+C000502,33,Male,California,2024-07-25,Occasional,1,471.82,471.82,2025-03-01,Low
+C000503,41,Male,Georgia,2024-09-25,Occasional,2,1134.29,567.14,2025-02-28,High
+C000504,35,Male,Florida,2023-08-02,Premium,3,590.26,196.75,2023-11-27,Low
+C000505,48,Female,Texas,2024-12-02,Premium,1,126.9,126.9,2025-08-13,High
+C000506,21,Female,Illinois,2023-02-14,Premium,7,1978.35,282.62,2024-11-20,Medium
+C000507,39,Female,New York,2023-09-15,Premium,6,1558.7,259.78,2024-12-01,High
+C000508,52,Male,Texas,2023-02-23,Premium,5,307.76,61.55,2023-11-29,Medium
+C000509,25,Male,Florida,2024-06-11,Occasional,1,385.75,385.75,2024-11-20,Medium
+C000510,55,Female,Ohio,2024-08-29,Premium,3,1032.74,344.25,2024-10-26,High
+C000511,38,Male,California,2024-11-24,Regular,0,0.0,0.0,,Low
+C000512,33,Female,Florida,2023-04-11,Regular,2,142.42,71.21,2025-05-12,Low
+C000513,48,Female,New York,2023-03-17,Regular,4,617.37,154.34,2024-11-24,Low
+C000514,57,Female,Texas,2023-08-10,Regular,4,675.06,168.76,2025-02-21,Medium
+C000515,47,Male,Pennsylvania,2023-05-20,Regular,9,2110.08,234.45,2025-06-05,Low
+C000516,26,Male,Michigan,2023-12-10,Premium,4,1513.36,378.34,2024-06-22,Medium
+C000517,25,Female,Georgia,2023-05-20,Regular,5,1736.24,347.25,2023-08-11,Low
+C000518,32,Female,Michigan,2023-12-18,Premium,5,1048.57,209.71,2024-11-03,High
+C000519,28,Male,California,2024-09-18,Regular,0,0.0,0.0,,High
+C000520,31,Female,Georgia,2024-05-15,Regular,1,23.08,23.08,2025-05-22,Low
+C000521,65,Male,Florida,2024-03-14,Regular,7,1291.02,184.43,2024-10-05,Medium
+C000522,32,Male,Michigan,2024-08-16,Premium,1,119.12,119.12,2024-12-29,Medium
+C000523,20,Female,North Carolina,2023-02-15,Premium,9,2513.7,279.3,2025-02-25,Medium
+C000524,43,Female,California,2024-06-27,Regular,4,950.5,237.62,2024-07-05,Medium
+C000525,23,Male,Ohio,2023-09-04,Premium,4,938.14,234.53,2024-02-23,Low
+C000526,36,Male,California,2024-01-03,Premium,4,1212.07,303.02,2025-05-22,Medium
+C000527,37,Male,Georgia,2024-11-16,Occasional,5,1222.85,244.57,2025-03-03,High
+C000528,19,Female,Georgia,2024-08-20,Premium,3,1406.68,468.89,2025-06-11,High
+C000529,29,Female,Georgia,2024-02-20,Occasional,5,764.63,152.93,2025-03-01,High
+C000530,58,Male,Ohio,2023-01-02,Occasional,5,3365.3,673.06,2025-07-05,Medium
+C000531,20,Female,Ohio,2024-06-27,Regular,2,595.74,297.87,2024-07-14,High
+C000532,52,Male,California,2024-09-19,Occasional,2,335.0,167.5,2025-04-09,Medium
+C000533,50,Female,New York,2023-02-26,Premium,8,2972.23,371.53,2025-01-22,Medium
+C000534,47,Male,Pennsylvania,2024-01-10,Regular,1,1165.49,1165.49,2025-07-21,Low
+C000535,53,Male,North Carolina,2024-10-25,Occasional,1,38.48,38.48,2025-07-12,Low
+C000536,39,Male,North Carolina,2023-05-22,Premium,5,572.41,114.48,2025-06-08,High
+C000537,65,Male,Florida,2024-05-04,Regular,3,414.95,138.32,2025-04-10,Medium
+C000538,50,Female,Illinois,2023-10-01,Premium,3,449.74,149.91,2024-08-17,Low
+C000539,40,Female,Georgia,2024-01-17,Occasional,1,101.67,101.67,2024-11-07,High
+C000540,48,Female,Georgia,2023-05-06,Occasional,5,1640.09,328.02,2024-10-21,Medium
+C000541,62,Male,Florida,2024-11-20,Regular,0,0.0,0.0,,Low
+C000542,43,Male,Illinois,2023-03-24,Premium,11,2188.53,198.96,2024-01-10,Low
+C000543,35,Male,Texas,2023-06-18,Regular,5,4000.49,800.1,2024-10-06,Low
+C000544,51,Male,Illinois,2023-07-29,Regular,3,594.85,198.28,2024-02-03,High
+C000545,26,Female,Pennsylvania,2024-07-08,Regular,2,754.29,377.15,2025-02-17,Medium
+C000546,19,Female,Florida,2024-10-22,Premium,1,86.23,86.23,2024-10-23,Low
+C000547,51,Female,Ohio,2023-08-26,Occasional,9,1360.7,151.19,2025-07-20,Medium
+C000548,59,Female,Georgia,2024-11-02,Occasional,1,217.16,217.16,2025-04-14,High
+C000549,51,Female,Georgia,2024-12-14,Regular,2,517.23,258.62,2025-07-25,High
+C000550,68,Female,Texas,2023-05-16,Regular,3,419.44,139.81,2024-04-18,Low
+C000551,41,Female,New York,2024-05-10,Premium,2,334.32,167.16,2024-12-30,Medium
+C000552,47,Male,Michigan,2023-10-19,Premium,0,0.0,0.0,,High
+C000553,36,Male,Texas,2024-07-02,Occasional,5,378.57,75.71,2025-04-05,High
+C000554,68,Male,Texas,2024-11-13,Premium,1,332.21,332.21,2025-02-24,Low
+C000555,38,Male,Georgia,2023-02-12,Regular,3,1149.49,383.16,2023-07-14,Medium
+C000556,31,Male,Pennsylvania,2023-07-08,Regular,4,1357.91,339.48,2024-07-04,Low
+C000557,46,Male,North Carolina,2024-01-17,Regular,4,1155.99,289.0,2025-07-08,Low
+C000558,43,Female,Texas,2023-01-26,Regular,5,2837.23,567.45,2023-11-26,Medium
+C000559,18,Female,Illinois,2023-06-09,Regular,6,1097.37,182.9,2023-08-10,Medium
+C000560,60,Male,Michigan,2024-08-10,Occasional,2,541.25,270.62,2024-11-22,Medium
+C000561,62,Male,Georgia,2023-12-13,Premium,4,871.59,217.9,2023-12-26,Low
+C000562,53,Male,Illinois,2024-11-25,Premium,1,120.5,120.5,2024-12-12,Medium
+C000563,32,Female,Pennsylvania,2024-09-24,Premium,0,0.0,0.0,,Medium
+C000564,56,Male,Michigan,2023-02-26,Occasional,4,708.39,177.1,2025-07-27,Low
+C000565,30,Male,California,2023-10-12,Occasional,0,0.0,0.0,,Medium
+C000566,60,Male,North Carolina,2024-11-24,Regular,3,726.49,242.16,2025-04-18,Low
+C000567,38,Male,Pennsylvania,2024-05-17,Regular,2,313.64,156.82,2024-08-19,Low
+C000568,41,Female,Pennsylvania,2024-03-13,Premium,1,125.68,125.68,2024-03-26,Medium
+C000569,40,Female,Georgia,2023-12-20,Occasional,3,274.14,91.38,2024-08-02,Low
+C000570,64,Female,Ohio,2023-08-09,Regular,6,516.18,86.03,2023-10-26,Medium
+C000571,69,Female,Ohio,2023-06-17,Premium,6,1012.41,168.73,2024-02-27,High
+C000572,23,Male,Florida,2024-09-04,Regular,1,43.9,43.9,2024-10-01,Medium
+C000573,39,Male,Michigan,2024-06-21,Regular,2,420.58,210.29,2024-12-13,Low
+C000574,44,Female,Ohio,2023-01-07,Premium,5,1117.75,223.55,2025-07-01,High
+C000575,63,Male,Florida,2024-04-18,Premium,0,0.0,0.0,,Medium
+C000576,53,Female,New York,2023-10-24,Regular,7,1844.3,263.47,2024-02-15,High
+C000577,49,Female,Florida,2023-11-08,Premium,5,255.37,51.07,2024-02-07,Low
+C000578,34,Female,Georgia,2023-06-07,Premium,6,1749.16,291.53,2024-04-13,High
+C000579,36,Female,Texas,2024-11-12,Regular,2,346.01,173.0,2025-02-17,High
+C000580,33,Male,California,2024-10-22,Regular,2,449.73,224.87,2024-12-25,Medium
+C000581,56,Female,Michigan,2023-03-10,Regular,7,2325.19,332.17,2024-12-19,High
+C000582,34,Female,California,2024-03-22,Regular,3,1053.09,351.03,2024-06-30,High
+C000583,19,Female,Texas,2024-08-12,Occasional,2,589.66,294.83,2024-11-16,Low
+C000584,38,Female,Texas,2023-05-30,Regular,3,297.3,99.1,2023-12-27,Low
+C000585,35,Female,Ohio,2023-02-24,Occasional,4,787.77,196.94,2023-04-06,Medium
+C000586,36,Female,North Carolina,2023-02-19,Occasional,10,1475.31,147.53,2025-06-27,Low
+C000587,30,Male,California,2024-06-10,Occasional,4,1130.01,282.5,2025-06-14,Low
+C000588,38,Female,Illinois,2024-07-10,Regular,3,1228.14,409.38,2024-09-19,High
+C000589,62,Female,California,2024-12-15,Occasional,2,71.98,35.99,2025-03-10,High
+C000590,70,Male,New York,2023-12-27,Premium,7,733.76,104.82,2024-07-08,High
+C000591,41,Female,Ohio,2023-10-16,Regular,4,859.11,214.78,2024-07-01,Low
+C000592,31,Male,North Carolina,2023-04-15,Premium,4,1493.18,373.29,2024-04-25,Low
+C000593,57,Male,Ohio,2024-07-26,Regular,4,917.11,229.28,2024-09-27,Low
+C000594,70,Male,New York,2023-04-30,Regular,3,1190.61,396.87,2024-10-27,Medium
+C000595,62,Female,Texas,2023-11-16,Regular,4,373.51,93.38,2024-10-06,High
+C000596,66,Female,Texas,2024-06-19,Occasional,2,717.22,358.61,2024-11-04,Medium
+C000597,65,Male,Florida,2023-01-30,Premium,4,3466.63,866.66,2024-07-13,High
+C000598,62,Male,Illinois,2023-05-26,Premium,2,878.09,439.05,2025-04-22,Low
+C000599,23,Female,California,2023-05-14,Premium,6,1309.57,218.26,2025-06-29,Low
+C000600,66,Female,New York,2024-05-10,Premium,4,620.21,155.05,2024-10-03,Low
+C000601,68,Male,Georgia,2023-02-03,Premium,7,1427.25,203.89,2024-12-09,Medium
+C000602,22,Female,New York,2023-02-14,Premium,4,499.02,124.75,2025-08-11,Low
+C000603,31,Male,Texas,2024-09-08,Occasional,2,147.53,73.76,2025-05-06,Medium
+C000604,23,Male,Illinois,2023-01-30,Occasional,7,1087.58,155.37,2024-03-06,Medium
+C000605,28,Male,North Carolina,2023-12-27,Occasional,4,503.88,125.97,2024-01-25,Low
+C000606,70,Male,North Carolina,2023-04-12,Premium,6,840.15,140.02,2025-08-06,High
+C000607,36,Male,North Carolina,2023-07-16,Premium,3,692.36,230.79,2024-07-23,High
+C000608,31,Female,Pennsylvania,2023-04-12,Occasional,1,274.81,274.81,2024-08-07,High
+C000609,46,Male,Texas,2023-07-09,Regular,1,119.28,119.28,2024-08-23,Medium
+C000610,31,Male,Ohio,2024-03-10,Premium,3,881.72,293.91,2024-03-26,Medium
+C000611,47,Male,North Carolina,2023-05-07,Premium,6,1410.71,235.12,2023-08-18,Medium
+C000612,63,Female,North Carolina,2024-01-05,Occasional,3,462.86,154.29,2024-10-13,Low
+C000613,38,Female,California,2023-03-26,Regular,1,45.88,45.88,2024-08-05,Medium
+C000614,56,Female,Georgia,2024-04-12,Premium,2,205.05,102.53,2024-06-30,High
+C000615,36,Female,Florida,2024-02-22,Premium,2,299.66,149.83,2025-01-13,Medium
+C000616,41,Male,New York,2024-11-26,Occasional,3,1390.28,463.43,2025-02-16,Medium
+C000617,24,Female,Georgia,2024-11-19,Occasional,1,83.91,83.91,2025-01-26,High
+C000618,23,Male,Texas,2024-11-23,Regular,1,487.51,487.51,2025-06-20,Medium
+C000619,55,Male,Texas,2024-12-12,Premium,3,601.1,200.37,2025-07-21,Medium
+C000620,39,Male,Michigan,2023-07-23,Regular,5,1431.36,286.27,2024-02-29,Low
+C000621,45,Female,Illinois,2023-08-27,Occasional,3,934.15,311.38,2024-05-18,High
+C000622,35,Female,Pennsylvania,2024-08-30,Regular,2,625.57,312.79,2025-08-07,High
+C000623,43,Female,North Carolina,2024-09-09,Regular,1,697.45,697.45,2024-10-29,Low
+C000624,24,Male,Illinois,2024-04-10,Regular,0,0.0,0.0,,Medium
+C000625,58,Male,New York,2023-08-25,Premium,5,549.43,109.89,2025-03-17,High
+C000626,22,Female,New York,2023-02-24,Premium,3,786.38,262.13,2024-11-18,Medium
+C000627,61,Female,Texas,2024-09-11,Regular,2,263.42,131.71,2024-11-08,High
+C000628,24,Male,North Carolina,2024-09-30,Regular,0,0.0,0.0,,Medium
+C000629,36,Female,Georgia,2023-07-26,Occasional,5,1564.48,312.9,2024-01-10,Medium
+C000630,39,Male,New York,2024-07-09,Regular,3,378.61,126.2,2025-03-02,Low
+C000631,46,Female,Ohio,2024-01-28,Regular,6,2286.46,381.08,2025-01-30,Medium
+C000632,20,Male,North Carolina,2023-02-06,Occasional,6,1126.52,187.75,2024-10-08,Medium
+C000633,28,Female,Ohio,2024-12-24,Premium,2,851.48,425.74,2025-04-24,Medium
+C000634,49,Male,Michigan,2024-02-03,Occasional,2,512.12,256.06,2024-07-04,Medium
+C000635,53,Female,Georgia,2024-11-06,Occasional,1,21.9,21.9,2025-01-02,Low
+C000636,21,Female,Illinois,2024-06-02,Regular,5,1371.56,274.31,2025-05-13,High
+C000637,57,Female,Illinois,2024-01-22,Regular,3,1624.18,541.39,2024-07-11,Low
+C000638,55,Male,Texas,2023-01-29,Regular,4,615.99,154.0,2024-06-13,Medium
+C000639,19,Female,Ohio,2024-08-20,Premium,1,154.18,154.18,2025-07-29,Medium
+C000640,40,Female,Pennsylvania,2023-12-20,Premium,4,306.85,76.71,2024-08-24,High
+C000641,33,Male,Illinois,2023-09-08,Occasional,2,3088.13,1544.07,2025-06-15,Low
+C000642,22,Female,California,2024-12-05,Regular,3,383.74,127.91,2025-06-06,Low
+C000643,52,Female,New York,2023-01-21,Regular,3,537.54,179.18,2024-06-14,High
+C000644,54,Female,Illinois,2024-03-08,Premium,2,157.92,78.96,2024-07-08,High
+C000645,55,Male,Pennsylvania,2024-04-25,Regular,5,608.18,121.64,2025-07-06,High
+C000646,38,Male,Georgia,2024-02-04,Premium,4,534.66,133.66,2025-01-11,High
+C000647,31,Female,Georgia,2024-11-22,Occasional,4,373.48,93.37,2025-05-01,High
+C000648,28,Female,Pennsylvania,2023-12-14,Regular,5,781.87,156.37,2025-04-20,Low
+C000649,58,Male,North Carolina,2024-05-23,Premium,5,1691.25,338.25,2025-02-05,Medium
+C000650,21,Female,Michigan,2023-09-29,Regular,4,1023.56,255.89,2025-03-21,Low
+C000651,65,Male,Michigan,2024-10-01,Premium,0,0.0,0.0,,High
+C000652,35,Male,Michigan,2023-12-11,Occasional,9,4277.78,475.31,2024-04-18,Medium
+C000653,31,Female,California,2024-03-13,Occasional,3,1310.22,436.74,2025-06-06,Medium
+C000654,69,Female,Ohio,2024-05-31,Occasional,2,451.48,225.74,2025-02-26,High
+C000655,30,Female,Ohio,2023-11-17,Regular,4,1164.17,291.04,2025-03-16,High
+C000656,47,Male,New York,2024-06-11,Occasional,4,761.6,190.4,2025-06-27,High
+C000657,29,Female,Florida,2024-06-12,Occasional,3,296.78,98.93,2024-07-13,High
+C000658,35,Female,Michigan,2024-04-23,Occasional,4,789.9,197.47,2024-09-30,High
+C000659,51,Male,Pennsylvania,2023-03-03,Regular,5,3156.83,631.37,2024-12-21,Low
+C000660,27,Female,Ohio,2023-09-04,Regular,3,227.36,75.79,2024-01-29,Medium
+C000661,58,Male,Ohio,2023-03-07,Regular,2,456.57,228.29,2023-03-30,Medium
+C000662,28,Female,Michigan,2024-10-23,Premium,2,106.45,53.22,2024-12-26,Medium
+C000663,25,Male,Florida,2023-09-02,Premium,5,737.76,147.55,2024-04-10,Low
+C000664,47,Female,North Carolina,2023-11-14,Regular,3,591.19,197.06,2025-05-11,Medium
+C000665,20,Male,Texas,2024-10-24,Regular,1,62.43,62.43,2024-12-25,Low
+C000666,34,Female,North Carolina,2023-01-30,Premium,4,1227.39,306.85,2024-05-10,High
+C000667,64,Female,New York,2023-02-13,Premium,6,2000.75,333.46,2025-08-08,Low
+C000668,56,Female,California,2023-11-18,Regular,9,1147.44,127.49,2024-01-29,Medium
+C000669,60,Male,Ohio,2024-11-18,Occasional,1,46.76,46.76,2025-06-11,Low
+C000670,25,Male,North Carolina,2023-08-30,Occasional,5,977.97,195.59,2024-05-16,High
+C000671,34,Female,California,2024-06-21,Premium,3,911.02,303.67,2025-07-05,High
+C000672,67,Female,Pennsylvania,2023-05-06,Occasional,6,1844.34,307.39,2023-10-30,High
+C000673,69,Male,Ohio,2024-02-04,Premium,4,916.2,229.05,2025-01-18,Low
+C000674,29,Male,Illinois,2023-04-20,Regular,4,1401.15,350.29,2024-04-16,Medium
+C000675,55,Male,Georgia,2023-09-18,Occasional,4,2421.89,605.47,2024-09-17,Medium
+C000676,25,Female,North Carolina,2024-12-17,Regular,1,941.22,941.22,2025-02-15,Medium
+C000677,33,Female,Texas,2024-11-30,Regular,0,0.0,0.0,,Medium
+C000678,70,Female,New York,2024-01-12,Occasional,4,918.87,229.72,2024-02-18,High
+C000679,65,Male,Florida,2023-02-05,Regular,5,960.86,192.17,2023-09-19,High
+C000680,37,Female,California,2024-01-29,Occasional,3,593.91,197.97,2024-08-24,Low
+C000681,42,Male,Ohio,2024-03-29,Regular,4,1840.55,460.14,2024-08-03,Medium
+C000682,70,Male,Illinois,2023-04-03,Premium,7,1767.9,252.56,2025-02-02,Low
+C000683,58,Female,Ohio,2024-03-25,Premium,6,1413.32,235.55,2024-08-10,Medium
+C000684,70,Female,Georgia,2023-03-24,Occasional,5,2255.63,451.13,2023-09-09,Medium
+C000685,63,Female,California,2023-12-07,Premium,2,473.15,236.57,2024-01-03,High
+C000686,50,Male,Pennsylvania,2023-09-25,Regular,3,272.14,90.71,2025-04-20,High
+C000687,65,Female,Georgia,2024-07-14,Occasional,0,0.0,0.0,,Low
+C000688,59,Male,Georgia,2023-02-23,Occasional,11,2466.23,224.2,2023-08-23,Low
+C000689,43,Male,Illinois,2023-01-04,Regular,4,697.11,174.28,2023-04-29,High
+C000690,25,Male,Florida,2023-03-26,Occasional,4,1097.61,274.4,2025-03-10,High
+C000691,66,Male,Michigan,2024-10-26,Occasional,2,725.71,362.86,2025-04-13,Medium
+C000692,46,Female,Texas,2023-11-24,Regular,3,378.07,126.02,2024-09-02,Low
+C000693,55,Female,Illinois,2024-12-04,Premium,4,641.64,160.41,2025-02-01,Low
+C000694,41,Male,Ohio,2024-02-29,Regular,3,657.9,219.3,2025-03-13,High
+C000695,19,Male,North Carolina,2023-08-18,Occasional,3,836.6,278.87,2024-07-30,High
+C000696,32,Male,Georgia,2024-10-03,Premium,2,856.54,428.27,2024-12-31,Medium
+C000697,28,Male,Ohio,2024-12-19,Occasional,2,174.24,87.12,2025-07-31,Medium
+C000698,34,Male,California,2024-09-06,Regular,3,685.74,228.58,2024-12-02,Low
+C000699,25,Male,North Carolina,2024-08-03,Regular,0,0.0,0.0,,Medium
+C000700,49,Male,Florida,2024-11-20,Occasional,0,0.0,0.0,,Low
+C000701,70,Female,Illinois,2023-07-15,Occasional,2,45.01,22.5,2024-04-22,Medium
+C000702,26,Female,Florida,2024-01-27,Occasional,6,3360.7,560.12,2025-06-16,Low
+C000703,64,Male,Ohio,2023-10-17,Premium,1,283.42,283.42,2024-09-23,Medium
+C000704,19,Female,Illinois,2023-05-30,Premium,4,1536.2,384.05,2024-07-02,High
+C000705,33,Female,Michigan,2024-04-06,Occasional,2,184.79,92.4,2024-07-29,High
+C000706,23,Male,Georgia,2024-04-14,Premium,3,700.23,233.41,2024-12-20,Medium
+C000707,43,Male,Ohio,2024-12-10,Occasional,3,435.57,145.19,2025-07-02,Medium
+C000708,34,Male,California,2024-09-03,Occasional,0,0.0,0.0,,Low
+C000709,39,Male,Georgia,2023-02-23,Regular,5,934.19,186.84,2024-04-20,High
+C000710,69,Male,New York,2024-11-17,Regular,0,0.0,0.0,,High
+C000711,42,Female,Ohio,2024-09-26,Occasional,1,100.62,100.62,2025-04-19,Medium
+C000712,53,Male,Michigan,2023-05-16,Premium,4,891.41,222.85,2025-03-09,Medium
+C000713,50,Female,Pennsylvania,2023-06-23,Regular,7,1183.8,169.11,2025-05-24,Low
+C000714,38,Female,Texas,2023-04-02,Regular,3,894.21,298.07,2024-09-25,Low
+C000715,20,Male,Georgia,2023-11-17,Regular,3,467.79,155.93,2025-04-20,High
+C000716,45,Female,Illinois,2024-01-05,Occasional,3,852.32,284.11,2024-03-24,Medium
+C000717,38,Female,Texas,2024-06-13,Regular,3,1107.81,369.27,2024-08-16,High
+C000718,66,Male,North Carolina,2024-05-18,Occasional,3,439.34,146.45,2025-08-02,High
+C000719,21,Male,Texas,2024-03-26,Premium,4,1454.37,363.59,2025-06-11,Low
+C000720,20,Female,Illinois,2023-07-07,Premium,4,1290.92,322.73,2025-02-19,High
+C000721,45,Male,Georgia,2024-04-23,Premium,5,2088.95,417.79,2024-06-09,Medium
+C000722,63,Female,Georgia,2024-01-01,Regular,0,0.0,0.0,,Low
+C000723,25,Female,California,2023-06-01,Premium,3,795.18,265.06,2025-04-18,Medium
+C000724,28,Female,Michigan,2023-07-04,Occasional,6,1845.51,307.59,2023-09-02,High
+C000725,55,Male,North Carolina,2023-08-06,Occasional,4,882.4,220.6,2024-07-11,Low
+C000726,22,Male,Georgia,2024-03-02,Occasional,4,705.27,176.32,2025-02-05,Low
+C000727,19,Female,California,2023-12-03,Regular,5,637.71,127.54,2025-07-14,Medium
+C000728,24,Female,Texas,2024-08-27,Premium,1,43.25,43.25,2024-12-30,Low
+C000729,63,Female,Georgia,2024-04-16,Occasional,2,726.08,363.04,2024-12-09,Medium
+C000730,60,Male,Pennsylvania,2024-08-31,Premium,0,0.0,0.0,,High
+C000731,46,Female,Michigan,2024-09-29,Premium,3,726.54,242.18,2025-05-16,Low
+C000732,69,Female,Pennsylvania,2023-02-19,Premium,9,1470.32,163.37,2025-06-18,High
+C000733,53,Female,California,2023-03-14,Regular,8,1420.95,177.62,2024-03-01,Medium
+C000734,33,Female,California,2023-07-02,Premium,4,548.14,137.03,2025-06-01,Low
+C000735,42,Female,Illinois,2023-06-16,Occasional,4,472.73,118.18,2024-12-23,High
+C000736,25,Female,Georgia,2023-06-07,Regular,3,589.31,196.44,2024-09-01,High
+C000737,61,Male,Pennsylvania,2023-11-14,Occasional,1,66.39,66.39,2024-01-13,Low
+C000738,50,Male,Georgia,2024-01-12,Regular,5,590.75,118.15,2024-11-10,Medium
+C000739,35,Female,California,2024-05-02,Regular,4,943.32,235.83,2025-05-15,Medium
+C000740,29,Female,Ohio,2024-09-20,Premium,2,293.7,146.85,2025-08-04,Low
+C000741,39,Female,Florida,2024-06-09,Occasional,5,2141.89,428.38,2025-01-07,High
+C000742,27,Female,North Carolina,2024-12-31,Occasional,0,0.0,0.0,,High
+C000743,23,Female,Georgia,2024-06-21,Regular,1,57.35,57.35,2024-06-25,Low
+C000744,37,Male,Texas,2024-05-04,Occasional,3,432.94,144.31,2025-04-24,Medium
+C000745,51,Female,Illinois,2023-09-12,Occasional,6,1109.11,184.85,2024-12-06,Low
+C000746,22,Male,North Carolina,2024-07-18,Premium,5,567.21,113.44,2024-08-12,High
+C000747,44,Male,Georgia,2024-03-11,Occasional,4,1273.49,318.37,2025-04-08,High
+C000748,70,Female,Pennsylvania,2024-08-05,Regular,3,374.39,124.8,2024-09-25,High
+C000749,67,Male,California,2023-03-25,Occasional,7,762.24,108.89,2025-06-01,High
+C000750,29,Male,Ohio,2024-04-18,Premium,2,161.45,80.73,2025-07-26,Low
+C000751,63,Female,Pennsylvania,2024-03-02,Occasional,2,214.46,107.23,2024-07-30,High
+C000752,66,Female,Michigan,2024-04-10,Regular,4,1396.84,349.21,2025-05-23,Medium
+C000753,31,Male,California,2023-07-11,Occasional,2,315.42,157.71,2025-05-05,High
+C000754,61,Male,Ohio,2023-09-23,Occasional,7,813.74,116.25,2024-05-26,Low
+C000755,43,Male,New York,2023-01-06,Premium,4,824.65,206.16,2025-04-29,High
+C000756,47,Female,Michigan,2024-05-03,Occasional,4,659.99,165.0,2025-07-16,Medium
+C000757,57,Female,Ohio,2023-11-07,Regular,4,722.14,180.53,2024-11-23,Low
+C000758,26,Male,Florida,2023-05-09,Premium,8,1629.88,203.73,2023-06-06,Low
+C000759,30,Male,Florida,2024-12-13,Regular,1,195.66,195.66,2025-01-16,High
+C000760,59,Male,Ohio,2023-05-29,Occasional,3,379.38,126.46,2024-02-15,High
+C000761,23,Female,Georgia,2023-07-15,Premium,4,224.96,56.24,2023-08-18,Medium
+C000762,19,Male,Texas,2024-03-08,Premium,1,162.29,162.29,2024-06-24,High
+C000763,46,Female,Georgia,2024-12-20,Premium,0,0.0,0.0,,Medium
+C000764,33,Male,Illinois,2024-08-22,Occasional,2,418.99,209.5,2025-03-09,Medium
+C000765,39,Male,California,2023-02-22,Occasional,3,739.84,246.61,2023-10-28,High
+C000766,44,Female,Michigan,2024-03-18,Occasional,3,886.19,295.4,2024-08-03,High
+C000767,36,Male,Georgia,2024-07-21,Regular,0,0.0,0.0,,Medium
+C000768,55,Female,Florida,2024-06-09,Occasional,0,0.0,0.0,,Low
+C000769,19,Female,Michigan,2024-06-24,Regular,1,287.99,287.99,2024-09-24,High
+C000770,35,Female,Georgia,2023-03-07,Premium,7,2257.91,322.56,2024-04-09,Medium
+C000771,59,Female,Georgia,2024-09-29,Occasional,1,136.63,136.63,2024-12-28,Medium
+C000772,28,Female,Florida,2023-01-22,Regular,6,4024.83,670.8,2024-05-27,Medium
+C000773,32,Male,Michigan,2024-03-24,Occasional,3,209.37,69.79,2024-06-05,Medium
+C000774,63,Female,Texas,2024-09-08,Regular,1,137.22,137.22,2024-09-13,High
+C000775,42,Female,Pennsylvania,2024-12-29,Regular,4,2848.65,712.16,2025-03-10,Low
+C000776,31,Female,California,2024-09-28,Occasional,1,525.29,525.29,2025-03-07,Medium
+C000777,29,Male,Texas,2023-05-13,Occasional,5,1888.93,377.79,2024-09-01,Medium
+C000778,68,Female,Georgia,2023-04-14,Regular,7,721.31,103.04,2023-05-08,Low
+C000779,53,Male,New York,2023-08-03,Regular,3,1278.43,426.14,2025-03-06,Medium
+C000780,61,Male,Texas,2024-01-01,Occasional,2,515.32,257.66,2024-02-26,Low
+C000781,39,Female,California,2023-03-07,Occasional,8,2245.03,280.63,2024-04-18,Low
+C000782,53,Male,Georgia,2023-05-04,Regular,3,2290.5,763.5,2025-08-08,Medium
+C000783,67,Male,North Carolina,2023-12-30,Regular,5,862.22,172.44,2024-02-26,Low
+C000784,50,Male,New York,2024-12-07,Regular,0,0.0,0.0,,Medium
+C000785,24,Male,North Carolina,2023-04-24,Premium,7,1321.18,188.74,2023-12-18,High
+C000786,28,Male,Florida,2023-04-18,Regular,5,1287.16,257.43,2023-09-24,Low
+C000787,63,Female,North Carolina,2023-10-27,Regular,7,4918.81,702.69,2024-11-30,High
+C000788,27,Female,Pennsylvania,2023-04-12,Premium,5,1008.77,201.75,2024-09-08,Low
+C000789,46,Female,New York,2023-07-26,Premium,4,1114.62,278.65,2023-12-22,Medium
+C000790,36,Male,California,2023-12-16,Regular,5,1585.39,317.08,2025-01-12,Medium
+C000791,41,Male,Texas,2024-02-29,Occasional,2,569.78,284.89,2025-07-08,Medium
+C000792,26,Female,Ohio,2023-08-22,Regular,3,418.25,139.42,2024-03-26,Medium
+C000793,68,Female,New York,2024-06-12,Regular,0,0.0,0.0,,Low
+C000794,63,Male,California,2023-01-11,Regular,7,1869.15,267.02,2025-02-22,Medium
+C000795,67,Male,Ohio,2024-02-16,Premium,0,0.0,0.0,,Medium
+C000796,60,Male,Michigan,2023-02-07,Premium,4,1166.77,291.69,2023-10-20,High
+C000797,69,Female,Ohio,2024-12-31,Regular,2,155.92,77.96,2025-08-05,High
+C000798,53,Female,Pennsylvania,2024-12-18,Regular,1,1217.88,1217.88,2025-03-20,Low
+C000799,51,Male,Ohio,2023-10-14,Regular,4,1035.68,258.92,2024-04-23,High
+C000800,52,Female,Pennsylvania,2023-07-30,Occasional,4,880.64,220.16,2024-08-07,Medium
+C000801,37,Male,New York,2023-07-22,Occasional,0,0.0,0.0,,Medium
+C000802,64,Male,North Carolina,2024-02-04,Occasional,3,484.6,161.53,2024-11-28,Medium
+C000803,23,Female,North Carolina,2023-08-07,Regular,10,2450.12,245.01,2024-05-04,High
+C000804,19,Male,North Carolina,2023-06-13,Occasional,5,2365.06,473.01,2023-07-06,Medium
+C000805,67,Female,Ohio,2023-09-05,Occasional,2,563.61,281.8,2024-05-15,Low
+C000806,41,Female,North Carolina,2023-03-03,Regular,7,2015.15,287.88,2023-05-14,Low
+C000807,66,Male,Georgia,2023-02-18,Regular,3,228.79,76.26,2024-05-23,High
+C000808,47,Female,Florida,2023-01-06,Occasional,3,428.45,142.82,2023-05-27,High
+C000809,63,Male,Pennsylvania,2024-08-02,Regular,2,627.88,313.94,2025-08-10,Medium
+C000810,68,Male,Ohio,2024-11-13,Occasional,0,0.0,0.0,,High
+C000811,24,Female,North Carolina,2023-09-11,Occasional,6,1399.45,233.24,2025-03-18,Low
+C000812,47,Male,Texas,2024-01-05,Occasional,4,1274.04,318.51,2024-11-29,Medium
+C000813,23,Male,New York,2024-02-26,Regular,3,909.68,303.23,2024-04-26,Low
+C000814,31,Female,California,2024-05-02,Regular,5,900.68,180.14,2024-05-08,High
+C000815,43,Female,Illinois,2024-06-22,Occasional,1,180.7,180.7,2024-11-09,Medium
+C000816,45,Female,Georgia,2024-10-13,Occasional,0,0.0,0.0,,Medium
+C000817,27,Male,Georgia,2023-06-16,Occasional,2,466.59,233.3,2025-01-05,Medium
+C000818,63,Male,Florida,2023-05-13,Regular,5,755.2,151.04,2024-01-01,Medium
+C000819,65,Male,North Carolina,2023-02-03,Regular,3,1462.24,487.41,2025-06-17,Low
+C000820,44,Male,California,2024-09-08,Regular,2,800.51,400.25,2025-03-23,High
+C000821,20,Male,California,2023-10-24,Regular,5,673.04,134.61,2023-12-01,Medium
+C000822,37,Female,Georgia,2024-01-19,Premium,4,676.45,169.11,2025-03-29,Low
+C000823,68,Female,New York,2023-05-26,Regular,6,1012.91,168.82,2024-01-30,Medium
+C000824,29,Female,New York,2023-08-09,Premium,3,619.71,206.57,2023-09-10,High
+C000825,22,Male,Ohio,2023-12-24,Regular,2,296.27,148.13,2024-03-17,High
+C000826,54,Female,Pennsylvania,2023-11-14,Regular,6,1035.78,172.63,2024-08-14,Medium
+C000827,26,Male,North Carolina,2024-09-12,Occasional,0,0.0,0.0,,Medium
+C000828,60,Female,Texas,2024-04-05,Occasional,4,2213.89,553.47,2024-10-04,Medium
+C000829,69,Female,Ohio,2023-04-02,Premium,4,1201.66,300.41,2025-07-22,Medium
+C000830,52,Male,Georgia,2023-12-14,Occasional,2,943.24,471.62,2025-02-24,Medium
+C000831,23,Male,New York,2024-10-23,Occasional,3,1155.14,385.05,2025-03-13,High
+C000832,37,Male,North Carolina,2024-12-25,Premium,1,266.21,266.21,2025-02-02,Low
+C000833,52,Male,Michigan,2024-09-25,Occasional,2,293.07,146.53,2025-05-19,Low
+C000834,50,Male,California,2024-05-02,Occasional,2,540.39,270.2,2024-09-11,High
+C000835,19,Female,Florida,2023-07-04,Premium,2,477.89,238.94,2024-04-28,High
+C000836,46,Male,North Carolina,2024-08-16,Occasional,0,0.0,0.0,,Medium
+C000837,55,Male,Georgia,2024-02-16,Premium,4,415.41,103.85,2024-11-11,Medium
+C000838,29,Female,New York,2024-03-23,Occasional,4,666.01,166.5,2025-02-28,Medium
+C000839,34,Male,California,2024-01-27,Premium,2,360.26,180.13,2025-07-13,High
+C000840,36,Male,Texas,2023-06-22,Regular,6,1229.63,204.94,2023-11-11,Low
+C000841,37,Female,Texas,2023-06-07,Premium,5,930.36,186.07,2024-05-27,High
+C000842,29,Male,New York,2023-11-30,Regular,3,225.76,75.25,2025-01-05,Medium
+C000843,38,Male,Ohio,2023-04-12,Regular,7,1594.42,227.77,2025-06-24,Medium
+C000844,70,Male,New York,2024-01-20,Premium,6,2960.77,493.46,2025-01-30,Low
+C000845,55,Male,Georgia,2024-09-03,Occasional,2,331.8,165.9,2025-04-02,High
+C000846,25,Female,New York,2024-01-30,Regular,8,1388.22,173.53,2025-06-26,Medium
+C000847,44,Male,Georgia,2024-07-20,Premium,2,729.95,364.97,2025-05-31,Medium
+C000848,32,Male,Illinois,2024-10-10,Occasional,3,1111.22,370.41,2025-02-27,High
+C000849,24,Male,North Carolina,2024-11-22,Occasional,0,0.0,0.0,,Low
+C000850,54,Female,Georgia,2023-11-08,Premium,3,198.11,66.04,2025-06-06,High
+C000851,31,Male,Pennsylvania,2024-05-27,Occasional,4,1064.97,266.24,2025-07-07,Low
+C000852,52,Female,North Carolina,2023-09-09,Regular,6,1375.49,229.25,2023-09-28,Low
+C000853,70,Female,Michigan,2023-01-02,Regular,6,2292.91,382.15,2023-07-18,High
+C000854,18,Male,Georgia,2023-06-21,Regular,5,1327.21,265.44,2024-05-30,High
+C000855,61,Female,Pennsylvania,2023-09-14,Occasional,1,27.12,27.12,2024-05-22,Low
+C000856,50,Female,New York,2024-08-22,Premium,2,163.93,81.97,2025-03-15,High
+C000857,54,Male,Illinois,2024-06-30,Premium,2,72.54,36.27,2024-08-28,Medium
+C000858,25,Male,North Carolina,2024-12-16,Regular,2,174.3,87.15,2024-12-26,Medium
+C000859,57,Female,Pennsylvania,2023-08-04,Occasional,3,965.09,321.7,2025-07-26,Medium
+C000860,46,Female,Florida,2024-12-25,Occasional,1,58.98,58.98,2025-03-26,Medium
+C000861,31,Female,Michigan,2023-12-16,Regular,2,250.41,125.2,2024-09-16,Low
+C000862,26,Male,Michigan,2024-12-09,Regular,1,172.05,172.05,2025-07-29,Low
+C000863,61,Male,Ohio,2023-01-10,Occasional,5,4035.32,807.06,2024-12-06,High
+C000864,49,Female,North Carolina,2024-12-21,Premium,1,371.59,371.59,2025-02-09,High
+C000865,22,Male,Georgia,2024-10-28,Occasional,2,550.76,275.38,2025-02-15,Low
+C000866,70,Female,Michigan,2023-12-28,Regular,4,710.35,177.59,2025-05-29,Medium
+C000867,67,Male,California,2023-07-01,Regular,5,1742.67,348.53,2024-02-25,Medium
+C000868,46,Male,Florida,2023-07-17,Occasional,3,1100.78,366.93,2023-09-22,Low
+C000869,61,Female,Florida,2023-10-15,Premium,4,573.18,143.3,2024-06-29,High
+C000870,37,Male,Florida,2024-10-02,Regular,0,0.0,0.0,,Medium
+C000871,35,Female,Michigan,2023-02-07,Premium,3,759.34,253.11,2024-01-12,Low
+C000872,70,Female,California,2023-07-20,Regular,6,2651.43,441.91,2024-09-12,High
+C000873,49,Male,North Carolina,2024-05-27,Premium,1,81.32,81.32,2025-02-19,High
+C000874,61,Male,California,2024-08-02,Occasional,2,91.98,45.99,2024-09-11,Low
+C000875,26,Female,Michigan,2023-03-08,Premium,2,853.57,426.78,2023-07-27,High
+C000876,30,Male,North Carolina,2023-10-08,Occasional,4,863.91,215.98,2025-05-22,Medium
+C000877,53,Female,New York,2024-11-28,Regular,3,1054.27,351.42,2025-02-19,High
+C000878,59,Male,Pennsylvania,2024-11-20,Regular,2,598.95,299.47,2025-06-07,Medium
+C000879,25,Female,Georgia,2023-10-08,Regular,6,758.61,126.43,2024-11-19,High
+C000880,64,Male,New York,2023-02-14,Regular,8,2348.36,293.55,2023-10-13,Medium
+C000881,46,Female,New York,2024-06-29,Regular,5,1987.75,397.55,2024-08-08,Low
+C000882,23,Male,Florida,2023-12-09,Occasional,4,847.44,211.86,2024-04-01,Medium
+C000883,33,Male,Texas,2023-03-18,Regular,7,1703.62,243.37,2023-11-17,Medium
+C000884,58,Male,New York,2023-03-06,Regular,7,1866.88,266.7,2023-06-28,Medium
+C000885,55,Female,Illinois,2023-01-25,Premium,8,1797.51,224.69,2024-10-09,Low
+C000886,33,Female,New York,2024-04-29,Regular,2,1377.58,688.79,2025-06-17,High
+C000887,22,Female,California,2023-08-31,Occasional,3,729.42,243.14,2025-04-06,Medium
+C000888,25,Male,New York,2024-08-15,Premium,2,284.78,142.39,2025-03-11,Medium
+C000889,62,Male,Texas,2023-11-17,Premium,4,361.38,90.34,2024-10-05,Medium
+C000890,37,Female,California,2023-02-26,Premium,6,1033.76,172.29,2024-12-24,High
+C000891,53,Male,Illinois,2023-02-27,Regular,7,1728.54,246.93,2024-12-29,Medium
+C000892,57,Female,Florida,2023-04-09,Occasional,6,1266.99,211.17,2024-08-17,High
+C000893,18,Female,Ohio,2024-09-30,Regular,2,605.69,302.85,2025-01-31,Medium
+C000894,57,Male,Pennsylvania,2024-09-27,Occasional,2,290.77,145.38,2024-09-30,High
+C000895,47,Female,Michigan,2023-01-27,Premium,5,2311.62,462.32,2024-01-20,Low
+C000896,18,Male,Michigan,2023-04-16,Premium,4,2537.61,634.4,2025-07-12,High
+C000897,58,Female,Pennsylvania,2023-05-10,Regular,3,1802.62,600.87,2023-07-04,Medium
+C000898,46,Male,Florida,2024-09-27,Premium,4,629.95,157.49,2025-06-01,Low
+C000899,26,Female,Michigan,2023-03-03,Regular,7,1263.38,180.48,2024-09-17,High
+C000900,66,Female,Illinois,2024-10-29,Occasional,2,379.32,189.66,2025-04-14,High
+C000901,27,Female,Illinois,2023-05-30,Occasional,6,1757.58,292.93,2025-02-24,Medium
+C000902,41,Male,North Carolina,2023-10-26,Occasional,3,431.38,143.79,2024-10-27,High
+C000903,27,Male,Florida,2024-11-25,Occasional,1,33.38,33.38,2025-06-25,High
+C000904,45,Female,Florida,2023-02-25,Premium,8,1401.9,175.24,2025-01-27,High
+C000905,68,Male,Pennsylvania,2023-07-26,Premium,9,1485.98,165.11,2025-07-25,High
+C000906,62,Female,Michigan,2024-05-02,Occasional,6,1053.63,175.6,2024-07-29,Medium
+C000907,54,Female,Michigan,2024-08-15,Regular,1,75.7,75.7,2025-07-25,Medium
+C000908,28,Male,Georgia,2023-12-03,Premium,3,686.53,228.84,2024-11-26,Medium
+C000909,18,Male,Florida,2023-08-13,Regular,4,1154.82,288.7,2023-12-10,High
+C000910,33,Female,Pennsylvania,2023-08-07,Occasional,6,1385.83,230.97,2024-08-03,Medium
+C000911,43,Male,New York,2023-07-30,Regular,3,107.45,35.82,2023-09-08,Low
+C000912,40,Male,North Carolina,2023-03-17,Premium,9,2382.12,264.68,2025-03-22,Low
+C000913,46,Male,Michigan,2023-10-25,Regular,3,749.66,249.89,2024-05-10,Low
+C000914,30,Male,Illinois,2023-01-31,Premium,4,547.79,136.95,2025-04-09,Low
+C000915,64,Male,Pennsylvania,2023-09-26,Occasional,1,486.71,486.71,2024-12-29,Low
+C000916,30,Male,Texas,2023-07-02,Regular,2,741.58,370.79,2025-02-12,Low
+C000917,61,Male,Ohio,2023-01-22,Occasional,5,853.13,170.63,2024-07-17,Low
+C000918,31,Female,Georgia,2023-12-13,Premium,3,389.66,129.89,2024-09-05,Medium
+C000919,60,Male,North Carolina,2024-01-17,Occasional,4,1004.35,251.09,2025-08-01,Medium
+C000920,22,Male,Texas,2024-12-29,Premium,1,84.1,84.1,2025-01-24,Low
+C000921,52,Female,Pennsylvania,2023-07-16,Regular,5,2127.94,425.59,2024-06-15,High
+C000922,58,Male,New York,2024-03-15,Occasional,1,35.37,35.37,2024-11-19,High
+C000923,52,Female,Texas,2023-07-13,Regular,4,649.72,162.43,2023-09-15,Low
+C000924,58,Female,Texas,2023-02-24,Occasional,6,1346.79,224.47,2023-10-20,High
+C000925,31,Male,Georgia,2024-05-15,Occasional,1,60.64,60.64,2024-06-06,High
+C000926,28,Female,North Carolina,2023-03-08,Regular,8,2249.63,281.2,2023-08-02,Medium
+C000927,47,Male,Pennsylvania,2024-06-15,Occasional,3,437.53,145.84,2025-02-26,Medium
+C000928,62,Female,Georgia,2024-06-22,Regular,4,886.16,221.54,2024-10-08,Medium
+C000929,43,Male,Florida,2024-08-18,Premium,2,162.11,81.06,2024-12-05,Low
+C000930,33,Female,Florida,2024-04-07,Regular,2,1138.6,569.3,2025-05-14,Medium
+C000931,54,Male,Pennsylvania,2024-01-22,Regular,3,834.73,278.24,2024-08-04,High
+C000932,26,Male,Illinois,2023-03-28,Regular,3,508.58,169.53,2025-08-08,High
+C000933,32,Male,Georgia,2023-12-27,Occasional,3,702.05,234.02,2025-02-09,High
+C000934,45,Female,Georgia,2023-12-11,Regular,6,1349.18,224.86,2024-01-24,Medium
+C000935,69,Female,Pennsylvania,2024-01-12,Regular,1,906.73,906.73,2024-07-05,Medium
+C000936,29,Female,Florida,2023-01-26,Regular,8,2193.4,274.18,2023-06-19,High
+C000937,40,Male,Illinois,2023-03-19,Occasional,4,1150.42,287.61,2024-10-05,High
+C000938,59,Male,Illinois,2024-07-13,Premium,5,722.8,144.56,2025-03-04,Low
+C000939,22,Female,New York,2023-05-02,Occasional,9,1808.93,200.99,2023-09-27,Low
+C000940,30,Female,Illinois,2023-12-08,Regular,3,726.62,242.21,2024-07-09,High
+C000941,35,Male,Michigan,2024-11-30,Premium,3,927.13,309.04,2025-07-12,High
+C000942,34,Male,Illinois,2024-07-10,Regular,4,1421.73,355.43,2024-08-15,Medium
+C000943,43,Male,Georgia,2024-02-18,Occasional,8,1081.09,135.14,2024-10-09,High
+C000944,43,Male,Florida,2023-06-02,Occasional,5,1082.29,216.46,2023-07-22,High
+C000945,48,Male,North Carolina,2023-08-03,Occasional,4,780.75,195.19,2025-02-05,High
+C000946,64,Female,Pennsylvania,2024-04-24,Premium,2,704.88,352.44,2025-07-30,Medium
+C000947,45,Female,Florida,2023-07-12,Regular,1,250.67,250.67,2024-03-10,Medium
+C000948,19,Female,Texas,2024-07-25,Occasional,4,581.4,145.35,2024-12-19,Low
+C000949,65,Male,Georgia,2023-11-09,Occasional,4,487.65,121.91,2024-01-20,Medium
+C000950,32,Female,Ohio,2023-12-14,Occasional,4,896.84,224.21,2025-01-16,Medium
+C000951,52,Female,Pennsylvania,2024-12-08,Occasional,1,101.52,101.52,2025-07-01,Low
+C000952,68,Male,Texas,2024-08-04,Premium,3,534.65,178.22,2024-09-01,Medium
+C000953,58,Female,Ohio,2024-08-04,Premium,5,1088.15,217.63,2025-04-09,Medium
+C000954,52,Female,Florida,2023-03-07,Regular,4,1713.82,428.46,2024-06-26,Low
+C000955,54,Female,Illinois,2023-12-03,Premium,5,1024.01,204.8,2024-08-08,Low
+C000956,61,Male,New York,2023-04-17,Occasional,3,940.13,313.38,2024-06-16,High
+C000957,19,Male,Florida,2024-05-15,Premium,6,1257.45,209.58,2025-05-31,Medium
+C000958,31,Male,Illinois,2023-10-18,Occasional,2,424.38,212.19,2024-05-16,High
+C000959,47,Male,Pennsylvania,2023-03-13,Occasional,3,526.27,175.42,2024-06-26,Low
+C000960,38,Female,Ohio,2023-06-25,Premium,5,1132.46,226.49,2024-11-25,Low
+C000961,52,Female,Georgia,2023-05-13,Occasional,5,1895.32,379.06,2024-12-16,Low
+C000962,31,Male,Florida,2024-02-03,Regular,5,814.68,162.94,2024-02-29,Medium
+C000963,60,Female,Texas,2024-12-27,Occasional,1,75.06,75.06,2025-08-15,High
+C000964,55,Male,North Carolina,2023-11-14,Occasional,3,201.46,67.15,2024-07-02,High
+C000965,35,Male,New York,2024-04-14,Premium,2,759.16,379.58,2024-12-17,Medium
+C000966,70,Female,Michigan,2023-03-07,Premium,13,3174.62,244.2,2023-07-24,High
+C000967,54,Female,Georgia,2023-12-03,Regular,8,1271.42,158.93,2025-05-31,High
+C000968,65,Male,Illinois,2023-02-10,Occasional,5,916.37,183.27,2024-06-13,Medium
+C000969,62,Female,Ohio,2023-12-22,Occasional,3,822.83,274.28,2025-02-03,Low
+C000970,33,Male,Michigan,2024-03-01,Occasional,6,1135.61,189.27,2024-05-06,Medium
+C000971,42,Male,Michigan,2024-04-13,Premium,2,152.77,76.39,2025-04-23,Medium
+C000972,20,Male,Texas,2024-12-16,Regular,2,1799.35,899.67,2025-05-11,High
+C000973,36,Male,Florida,2024-07-04,Regular,4,1074.9,268.73,2025-02-16,Medium
+C000974,25,Female,California,2024-07-20,Premium,2,511.04,255.52,2025-07-07,High
+C000975,44,Female,Texas,2023-11-30,Regular,0,0.0,0.0,,Low
+C000976,20,Female,New York,2024-06-02,Premium,5,899.33,179.87,2025-02-26,High
+C000977,61,Female,Ohio,2024-12-12,Regular,2,287.15,143.58,2025-02-12,High
+C000978,30,Female,New York,2024-02-13,Premium,5,1324.05,264.81,2024-10-01,Medium
+C000979,63,Male,Pennsylvania,2023-04-28,Occasional,5,585.29,117.06,2025-01-27,High
+C000980,49,Female,California,2024-04-20,Premium,3,3239.96,1079.99,2025-02-12,High
+C000981,33,Female,Texas,2024-11-03,Regular,1,161.1,161.1,2025-06-17,Medium
+C000982,28,Male,Michigan,2023-06-15,Premium,4,663.28,165.82,2023-10-30,Low
+C000983,25,Female,Texas,2023-10-29,Premium,9,1339.14,148.79,2023-12-05,High
+C000984,61,Female,Texas,2023-01-12,Regular,8,1509.08,188.63,2024-08-20,Medium
+C000985,31,Male,North Carolina,2023-07-02,Premium,4,1476.08,369.02,2024-09-08,Medium
+C000986,21,Male,Ohio,2024-12-14,Occasional,0,0.0,0.0,,Medium
+C000987,21,Male,New York,2024-03-30,Regular,2,376.57,188.28,2025-03-07,Low
+C000988,41,Male,Florida,2023-09-13,Premium,5,602.63,120.53,2024-05-26,Low
+C000989,19,Male,Pennsylvania,2024-03-07,Premium,1,202.86,202.86,2025-08-12,High
+C000990,22,Male,California,2024-11-16,Occasional,2,225.97,112.98,2025-07-04,Low
+C000991,20,Female,North Carolina,2023-06-21,Premium,4,690.28,172.57,2025-01-21,Medium
+C000992,53,Male,Michigan,2023-11-27,Premium,3,689.96,229.99,2024-12-06,High
+C000993,45,Male,Florida,2024-02-09,Premium,4,1099.89,274.97,2025-06-21,Low
+C000994,38,Male,New York,2024-01-01,Regular,2,413.67,206.84,2024-08-31,High
+C000995,18,Female,Florida,2023-11-20,Regular,5,1098.07,219.61,2025-04-16,Low
+C000996,60,Female,Michigan,2023-03-09,Regular,3,352.25,117.42,2024-10-10,Low
+C000997,31,Female,Illinois,2023-03-10,Occasional,8,3123.76,390.47,2025-07-14,Medium
+C000998,63,Male,Illinois,2023-04-15,Premium,8,875.83,109.48,2023-05-29,High
+C000999,58,Female,Texas,2023-11-29,Regular,4,2606.06,651.52,2024-04-26,Low
+C001000,66,Female,Georgia,2024-10-12,Premium,2,141.67,70.83,2025-03-11,Medium
+C001001,56,Female,Ohio,2023-01-19,Occasional,3,372.38,124.13,2024-04-30,High
+C001002,50,Male,Florida,2023-08-27,Premium,2,166.84,83.42,2025-06-23,High
+C001003,37,Male,Ohio,2023-05-08,Premium,4,1411.37,352.84,2023-08-21,High
+C001004,21,Male,Pennsylvania,2023-03-23,Regular,6,2136.51,356.09,2025-08-08,Medium
+C001005,27,Female,Florida,2023-07-26,Occasional,3,871.0,290.33,2025-01-01,Low
+C001006,64,Female,Pennsylvania,2023-09-01,Premium,6,2304.35,384.06,2025-03-18,Medium
+C001007,59,Male,North Carolina,2023-11-22,Regular,4,838.55,209.64,2025-05-06,High
+C001008,66,Male,Florida,2023-10-23,Occasional,7,1540.24,220.03,2024-09-26,Medium
+C001009,33,Male,North Carolina,2023-12-17,Premium,4,589.27,147.32,2025-08-08,High
+C001010,69,Male,Michigan,2023-09-12,Regular,6,854.46,142.41,2024-02-02,High
+C001011,29,Female,New York,2023-11-26,Premium,2,608.02,304.01,2025-07-13,Medium
+C001012,30,Male,Texas,2023-03-13,Premium,3,608.1,202.7,2024-12-31,Low
+C001013,29,Male,Florida,2023-04-04,Occasional,6,1256.86,209.48,2024-03-16,Low
+C001014,64,Female,Illinois,2024-03-12,Premium,3,877.83,292.61,2024-09-08,High
+C001015,33,Female,Texas,2023-07-22,Occasional,5,2809.33,561.87,2025-05-21,Low
+C001016,36,Female,Florida,2023-11-07,Regular,5,1509.32,301.86,2025-03-15,Medium
+C001017,41,Female,Ohio,2023-03-23,Premium,7,1650.41,235.77,2024-04-20,Medium
+C001018,45,Female,Texas,2024-03-27,Regular,2,245.83,122.91,2024-07-03,Low
+C001019,45,Male,Illinois,2024-01-26,Occasional,8,921.88,115.23,2025-06-02,High
+C001020,53,Male,Illinois,2023-06-06,Regular,3,1599.67,533.22,2023-07-06,Medium
+C001021,47,Female,Ohio,2023-11-10,Occasional,6,1100.24,183.37,2024-01-02,High
+C001022,22,Female,Texas,2024-05-07,Occasional,1,417.01,417.01,2025-08-13,Medium
+C001023,27,Male,New York,2023-07-20,Premium,4,776.64,194.16,2025-03-13,High
+C001024,49,Female,Ohio,2024-01-19,Regular,1,104.24,104.24,2025-08-01,High
+C001025,42,Female,Illinois,2024-01-18,Occasional,4,913.64,228.41,2024-07-11,High
+C001026,44,Male,California,2023-03-14,Regular,6,1770.15,295.02,2024-09-18,High
+C001027,30,Female,Illinois,2023-06-16,Occasional,3,2313.25,771.08,2024-01-06,Medium
+C001028,63,Female,Pennsylvania,2024-06-05,Occasional,4,470.91,117.73,2025-05-30,Low
+C001029,42,Female,Florida,2024-10-28,Premium,2,911.42,455.71,2025-05-31,Medium
+C001030,70,Female,New York,2023-02-05,Occasional,3,1078.46,359.49,2025-01-06,High
+C001031,27,Female,Michigan,2024-10-22,Regular,2,93.5,46.75,2025-07-04,High
+C001032,34,Male,Michigan,2023-05-31,Occasional,6,724.39,120.73,2025-08-15,High
+C001033,18,Male,California,2023-06-15,Occasional,6,1409.38,234.9,2024-05-19,High
+C001034,43,Male,North Carolina,2024-01-29,Premium,5,1407.18,281.44,2024-04-15,Medium
+C001035,45,Female,Illinois,2023-06-19,Occasional,9,1590.03,176.67,2024-07-19,High
+C001036,42,Female,Ohio,2024-11-05,Occasional,0,0.0,0.0,,Low
+C001037,58,Female,Texas,2023-04-22,Regular,5,4462.97,892.59,2024-04-27,High
+C001038,65,Female,Illinois,2023-08-03,Premium,5,773.27,154.65,2024-02-03,Low
+C001039,18,Male,California,2024-05-18,Occasional,2,545.92,272.96,2024-08-02,Medium
+C001040,44,Female,Ohio,2024-06-21,Premium,3,149.98,49.99,2024-12-12,Low
+C001041,29,Male,Florida,2024-01-19,Regular,6,1271.32,211.89,2025-07-18,Low
+C001042,25,Female,Michigan,2024-05-29,Premium,2,152.71,76.35,2025-05-31,Low
+C001043,21,Male,Florida,2023-07-25,Regular,3,669.78,223.26,2025-01-22,Medium
+C001044,58,Male,Texas,2024-03-27,Premium,2,358.4,179.2,2024-04-01,Medium
+C001045,42,Male,Illinois,2023-03-29,Premium,5,1148.38,229.68,2024-11-12,Medium
+C001046,55,Male,Georgia,2023-01-31,Regular,6,944.73,157.45,2024-05-28,High
+C001047,18,Male,Illinois,2023-04-14,Premium,7,1211.47,173.07,2025-05-02,High
+C001048,68,Male,California,2024-08-19,Premium,1,34.43,34.43,2025-07-15,High
+C001049,42,Female,Georgia,2023-01-08,Regular,5,2124.16,424.83,2025-05-09,Medium
+C001050,45,Female,Pennsylvania,2024-09-10,Occasional,1,338.11,338.11,2025-04-04,Medium
+C001051,70,Male,Pennsylvania,2023-11-19,Occasional,3,585.4,195.13,2024-09-16,Medium
+C001052,57,Male,Pennsylvania,2024-01-23,Regular,3,695.44,231.81,2025-07-25,Low
+C001053,47,Female,Texas,2023-01-04,Premium,6,1141.88,190.31,2023-08-24,High
+C001054,51,Female,Florida,2023-05-06,Regular,4,647.81,161.95,2024-07-24,Medium
+C001055,61,Female,North Carolina,2024-09-25,Regular,1,96.88,96.88,2025-08-02,High
+C001056,18,Female,New York,2023-07-12,Occasional,5,1726.02,345.2,2023-07-20,Medium
+C001057,69,Female,Georgia,2023-02-16,Premium,4,595.87,148.97,2024-12-13,High
+C001058,43,Male,Pennsylvania,2024-05-11,Regular,4,236.91,59.23,2025-02-10,Medium
+C001059,62,Male,Ohio,2024-11-05,Regular,2,118.06,59.03,2025-05-22,High
+C001060,63,Male,North Carolina,2023-07-19,Occasional,6,893.06,148.84,2025-04-03,High
+C001061,20,Male,Georgia,2024-05-31,Premium,1,93.48,93.48,2025-07-23,Medium
+C001062,53,Female,Texas,2024-11-20,Regular,1,47.62,47.62,2025-04-26,Low
+C001063,60,Male,Florida,2024-05-08,Premium,2,660.02,330.01,2024-09-21,Low
+C001064,62,Male,California,2024-11-06,Regular,1,116.16,116.16,2025-08-01,High
+C001065,28,Female,Ohio,2023-01-30,Regular,7,571.5,81.64,2024-06-20,Low
+C001066,60,Female,California,2023-09-21,Occasional,2,992.79,496.4,2025-08-05,Low
+C001067,58,Female,California,2024-07-01,Occasional,1,161.72,161.72,2025-02-22,Medium
+C001068,54,Male,Pennsylvania,2023-08-18,Regular,3,844.73,281.58,2024-06-24,High
+C001069,59,Female,Florida,2024-01-26,Premium,2,384.65,192.33,2024-04-02,Medium
+C001070,36,Male,California,2023-04-29,Premium,6,1562.0,260.33,2024-04-15,Medium
+C001071,30,Male,Michigan,2024-08-29,Regular,2,472.65,236.33,2025-03-24,Low
+C001072,42,Male,Illinois,2023-11-17,Premium,4,689.5,172.37,2024-02-29,High
+C001073,30,Female,Ohio,2024-07-02,Regular,2,247.36,123.68,2025-08-20,Medium
+C001074,68,Male,North Carolina,2024-11-26,Occasional,0,0.0,0.0,,High
+C001075,32,Male,Ohio,2024-08-27,Premium,5,960.69,192.14,2025-03-27,High
+C001076,38,Male,Illinois,2024-04-16,Premium,0,0.0,0.0,,Medium
+C001077,47,Male,Michigan,2024-11-27,Regular,3,1157.09,385.7,2024-11-28,Low
+C001078,69,Male,Michigan,2024-11-12,Regular,0,0.0,0.0,,Medium
+C001079,62,Male,Illinois,2024-05-29,Occasional,2,3289.87,1644.94,2024-12-27,High
+C001080,58,Male,Georgia,2024-05-04,Regular,4,745.12,186.28,2024-09-14,High
+C001081,21,Female,Texas,2024-01-21,Occasional,3,766.08,255.36,2024-12-04,Low
+C001082,62,Male,Texas,2023-08-19,Regular,4,1750.49,437.62,2025-03-17,High
+C001083,37,Male,New York,2024-02-06,Occasional,6,1290.09,215.01,2025-03-31,Medium
+C001084,45,Female,Pennsylvania,2023-12-12,Regular,5,771.47,154.29,2024-04-03,Medium
+C001085,51,Female,Illinois,2023-03-15,Occasional,8,1310.48,163.81,2024-08-11,Low
+C001086,53,Female,California,2024-12-18,Premium,2,108.18,54.09,2025-01-24,Medium
+C001087,69,Male,Illinois,2024-08-17,Regular,2,311.05,155.52,2025-05-10,High
+C001088,54,Male,Georgia,2023-06-17,Occasional,2,136.71,68.36,2024-11-20,Medium
+C001089,27,Male,Florida,2023-10-26,Occasional,3,410.17,136.72,2023-12-13,Low
+C001090,18,Female,Michigan,2024-10-28,Premium,2,802.2,401.1,2025-07-11,High
+C001091,42,Female,Texas,2023-06-01,Premium,2,871.24,435.62,2024-03-10,Low
+C001092,48,Male,New York,2023-12-31,Premium,2,1150.11,575.05,2025-01-08,High
+C001093,39,Female,Texas,2024-10-27,Occasional,0,0.0,0.0,,High
+C001094,33,Male,California,2024-02-18,Premium,4,1557.82,389.46,2025-04-28,Medium
+C001095,37,Male,Ohio,2024-05-15,Occasional,2,437.28,218.64,2025-05-07,High
+C001096,23,Female,Ohio,2024-11-05,Regular,1,534.8,534.8,2025-01-27,High
+C001097,46,Female,New York,2024-10-30,Premium,2,56.65,28.32,2025-01-22,Low
+C001098,25,Female,North Carolina,2023-03-26,Premium,4,562.95,140.74,2024-05-21,Low
+C001099,54,Female,Illinois,2024-08-23,Occasional,3,1430.33,476.78,2024-11-29,High
+C001100,68,Male,Ohio,2023-04-07,Regular,8,2294.0,286.75,2024-06-28,High
+C001101,45,Female,Michigan,2024-12-20,Premium,0,0.0,0.0,,Low
+C001102,22,Male,Ohio,2023-11-30,Occasional,6,569.56,94.93,2025-05-16,Low
+C001103,53,Female,California,2024-02-08,Occasional,3,539.68,179.89,2025-06-26,High
+C001104,63,Male,Florida,2024-07-05,Occasional,1,94.66,94.66,2024-08-07,Low
+C001105,56,Male,New York,2023-07-05,Occasional,5,2688.58,537.72,2023-07-06,Medium
+C001106,25,Male,Texas,2023-11-18,Occasional,4,490.09,122.52,2025-03-13,Low
+C001107,28,Male,North Carolina,2024-10-30,Regular,0,0.0,0.0,,Low
+C001108,25,Female,Pennsylvania,2023-03-28,Occasional,6,834.83,139.14,2024-10-14,Low
+C001109,60,Male,Florida,2024-03-09,Regular,3,515.02,171.67,2024-12-08,Low
+C001110,68,Female,North Carolina,2024-06-15,Regular,1,189.77,189.77,2024-11-10,Low
+C001111,49,Female,North Carolina,2024-08-13,Regular,4,660.4,165.1,2024-11-19,High
+C001112,50,Male,California,2024-07-05,Occasional,4,1065.97,266.49,2024-09-29,Low
+C001113,20,Male,Texas,2023-08-31,Regular,8,1362.1,170.26,2023-12-18,Low
+C001114,56,Male,Michigan,2023-05-18,Regular,3,591.96,197.32,2024-02-11,Medium
+C001115,64,Female,California,2023-05-12,Occasional,9,3264.77,362.75,2023-08-13,Medium
+C001116,42,Male,Ohio,2023-09-24,Regular,3,3487.71,1162.57,2024-04-03,Low
+C001117,61,Female,Texas,2023-09-18,Occasional,5,426.17,85.23,2025-02-01,Low
+C001118,58,Female,Florida,2023-03-14,Occasional,10,3375.33,337.53,2023-11-06,Medium
+C001119,60,Male,Ohio,2024-07-31,Premium,3,517.05,172.35,2025-04-09,Medium
+C001120,42,Male,Michigan,2024-03-20,Premium,2,867.04,433.52,2025-07-18,Low
+C001121,25,Male,North Carolina,2023-10-04,Regular,3,628.13,209.38,2024-05-19,Low
+C001122,58,Male,Pennsylvania,2023-12-04,Regular,5,624.12,124.82,2025-06-25,Medium
+C001123,69,Male,Illinois,2023-05-30,Premium,5,1301.46,260.29,2025-04-10,Low
+C001124,32,Female,California,2024-01-22,Premium,5,819.62,163.92,2024-04-30,Low
+C001125,64,Female,Michigan,2024-06-23,Regular,1,562.13,562.13,2024-10-23,Low
+C001126,40,Female,North Carolina,2024-06-25,Regular,0,0.0,0.0,,High
+C001127,21,Male,Pennsylvania,2023-04-12,Regular,4,285.34,71.33,2023-04-21,Low
+C001128,69,Female,Georgia,2023-12-20,Occasional,6,1468.04,244.67,2024-02-14,Low
+C001129,18,Male,Texas,2023-09-23,Premium,6,1394.39,232.4,2024-04-26,Medium
+C001130,65,Female,New York,2024-08-04,Occasional,1,243.31,243.31,2024-10-07,High
+C001131,63,Male,Michigan,2024-01-15,Regular,3,206.23,68.74,2024-08-31,High
+C001132,29,Female,Pennsylvania,2024-04-13,Regular,3,633.01,211.0,2025-05-01,High
+C001133,35,Female,North Carolina,2023-10-21,Occasional,3,877.35,292.45,2024-05-08,Low
+C001134,58,Male,Illinois,2023-11-09,Regular,3,366.36,122.12,2023-12-28,Medium
+C001135,58,Male,California,2023-04-03,Occasional,7,1820.67,260.1,2024-01-29,Low
+C001136,28,Male,California,2023-04-06,Occasional,9,2081.36,231.26,2025-07-03,Medium
+C001137,49,Male,Ohio,2024-07-21,Occasional,4,516.9,129.22,2025-01-31,High
+C001138,48,Female,North Carolina,2023-05-20,Occasional,5,473.44,94.69,2024-10-14,High
+C001139,62,Male,Ohio,2024-06-29,Premium,0,0.0,0.0,,High
+C001140,65,Male,Ohio,2023-07-14,Occasional,8,1454.63,181.83,2025-04-13,High
+C001141,33,Male,Michigan,2023-12-20,Regular,1,267.94,267.94,2025-04-15,Low
+C001142,66,Male,Texas,2024-11-21,Premium,0,0.0,0.0,,Medium
+C001143,50,Female,New York,2023-05-17,Regular,3,2339.94,779.98,2025-06-14,Medium
+C001144,28,Female,California,2024-01-24,Regular,1,480.25,480.25,2024-10-15,High
+C001145,52,Male,Illinois,2023-09-13,Regular,6,4067.87,677.98,2024-07-19,Medium
+C001146,34,Male,New York,2023-10-28,Occasional,3,483.14,161.05,2024-11-08,High
+C001147,43,Male,Illinois,2024-08-05,Occasional,1,1001.81,1001.81,2024-08-27,High
+C001148,47,Female,New York,2023-02-06,Regular,7,2744.93,392.13,2024-03-29,Low
+C001149,47,Female,Illinois,2024-09-22,Regular,2,386.14,193.07,2025-06-12,Low
+C001150,40,Male,Ohio,2023-01-06,Regular,6,846.64,141.11,2025-02-14,Low
+C001151,45,Female,Florida,2023-04-14,Premium,5,2189.06,437.81,2025-05-27,High
+C001152,27,Female,California,2024-06-10,Regular,1,78.24,78.24,2025-01-11,Low
+C001153,67,Female,Florida,2023-06-09,Regular,10,1714.1,171.41,2025-07-28,Medium
+C001154,37,Female,Ohio,2024-01-19,Premium,3,909.1,303.03,2025-04-04,High
+C001155,24,Female,Georgia,2023-10-03,Premium,2,338.25,169.12,2025-03-16,Low
+C001156,65,Female,New York,2023-12-29,Regular,3,464.63,154.88,2024-04-15,High
+C001157,25,Male,Illinois,2023-07-23,Premium,5,1192.39,238.48,2025-03-11,Low
+C001158,44,Female,New York,2024-02-09,Premium,3,462.45,154.15,2024-11-13,High
+C001159,48,Female,California,2023-07-23,Regular,4,1242.34,310.58,2025-05-27,Medium
+C001160,49,Male,Pennsylvania,2024-07-17,Regular,2,450.67,225.34,2025-06-24,High
+C001161,26,Male,California,2024-02-03,Premium,3,603.53,201.18,2024-12-08,Low
+C001162,40,Male,Florida,2023-06-09,Premium,1,460.49,460.49,2025-03-09,High
+C001163,45,Male,Ohio,2023-12-17,Regular,2,3565.28,1782.64,2024-05-16,Medium
+C001164,49,Male,Ohio,2023-10-16,Premium,1,333.91,333.91,2025-05-20,High
+C001165,64,Male,Florida,2023-06-06,Regular,3,568.6,189.53,2023-11-20,Low
+C001166,62,Male,Ohio,2023-09-27,Premium,6,2349.69,391.62,2024-12-12,Medium
+C001167,68,Male,North Carolina,2024-12-24,Occasional,2,168.5,84.25,2025-01-24,Low
+C001168,55,Male,Florida,2023-07-13,Premium,5,1221.55,244.31,2025-04-06,Low
+C001169,20,Female,Florida,2024-02-15,Premium,4,793.84,198.46,2024-04-14,Medium
+C001170,57,Male,California,2023-01-19,Premium,7,4186.25,598.04,2023-12-11,Medium
+C001171,51,Female,Florida,2024-02-22,Premium,4,755.19,188.8,2025-04-17,Medium
+C001172,48,Male,North Carolina,2024-03-12,Regular,4,557.77,139.44,2025-04-16,High
+C001173,37,Male,Illinois,2023-02-22,Regular,6,1655.39,275.9,2025-02-08,Medium
+C001174,63,Female,Florida,2023-12-26,Regular,6,896.81,149.47,2024-10-27,Low
+C001175,20,Male,New York,2023-07-06,Occasional,6,619.11,103.19,2024-11-20,High
+C001176,31,Female,Georgia,2023-11-26,Regular,7,694.8,99.26,2024-06-23,High
+C001177,45,Male,Illinois,2023-04-14,Regular,5,1467.4,293.48,2025-02-09,Medium
+C001178,37,Male,California,2023-12-09,Occasional,2,1062.05,531.03,2025-07-03,Low
+C001179,53,Male,Pennsylvania,2024-11-30,Regular,5,1461.61,292.32,2025-02-19,High
+C001180,65,Female,Florida,2024-01-06,Occasional,6,843.02,140.5,2025-07-06,Medium
+C001181,55,Female,California,2023-08-04,Premium,4,476.94,119.24,2023-09-17,Low
+C001182,65,Male,New York,2024-10-06,Occasional,1,143.22,143.22,2025-02-07,High
+C001183,30,Female,California,2023-07-15,Premium,0,0.0,0.0,,High
+C001184,39,Female,Georgia,2024-09-25,Premium,3,377.16,125.72,2025-03-10,High
+C001185,20,Male,Florida,2023-06-07,Regular,6,1350.0,225.0,2023-10-27,High
+C001186,34,Female,Pennsylvania,2024-12-29,Regular,2,66.43,33.22,2025-06-16,High
+C001187,45,Male,Georgia,2023-05-01,Regular,5,1225.46,245.09,2025-07-05,High
+C001188,68,Male,Texas,2024-05-30,Occasional,1,395.79,395.79,2025-03-28,Medium
+C001189,26,Female,New York,2024-12-14,Occasional,0,0.0,0.0,,Low
+C001190,30,Female,Georgia,2024-12-11,Occasional,1,416.73,416.73,2025-06-06,High
+C001191,22,Male,Georgia,2024-06-09,Occasional,1,205.54,205.54,2024-08-11,Medium
+C001192,67,Female,Ohio,2024-07-29,Occasional,1,415.97,415.97,2025-02-18,Medium
+C001193,29,Male,Texas,2023-07-31,Occasional,7,1354.48,193.5,2023-09-18,Low
+C001194,62,Male,North Carolina,2024-08-29,Regular,1,46.95,46.95,2024-10-23,High
+C001195,64,Female,Illinois,2024-12-25,Premium,1,160.26,160.26,2025-05-13,Medium
+C001196,35,Male,Texas,2024-12-26,Premium,0,0.0,0.0,,Low
+C001197,33,Female,New York,2024-06-30,Occasional,3,1442.67,480.89,2025-06-30,Low
+C001198,26,Female,New York,2023-10-12,Occasional,8,2137.82,267.23,2025-07-03,Low
+C001199,52,Male,New York,2023-08-04,Occasional,9,785.03,87.23,2025-07-22,Medium
+C001200,56,Female,Pennsylvania,2024-10-09,Premium,3,710.55,236.85,2025-04-02,High
+C001201,34,Male,Ohio,2024-07-16,Occasional,1,713.79,713.79,2025-07-13,Medium
+C001202,21,Male,Pennsylvania,2023-11-29,Premium,2,417.74,208.87,2025-01-11,High
+C001203,29,Female,New York,2023-10-14,Occasional,3,365.11,121.7,2024-03-21,High
+C001204,24,Female,Illinois,2024-08-20,Occasional,4,622.25,155.56,2024-12-23,High
+C001205,53,Male,Georgia,2024-09-10,Premium,3,1065.04,355.01,2025-04-17,Medium
+C001206,31,Female,Texas,2023-10-03,Regular,6,2058.75,343.12,2025-07-14,Low
+C001207,41,Male,Georgia,2024-03-20,Premium,4,458.06,114.52,2024-04-17,Medium
+C001208,47,Male,Texas,2023-07-05,Premium,3,416.73,138.91,2025-06-14,High
+C001209,64,Male,Illinois,2024-05-17,Premium,1,402.07,402.07,2025-07-17,Medium
+C001210,29,Female,Michigan,2023-06-16,Premium,5,913.51,182.7,2025-05-19,Low
+C001211,22,Female,Florida,2023-05-27,Regular,8,2987.82,373.48,2024-08-29,High
+C001212,24,Male,New York,2024-02-17,Occasional,3,872.81,290.94,2024-04-09,Low
+C001213,42,Male,California,2024-01-22,Premium,2,945.56,472.78,2025-07-01,High
+C001214,26,Male,California,2023-02-14,Regular,2,346.61,173.3,2025-06-02,Low
+C001215,56,Male,New York,2024-10-04,Premium,3,358.11,119.37,2025-08-14,High
+C001216,63,Male,Florida,2023-12-13,Premium,2,472.24,236.12,2024-07-07,Medium
+C001217,46,Male,Illinois,2024-07-30,Regular,8,3597.32,449.67,2025-07-26,Medium
+C001218,33,Male,North Carolina,2023-06-08,Occasional,6,1544.36,257.39,2023-07-15,Medium
+C001219,52,Male,New York,2024-10-04,Premium,2,614.31,307.16,2024-10-23,Low
+C001220,36,Male,North Carolina,2024-07-11,Regular,1,536.62,536.62,2024-12-19,Low
+C001221,32,Male,Florida,2023-01-02,Regular,7,1812.81,258.97,2023-02-03,Medium
+C001222,40,Female,Florida,2023-05-31,Occasional,4,1023.17,255.79,2025-03-04,Medium
+C001223,63,Male,Georgia,2024-12-04,Premium,3,452.01,150.67,2025-03-13,Low
+C001224,24,Female,Pennsylvania,2023-08-18,Premium,3,404.41,134.8,2024-10-27,High
+C001225,25,Female,California,2023-12-08,Premium,4,628.17,157.04,2024-08-05,High
+C001226,29,Female,North Carolina,2023-06-04,Regular,3,1000.6,333.53,2025-04-07,High
+C001227,61,Female,Texas,2023-07-05,Occasional,6,1234.21,205.7,2024-08-24,High
+C001228,57,Female,Pennsylvania,2023-11-05,Premium,4,2118.67,529.67,2025-07-18,Medium
+C001229,60,Female,Illinois,2024-05-26,Occasional,3,950.55,316.85,2024-06-13,Low
+C001230,27,Male,Pennsylvania,2023-01-03,Premium,7,1386.34,198.05,2024-07-01,Medium
+C001231,64,Female,California,2024-04-02,Premium,2,706.14,353.07,2025-08-05,High
+C001232,64,Female,Texas,2024-03-13,Premium,3,461.37,153.79,2024-09-03,Medium
+C001233,29,Female,Pennsylvania,2023-05-11,Regular,7,3700.97,528.71,2024-07-29,Medium
+C001234,48,Female,Michigan,2024-03-10,Occasional,1,100.86,100.86,2025-04-29,Medium
+C001235,69,Male,Ohio,2023-05-22,Regular,1,114.03,114.03,2023-09-26,High
+C001236,52,Female,North Carolina,2024-05-24,Occasional,7,2899.16,414.17,2025-02-21,Low
+C001237,23,Female,North Carolina,2024-01-29,Occasional,2,266.51,133.25,2024-07-21,High
+C001238,62,Male,Florida,2023-08-13,Regular,1,46.02,46.02,2025-04-11,Low
+C001239,19,Female,North Carolina,2023-07-28,Regular,5,1509.76,301.95,2025-04-07,Low
+C001240,21,Female,Pennsylvania,2023-04-23,Premium,2,511.37,255.69,2024-08-12,Medium
+C001241,27,Female,Florida,2024-04-16,Premium,2,883.09,441.55,2025-05-05,Low
+C001242,65,Male,California,2023-02-27,Occasional,4,645.7,161.43,2024-08-05,High
+C001243,42,Male,Ohio,2023-05-27,Regular,4,735.24,183.81,2025-05-05,Low
+C001244,24,Male,Georgia,2024-12-19,Occasional,2,623.35,311.68,2025-08-22,Low
+C001245,27,Female,Texas,2023-01-31,Premium,11,3005.37,273.22,2024-06-22,Low
+C001246,18,Female,Texas,2023-03-20,Premium,8,1436.8,179.6,2025-04-21,Medium
+C001247,65,Female,Georgia,2023-05-24,Regular,6,1319.59,219.93,2023-12-04,High
+C001248,46,Male,Illinois,2023-12-12,Premium,5,1603.98,320.8,2024-08-02,Low
+C001249,59,Male,Michigan,2023-03-03,Premium,3,753.73,251.24,2024-12-04,High
+C001250,18,Female,Ohio,2023-06-14,Occasional,0,0.0,0.0,,Medium
+C001251,63,Female,Michigan,2024-07-21,Occasional,2,344.53,172.27,2025-04-27,Medium
+C001252,32,Female,Texas,2024-12-27,Regular,0,0.0,0.0,,Low
+C001253,42,Male,Florida,2024-06-18,Regular,3,709.92,236.64,2024-08-02,High
+C001254,32,Female,Texas,2023-02-27,Occasional,3,1211.67,403.89,2024-02-28,High
+C001255,22,Female,Georgia,2024-09-11,Regular,3,151.35,50.45,2025-01-10,High
+C001256,43,Female,Texas,2024-10-19,Premium,3,261.89,87.3,2025-08-05,Medium
+C001257,45,Male,Illinois,2024-10-24,Premium,1,158.94,158.94,2025-05-09,Low
+C001258,41,Female,New York,2023-03-21,Premium,3,317.19,105.73,2025-01-20,Medium
+C001259,52,Male,California,2023-06-16,Premium,3,899.66,299.89,2025-05-27,High
+C001260,66,Female,Florida,2023-01-12,Occasional,5,708.11,141.62,2025-06-20,Low
+C001261,20,Male,Illinois,2024-10-15,Premium,0,0.0,0.0,,High
+C001262,20,Female,New York,2024-08-01,Premium,3,1019.58,339.86,2025-08-20,Medium
+C001263,37,Male,Pennsylvania,2023-04-06,Regular,7,2247.22,321.03,2023-04-14,Medium
+C001264,30,Female,Ohio,2024-05-27,Occasional,2,433.19,216.6,2024-11-09,Medium
+C001265,62,Male,Pennsylvania,2023-05-13,Regular,3,441.3,147.1,2024-01-03,High
+C001266,24,Male,New York,2024-05-30,Occasional,2,298.17,149.08,2024-08-10,Medium
+C001267,55,Male,Illinois,2024-05-03,Premium,5,903.49,180.7,2025-03-04,Low
+C001268,47,Male,California,2024-11-29,Occasional,1,370.91,370.91,2025-02-19,Low
+C001269,69,Male,Texas,2023-08-09,Occasional,3,815.62,271.87,2025-08-16,High
+C001270,59,Female,Georgia,2024-09-15,Premium,3,518.89,172.96,2025-04-30,Medium
+C001271,41,Female,New York,2023-10-25,Occasional,4,539.36,134.84,2025-08-11,High
+C001272,33,Male,Michigan,2024-02-01,Occasional,1,74.69,74.69,2024-04-17,Low
+C001273,54,Female,California,2023-06-06,Premium,7,1567.65,223.95,2023-12-19,Low
+C001274,53,Male,Georgia,2023-11-13,Premium,3,327.46,109.15,2025-01-28,Medium
+C001275,28,Female,Texas,2023-11-18,Premium,4,1078.79,269.7,2025-07-13,Medium
+C001276,41,Female,California,2024-08-13,Premium,2,231.32,115.66,2025-07-28,Low
+C001277,67,Female,Illinois,2024-12-28,Regular,1,39.43,39.43,2025-03-04,Medium
+C001278,59,Male,California,2024-03-28,Occasional,4,594.86,148.72,2024-09-20,Medium
+C001279,41,Female,Ohio,2023-02-10,Regular,3,868.93,289.64,2025-05-04,High
+C001280,26,Female,Pennsylvania,2024-11-27,Occasional,2,326.16,163.08,2025-03-01,High
+C001281,41,Male,Ohio,2023-11-18,Occasional,3,384.04,128.01,2024-08-09,Medium
+C001282,61,Male,Michigan,2023-09-27,Occasional,8,1031.82,128.98,2024-08-06,Low
+C001283,62,Male,Texas,2023-09-08,Premium,2,187.81,93.91,2025-07-19,Medium
+C001284,28,Female,California,2024-01-20,Premium,2,952.53,476.26,2025-07-20,Medium
+C001285,60,Male,Pennsylvania,2024-04-18,Regular,6,2239.52,373.25,2024-05-23,Medium
+C001286,52,Female,California,2024-10-19,Premium,2,831.51,415.75,2024-10-24,Low
+C001287,43,Female,Florida,2023-04-21,Regular,5,833.59,166.72,2025-03-16,Medium
+C001288,38,Female,Michigan,2023-03-08,Regular,3,913.75,304.58,2024-06-03,Low
+C001289,65,Female,California,2024-12-20,Regular,0,0.0,0.0,,Medium
+C001290,52,Male,Georgia,2023-02-09,Premium,5,1527.71,305.54,2024-06-28,High
+C001291,38,Male,Michigan,2023-08-07,Regular,5,913.54,182.71,2024-02-29,Low
+C001292,68,Female,Georgia,2024-01-06,Premium,4,914.57,228.64,2024-01-17,Low
+C001293,19,Female,Illinois,2023-08-05,Regular,5,936.43,187.29,2024-01-02,High
+C001294,23,Male,California,2023-06-30,Regular,10,2025.26,202.53,2024-01-02,Medium
+C001295,37,Female,Ohio,2023-03-25,Occasional,3,159.65,53.22,2024-05-26,Low
+C001296,34,Male,New York,2024-11-16,Premium,2,170.48,85.24,2025-02-28,Medium
+C001297,66,Female,Texas,2023-12-17,Premium,4,1499.67,374.92,2024-02-27,Medium
+C001298,48,Female,North Carolina,2024-03-05,Occasional,2,92.11,46.06,2025-01-13,Low
+C001299,45,Female,Michigan,2024-12-14,Regular,2,152.33,76.17,2024-12-21,Low
+C001300,68,Male,California,2024-07-28,Occasional,2,621.9,310.95,2025-04-01,High
+C001301,57,Male,Pennsylvania,2024-08-15,Occasional,1,296.52,296.52,2025-07-22,High
+C001302,18,Male,Georgia,2023-11-21,Premium,3,578.3,192.77,2024-12-29,Medium
+C001303,25,Female,Illinois,2023-11-21,Occasional,1,120.18,120.18,2024-05-08,High
+C001304,46,Male,Georgia,2023-01-04,Occasional,4,1695.42,423.86,2025-03-07,High
+C001305,20,Male,Florida,2023-04-10,Regular,7,1561.9,223.13,2024-05-12,High
+C001306,67,Male,Michigan,2024-07-13,Regular,2,105.59,52.79,2025-05-22,Low
+C001307,31,Male,Michigan,2023-12-23,Premium,6,1030.28,171.71,2025-02-16,Medium
+C001308,19,Female,Illinois,2024-01-08,Occasional,6,1548.8,258.13,2024-01-10,Low
+C001309,49,Female,Ohio,2024-12-17,Regular,0,0.0,0.0,,Medium
+C001310,52,Female,North Carolina,2023-12-27,Regular,4,876.01,219.0,2024-02-05,Low
+C001311,47,Female,Pennsylvania,2023-06-30,Premium,4,926.55,231.64,2023-12-07,High
+C001312,28,Female,Ohio,2024-09-01,Regular,4,1258.81,314.7,2025-05-13,High
+C001313,61,Female,Illinois,2024-12-06,Occasional,2,963.94,481.97,2025-02-04,High
+C001314,23,Male,California,2023-04-12,Occasional,3,826.06,275.35,2024-05-19,Low
+C001315,44,Male,Georgia,2024-09-23,Occasional,1,117.6,117.6,2025-06-07,High
+C001316,24,Female,North Carolina,2024-07-11,Occasional,1,332.08,332.08,2025-01-30,Low
+C001317,36,Female,Florida,2024-11-14,Premium,0,0.0,0.0,,Medium
+C001318,42,Male,Florida,2024-07-18,Regular,1,315.67,315.67,2025-07-17,Low
+C001319,68,Female,Ohio,2023-12-26,Occasional,5,1270.19,254.04,2024-01-02,High
+C001320,18,Female,Florida,2024-02-10,Occasional,4,778.57,194.64,2025-07-29,Medium
+C001321,60,Female,Illinois,2023-10-02,Regular,9,2226.17,247.35,2023-11-21,High
+C001322,18,Female,New York,2023-09-05,Premium,6,1211.13,201.86,2023-09-25,Low
+C001323,68,Female,North Carolina,2023-06-07,Occasional,2,246.17,123.09,2024-01-18,High
+C001324,39,Male,Michigan,2023-11-22,Regular,5,533.4,106.68,2025-04-10,Low
+C001325,43,Male,Michigan,2024-07-23,Occasional,4,1303.47,325.87,2024-11-08,Medium
+C001326,69,Female,Texas,2023-02-22,Occasional,2,1076.39,538.2,2023-09-22,Medium
+C001327,43,Female,North Carolina,2023-06-27,Premium,5,1406.02,281.2,2025-08-07,Medium
+C001328,24,Male,North Carolina,2023-08-25,Premium,4,3364.17,841.04,2024-12-11,High
+C001329,68,Female,Illinois,2024-08-13,Occasional,5,296.42,59.28,2025-05-12,Low
+C001330,31,Male,California,2023-11-27,Premium,6,2206.89,367.81,2025-06-23,Medium
+C001331,58,Male,New York,2023-01-12,Occasional,5,1272.13,254.43,2025-01-13,High
+C001332,23,Female,New York,2024-07-10,Occasional,1,342.2,342.2,2025-03-04,High
+C001333,47,Female,Texas,2023-05-14,Premium,2,592.33,296.17,2025-08-06,High
+C001334,37,Male,North Carolina,2023-08-16,Premium,6,1883.56,313.93,2024-01-12,High
+C001335,67,Female,New York,2024-01-23,Regular,1,143.22,143.22,2025-07-06,Low
+C001336,58,Male,Michigan,2023-05-28,Premium,6,1091.03,181.84,2024-07-14,Low
+C001337,56,Male,California,2024-04-15,Premium,3,1147.11,382.37,2025-07-31,Medium
+C001338,29,Male,California,2023-09-26,Regular,1,110.42,110.42,2025-01-18,Medium
+C001339,43,Male,Georgia,2023-08-01,Premium,5,1964.77,392.95,2023-12-03,Medium
+C001340,49,Male,Florida,2023-03-17,Occasional,4,1056.37,264.09,2023-11-17,Medium
+C001341,38,Female,Texas,2024-01-20,Premium,4,2373.16,593.29,2025-08-19,Medium
+C001342,29,Male,California,2023-01-11,Regular,8,784.99,98.12,2024-06-07,Medium
+C001343,57,Male,Texas,2024-05-10,Occasional,2,90.14,45.07,2025-06-25,High
+C001344,25,Male,Michigan,2023-09-18,Premium,4,1025.54,256.39,2025-07-25,High
+C001345,51,Male,Florida,2023-01-24,Regular,5,3419.42,683.88,2023-04-16,Low
+C001346,19,Female,Texas,2023-08-11,Premium,4,1864.21,466.05,2024-09-09,Low
+C001347,26,Female,Illinois,2024-12-09,Regular,2,86.91,43.46,2025-03-30,Low
+C001348,40,Female,Georgia,2023-04-05,Occasional,4,1134.12,283.53,2025-06-13,Medium
+C001349,50,Female,Florida,2024-03-22,Regular,1,90.2,90.2,2024-08-06,Low
+C001350,61,Female,Ohio,2023-07-22,Premium,1,287.35,287.35,2024-02-10,High
+C001351,37,Male,Florida,2024-08-24,Occasional,2,555.09,277.55,2024-11-04,Medium
+C001352,46,Female,Michigan,2024-03-19,Occasional,2,339.51,169.75,2025-05-25,Medium
+C001353,57,Male,Michigan,2023-11-23,Regular,4,1739.68,434.92,2024-12-19,Medium
+C001354,54,Female,Pennsylvania,2023-07-24,Occasional,5,861.26,172.25,2025-08-18,Low
+C001355,28,Male,North Carolina,2024-04-05,Regular,1,211.37,211.37,2025-07-05,High
+C001356,36,Female,Ohio,2024-02-24,Premium,5,1421.49,284.3,2024-11-24,Low
+C001357,69,Female,Ohio,2023-07-04,Premium,6,1074.93,179.16,2024-02-15,Medium
+C001358,22,Male,Pennsylvania,2023-09-09,Regular,5,2491.63,498.33,2024-10-11,Low
+C001359,25,Male,Pennsylvania,2023-11-18,Occasional,4,1500.13,375.03,2025-04-13,Low
+C001360,31,Female,Michigan,2023-12-03,Regular,3,843.09,281.03,2025-05-25,Low
+C001361,22,Female,Illinois,2024-07-29,Occasional,5,622.96,124.59,2024-11-14,Low
+C001362,31,Male,North Carolina,2024-06-23,Regular,1,182.65,182.65,2024-12-05,High
+C001363,69,Male,Michigan,2024-09-14,Occasional,1,29.44,29.44,2025-04-10,Medium
+C001364,66,Female,Pennsylvania,2024-11-29,Regular,1,173.41,173.41,2024-12-31,Low
+C001365,21,Female,Georgia,2023-07-21,Premium,2,617.43,308.72,2025-04-22,Medium
+C001366,25,Male,Georgia,2024-03-07,Premium,5,1462.57,292.51,2025-07-11,High
+C001367,55,Female,Florida,2023-12-01,Occasional,3,551.81,183.94,2025-05-12,Low
+C001368,19,Male,Georgia,2023-10-19,Regular,6,1747.8,291.3,2024-04-30,Low
+C001369,20,Male,Pennsylvania,2024-02-17,Occasional,3,361.83,120.61,2025-07-18,Low
+C001370,48,Male,Ohio,2023-03-13,Occasional,2,164.98,82.49,2024-11-25,Medium
+C001371,38,Female,Ohio,2023-10-09,Premium,5,1246.13,249.23,2025-08-01,High
+C001372,49,Male,Ohio,2023-11-17,Regular,5,1216.14,243.23,2025-05-28,High
+C001373,49,Male,Pennsylvania,2024-04-10,Occasional,4,456.69,114.17,2024-05-24,Low
+C001374,32,Male,New York,2023-01-30,Premium,7,2422.34,346.05,2023-10-08,Low
+C001375,62,Female,Florida,2023-11-27,Premium,5,1955.58,391.12,2025-07-24,Low
+C001376,64,Female,North Carolina,2023-07-15,Premium,4,891.32,222.83,2024-05-18,High
+C001377,34,Male,California,2023-02-23,Premium,5,838.25,167.65,2025-04-29,Medium
+C001378,34,Female,Michigan,2023-03-18,Regular,7,1993.55,284.79,2023-12-03,Medium
+C001379,28,Male,Michigan,2024-12-16,Regular,1,39.89,39.89,2025-01-31,Low
+C001380,38,Male,Michigan,2023-05-10,Regular,3,482.09,160.7,2024-05-15,High
+C001381,60,Male,North Carolina,2024-04-02,Occasional,0,0.0,0.0,,Low
+C001382,48,Female,Illinois,2024-08-14,Regular,3,1344.1,448.03,2024-09-02,High
+C001383,32,Male,Illinois,2024-05-09,Regular,4,685.97,171.49,2024-11-05,High
+C001384,40,Male,Florida,2023-03-26,Occasional,5,665.65,133.13,2025-08-01,Low
+C001385,49,Male,Florida,2023-03-18,Premium,4,885.47,221.37,2023-04-24,High
+C001386,47,Female,Florida,2023-08-10,Regular,6,1274.51,212.42,2025-03-09,Low
+C001387,31,Female,Illinois,2023-12-15,Occasional,1,99.44,99.44,2024-12-09,Medium
+C001388,27,Male,Texas,2024-11-02,Premium,0,0.0,0.0,,Medium
+C001389,46,Male,Ohio,2024-01-30,Premium,1,205.2,205.2,2024-02-16,Low
+C001390,45,Male,Illinois,2023-10-12,Occasional,5,1488.22,297.64,2025-06-16,High
+C001391,27,Female,California,2023-04-15,Occasional,9,1490.53,165.61,2025-07-22,Low
+C001392,19,Female,Texas,2023-09-04,Regular,1,94.08,94.08,2025-03-11,Low
+C001393,60,Female,Pennsylvania,2024-05-02,Regular,3,680.18,226.73,2024-12-19,Low
+C001394,23,Female,Ohio,2024-07-17,Premium,6,1416.46,236.08,2024-08-28,Low
+C001395,50,Female,North Carolina,2024-02-11,Regular,1,1257.41,1257.41,2025-08-20,Low
+C001396,35,Female,California,2024-03-27,Premium,6,1763.1,293.85,2024-05-23,High
+C001397,64,Female,Florida,2024-01-27,Regular,5,1637.09,327.42,2025-06-07,Low
+C001398,29,Female,North Carolina,2024-02-17,Occasional,2,74.99,37.5,2025-07-17,Medium
+C001399,45,Male,New York,2024-06-15,Occasional,3,1755.07,585.02,2024-10-11,Low
+C001400,32,Male,New York,2023-04-24,Premium,3,1413.91,471.3,2023-12-05,High
+C001401,33,Male,North Carolina,2023-09-30,Premium,4,765.63,191.41,2024-02-18,Medium
+C001402,57,Female,Ohio,2023-08-20,Regular,4,1175.45,293.86,2023-09-06,Low
+C001403,64,Female,Georgia,2023-08-14,Premium,4,1266.45,316.61,2025-03-06,Low
+C001404,40,Female,Michigan,2023-07-28,Regular,6,838.7,139.78,2024-07-12,High
+C001405,24,Male,North Carolina,2023-01-04,Occasional,5,397.33,79.47,2025-03-27,High
+C001406,65,Female,Florida,2024-05-03,Premium,5,1598.17,319.63,2025-08-09,Medium
+C001407,22,Male,Texas,2024-11-28,Regular,2,162.01,81.01,2025-03-08,Medium
+C001408,18,Female,Ohio,2023-05-26,Regular,4,474.97,118.74,2023-09-14,Low
+C001409,34,Male,Texas,2023-07-01,Occasional,2,414.53,207.27,2024-06-28,Low
+C001410,40,Female,Michigan,2024-08-31,Premium,1,998.24,998.24,2025-03-27,Medium
+C001411,48,Male,New York,2023-09-11,Premium,4,1325.28,331.32,2023-11-11,High
+C001412,36,Male,North Carolina,2024-11-27,Occasional,1,18.92,18.92,2025-01-28,Low
+C001413,67,Male,California,2023-05-31,Regular,6,1405.47,234.25,2023-09-01,High
+C001414,46,Female,Pennsylvania,2023-12-10,Occasional,2,243.06,121.53,2024-09-11,Medium
+C001415,49,Female,Pennsylvania,2024-11-10,Regular,3,791.47,263.82,2025-03-09,Low
+C001416,37,Female,North Carolina,2023-12-28,Occasional,3,509.52,169.84,2024-03-08,High
+C001417,25,Female,North Carolina,2024-05-10,Occasional,2,969.82,484.91,2024-07-17,High
+C001418,27,Female,Florida,2023-01-22,Occasional,9,2610.34,290.04,2023-02-15,Low
+C001419,49,Male,Florida,2024-01-01,Occasional,4,1371.69,342.92,2025-06-25,High
+C001420,45,Female,Florida,2024-12-13,Occasional,1,43.86,43.86,2025-05-18,Low
+C001421,42,Male,Illinois,2023-07-18,Occasional,3,957.86,319.29,2024-02-20,High
+C001422,46,Male,Illinois,2024-07-11,Occasional,2,2553.81,1276.9,2024-08-30,Medium
+C001423,43,Female,Illinois,2023-12-06,Regular,3,246.35,82.12,2024-12-18,Low
+C001424,55,Female,Michigan,2023-02-12,Premium,7,1712.64,244.66,2024-01-19,Medium
+C001425,54,Female,Illinois,2024-04-10,Premium,7,1012.1,144.59,2025-05-09,Low
+C001426,61,Male,Georgia,2024-05-25,Occasional,1,277.24,277.24,2025-05-29,Low
+C001427,36,Male,Illinois,2024-06-19,Regular,4,585.57,146.39,2025-06-18,Medium
+C001428,69,Female,New York,2023-03-08,Regular,4,1370.61,342.65,2023-08-23,Low
+C001429,36,Male,New York,2023-08-11,Regular,0,0.0,0.0,,Medium
+C001430,45,Female,New York,2023-01-06,Premium,11,1579.94,143.63,2025-03-18,Medium
+C001431,40,Female,North Carolina,2023-05-22,Occasional,3,911.86,303.95,2023-09-11,High
+C001432,23,Female,Texas,2023-06-08,Occasional,7,2189.8,312.83,2025-02-02,Low
+C001433,55,Male,Illinois,2024-03-18,Premium,5,1419.31,283.86,2025-07-19,Low
+C001434,40,Male,Ohio,2024-04-29,Regular,4,2000.81,500.2,2024-05-07,Medium
+C001435,34,Female,Michigan,2023-04-11,Regular,6,1622.81,270.47,2024-10-23,Low
+C001436,45,Female,Michigan,2024-07-31,Premium,2,180.36,90.18,2024-09-02,High
+C001437,34,Male,Ohio,2023-07-24,Occasional,5,1211.71,242.34,2024-08-12,Low
+C001438,37,Male,Illinois,2023-11-05,Occasional,3,1034.79,344.93,2024-07-19,High
+C001439,52,Male,Ohio,2024-04-17,Regular,4,529.62,132.4,2024-10-12,Low
+C001440,51,Female,Pennsylvania,2023-05-22,Occasional,6,917.87,152.98,2024-04-02,High
+C001441,40,Female,Pennsylvania,2024-12-30,Regular,0,0.0,0.0,,Medium
+C001442,44,Female,New York,2024-03-06,Occasional,1,470.33,470.33,2024-10-31,Low
+C001443,23,Male,Michigan,2024-03-07,Regular,1,57.87,57.87,2024-03-10,Low
+C001444,50,Female,Texas,2024-08-17,Occasional,3,1674.76,558.25,2025-02-21,High
+C001445,36,Male,Ohio,2024-08-02,Premium,2,468.1,234.05,2024-12-03,Medium
+C001446,18,Female,North Carolina,2024-11-17,Regular,3,424.27,141.42,2025-08-18,Low
+C001447,21,Female,California,2023-03-28,Regular,4,887.35,221.84,2023-12-21,High
+C001448,70,Female,Michigan,2023-04-10,Regular,4,691.91,172.98,2025-05-15,High
+C001449,21,Male,Michigan,2023-12-06,Occasional,6,1474.33,245.72,2025-06-29,High
+C001450,62,Male,North Carolina,2023-02-24,Premium,3,734.48,244.83,2024-09-21,High
+C001451,26,Male,Texas,2024-05-22,Regular,1,60.18,60.18,2025-06-28,High
+C001452,64,Male,Georgia,2023-11-15,Occasional,2,706.9,353.45,2025-02-28,High
+C001453,25,Male,New York,2023-07-25,Premium,3,281.42,93.81,2025-06-02,High
+C001454,51,Male,Florida,2023-05-04,Premium,6,1165.39,194.23,2025-04-15,Low
+C001455,19,Female,Ohio,2024-04-30,Premium,5,1952.12,390.42,2025-03-23,Low
+C001456,43,Female,Texas,2023-11-04,Premium,2,554.2,277.1,2024-09-30,High
+C001457,70,Female,Michigan,2023-09-24,Premium,5,720.84,144.17,2024-02-16,Medium
+C001458,58,Male,Texas,2023-05-30,Premium,4,1318.86,329.71,2024-04-13,High
+C001459,33,Male,North Carolina,2024-11-04,Occasional,2,121.28,60.64,2025-08-04,High
+C001460,30,Female,Georgia,2024-07-13,Regular,1,599.51,599.51,2024-10-03,Medium
+C001461,24,Female,Pennsylvania,2024-11-14,Occasional,2,3556.41,1778.2,2025-03-29,Medium
+C001462,42,Male,Georgia,2024-02-05,Regular,2,237.65,118.82,2025-04-26,Medium
+C001463,19,Female,Georgia,2023-06-01,Premium,4,916.63,229.16,2023-08-19,High
+C001464,18,Female,New York,2024-02-03,Occasional,1,78.45,78.45,2025-03-16,High
+C001465,57,Female,New York,2024-11-03,Regular,1,127.7,127.7,2024-12-27,Low
+C001466,64,Female,Illinois,2024-04-24,Premium,3,299.34,99.78,2024-09-10,Low
+C001467,50,Male,Pennsylvania,2024-01-02,Occasional,3,1854.19,618.06,2024-09-27,High
+C001468,50,Male,Texas,2024-02-04,Occasional,5,512.14,102.43,2025-06-04,Low
+C001469,59,Female,Georgia,2023-12-27,Occasional,4,918.39,229.6,2025-05-18,Low
+C001470,68,Female,Ohio,2023-10-13,Premium,3,447.41,149.14,2025-03-28,High
+C001471,42,Female,Michigan,2024-05-10,Occasional,4,1095.28,273.82,2024-05-12,Low
+C001472,63,Female,Texas,2024-08-12,Occasional,1,288.7,288.7,2024-11-30,Medium
+C001473,55,Female,Michigan,2024-08-25,Occasional,4,762.39,190.6,2025-08-16,Medium
+C001474,20,Male,Texas,2023-03-11,Premium,4,356.15,89.04,2023-11-04,Low
+C001475,24,Female,Georgia,2024-11-12,Regular,3,835.57,278.52,2025-05-31,Low
+C001476,24,Male,Ohio,2023-08-31,Regular,4,1078.71,269.68,2025-07-20,Low
+C001477,57,Female,California,2023-03-05,Premium,7,1637.39,233.91,2024-01-18,High
+C001478,46,Female,Michigan,2023-03-16,Occasional,5,675.94,135.19,2025-06-17,Low
+C001479,38,Male,Georgia,2023-06-28,Regular,3,473.17,157.72,2025-08-20,Low
+C001480,54,Male,Florida,2024-10-14,Regular,1,379.32,379.32,2025-07-10,Medium
+C001481,61,Female,Florida,2024-03-24,Premium,9,2315.22,257.25,2025-08-14,High
+C001482,45,Male,California,2023-06-15,Occasional,3,832.47,277.49,2025-07-12,Low
+C001483,60,Male,Florida,2024-10-06,Premium,2,185.46,92.73,2025-06-04,Low
+C001484,41,Female,Michigan,2023-01-06,Occasional,6,1758.46,293.08,2025-07-01,Low
+C001485,29,Female,Florida,2023-12-15,Premium,5,1392.18,278.44,2024-05-04,High
+C001486,50,Female,Pennsylvania,2024-04-30,Occasional,3,441.64,147.21,2025-03-05,High
+C001487,69,Male,Georgia,2023-05-22,Regular,5,772.99,154.6,2023-11-03,High
+C001488,22,Male,Texas,2024-01-21,Occasional,1,121.42,121.42,2025-08-04,Medium
+C001489,25,Female,Florida,2023-04-14,Premium,7,2752.12,393.16,2023-07-14,High
+C001490,39,Male,Florida,2024-07-07,Regular,5,980.85,196.17,2024-07-12,Medium
+C001491,63,Female,California,2024-02-04,Premium,4,737.43,184.36,2024-09-12,Medium
+C001492,52,Male,North Carolina,2023-03-18,Occasional,6,941.9,156.98,2024-05-05,High
+C001493,43,Male,North Carolina,2023-11-16,Occasional,3,1281.66,427.22,2024-11-16,Low
+C001494,48,Female,New York,2024-08-19,Premium,0,0.0,0.0,,Medium
+C001495,34,Male,Pennsylvania,2024-03-07,Premium,4,1002.74,250.68,2024-11-13,Low
+C001496,53,Female,New York,2023-07-29,Premium,0,0.0,0.0,,Medium
+C001497,69,Male,Pennsylvania,2023-03-16,Premium,4,2016.02,504.01,2025-03-23,Medium
+C001498,65,Male,North Carolina,2024-09-04,Regular,3,402.98,134.33,2025-08-02,Low
+C001499,64,Male,California,2023-10-05,Premium,6,1053.91,175.65,2023-10-19,Medium
+C001500,32,Female,Ohio,2024-06-03,Regular,4,1917.95,479.49,2024-06-10,Medium
+C001501,19,Male,New York,2023-08-22,Premium,3,1321.55,440.52,2023-11-07,High
+C001502,42,Male,North Carolina,2024-09-14,Regular,3,1087.52,362.51,2024-10-21,Low
+C001503,67,Female,Texas,2024-02-01,Regular,3,1366.94,455.65,2024-12-20,High
+C001504,53,Male,California,2024-03-13,Regular,3,558.47,186.16,2024-07-16,Low
+C001505,41,Female,Florida,2024-09-22,Regular,1,565.69,565.69,2025-01-24,Medium
+C001506,33,Male,California,2023-03-01,Occasional,6,2377.57,396.26,2023-10-09,Low
+C001507,44,Male,New York,2023-08-21,Occasional,3,423.34,141.11,2025-01-08,Low
+C001508,22,Male,Texas,2023-02-28,Regular,4,593.85,148.46,2023-07-12,Low
+C001509,20,Female,Pennsylvania,2023-10-17,Occasional,7,1212.1,173.16,2024-04-12,High
+C001510,36,Male,Michigan,2023-09-08,Regular,3,465.26,155.09,2025-03-17,Medium
+C001511,25,Male,California,2024-11-04,Regular,2,235.17,117.58,2025-07-08,High
+C001512,49,Female,Florida,2023-07-30,Regular,3,711.07,237.02,2024-05-07,High
+C001513,41,Female,Florida,2023-11-06,Occasional,3,612.72,204.24,2024-08-24,Medium
+C001514,62,Male,New York,2023-11-23,Regular,2,483.47,241.74,2025-04-16,Medium
+C001515,57,Female,Illinois,2024-12-23,Premium,2,90.42,45.21,2024-12-29,Low
+C001516,51,Male,Illinois,2023-05-21,Occasional,7,1360.9,194.41,2024-11-06,High
+C001517,25,Female,Texas,2023-08-04,Premium,4,658.05,164.51,2024-11-06,Low
+C001518,46,Female,California,2024-12-16,Premium,0,0.0,0.0,,Medium
+C001519,35,Female,Michigan,2023-02-04,Regular,5,566.23,113.25,2024-11-27,Medium
+C001520,21,Female,Michigan,2023-03-28,Regular,8,1953.23,244.15,2023-07-04,Medium
+C001521,42,Female,Georgia,2023-01-20,Premium,9,5064.14,562.68,2023-03-23,Low
+C001522,42,Male,Ohio,2023-07-30,Occasional,1,705.08,705.08,2025-04-17,Low
+C001523,37,Male,North Carolina,2024-11-07,Regular,1,323.57,323.57,2025-08-18,Low
+C001524,66,Female,Illinois,2024-09-15,Occasional,2,418.06,209.03,2025-03-03,Low
+C001525,39,Female,Ohio,2023-01-29,Occasional,4,1125.2,281.3,2023-06-07,High
+C001526,69,Male,North Carolina,2023-02-28,Regular,4,4024.82,1006.21,2025-08-08,High
+C001527,36,Female,Ohio,2024-11-25,Occasional,1,90.69,90.69,2025-02-04,High
+C001528,67,Female,Texas,2024-08-04,Regular,2,202.24,101.12,2025-02-19,Medium
+C001529,26,Male,Illinois,2023-09-01,Occasional,4,1325.88,331.47,2025-02-01,Medium
+C001530,33,Female,Pennsylvania,2023-03-29,Occasional,5,1294.92,258.98,2025-02-18,Medium
+C001531,57,Female,Pennsylvania,2023-02-09,Regular,6,1893.7,315.62,2023-03-24,High
+C001532,68,Male,California,2023-09-14,Regular,4,1052.93,263.23,2025-08-20,High
+C001533,38,Female,Texas,2024-11-07,Regular,4,1076.92,269.23,2025-07-31,Medium
+C001534,46,Male,Georgia,2023-01-18,Premium,6,1251.31,208.55,2024-01-22,Medium
+C001535,58,Male,Ohio,2024-05-06,Premium,4,897.42,224.35,2025-05-11,High
+C001536,35,Female,California,2023-03-23,Regular,6,1097.18,182.86,2025-01-01,Low
+C001537,67,Female,Illinois,2023-09-22,Regular,3,421.47,140.49,2025-08-11,Low
+C001538,58,Male,Texas,2023-08-21,Occasional,2,229.96,114.98,2024-01-04,High
+C001539,32,Male,New York,2023-02-20,Premium,11,4605.95,418.72,2024-04-18,High
+C001540,46,Female,New York,2024-06-02,Occasional,2,580.13,290.06,2024-09-01,High
+C001541,21,Female,Illinois,2023-08-22,Premium,4,255.4,63.85,2025-02-25,High
+C001542,52,Male,Michigan,2023-12-28,Premium,4,328.74,82.19,2025-01-10,Medium
+C001543,22,Female,California,2023-04-22,Occasional,8,2007.5,250.94,2025-02-07,Low
+C001544,31,Female,Michigan,2023-08-31,Regular,0,0.0,0.0,,High
+C001545,22,Female,Illinois,2024-03-01,Premium,3,1623.66,541.22,2024-09-14,Low
+C001546,56,Female,Pennsylvania,2023-12-01,Regular,5,1023.47,204.69,2025-05-13,High
+C001547,48,Female,Michigan,2024-01-19,Premium,2,87.17,43.58,2024-01-21,Low
+C001548,20,Female,Texas,2024-01-13,Occasional,2,179.89,89.94,2024-03-08,Low
+C001549,56,Male,Pennsylvania,2023-04-19,Occasional,8,1844.27,230.53,2024-01-04,High
+C001550,68,Female,Florida,2024-06-04,Regular,5,1125.57,225.11,2025-03-19,High
+C001551,60,Male,Ohio,2023-02-03,Occasional,4,680.51,170.13,2023-03-06,Low
+C001552,32,Female,North Carolina,2023-03-21,Occasional,2,151.35,75.67,2024-01-14,Low
+C001553,69,Male,Michigan,2024-06-24,Regular,3,166.68,55.56,2025-07-12,High
+C001554,51,Female,Pennsylvania,2024-06-21,Regular,3,418.68,139.56,2024-09-02,Low
+C001555,36,Male,Pennsylvania,2024-08-12,Premium,2,858.39,429.19,2024-08-22,Medium
+C001556,47,Female,California,2023-08-25,Occasional,5,2192.54,438.51,2024-12-15,Low
+C001557,64,Female,Pennsylvania,2024-03-31,Premium,3,965.04,321.68,2025-05-16,Medium
+C001558,50,Male,Pennsylvania,2024-07-27,Occasional,4,661.59,165.4,2024-09-07,Medium
+C001559,32,Female,Ohio,2024-09-11,Premium,0,0.0,0.0,,High
+C001560,52,Male,Ohio,2023-05-09,Occasional,5,340.99,68.2,2025-02-15,High
+C001561,26,Female,Illinois,2024-11-12,Regular,2,173.88,86.94,2025-07-13,Medium
+C001562,23,Female,Ohio,2023-05-01,Occasional,3,655.42,218.47,2024-02-13,Low
+C001563,49,Male,Texas,2024-08-12,Regular,3,267.62,89.21,2025-08-20,Low
+C001564,25,Female,Illinois,2023-06-20,Occasional,3,1190.86,396.95,2023-06-27,High
+C001565,65,Male,Texas,2024-04-26,Premium,1,90.66,90.66,2024-06-27,Medium
+C001566,62,Male,California,2023-01-25,Premium,6,2032.62,338.77,2024-06-26,High
+C001567,42,Female,Pennsylvania,2024-06-26,Premium,5,800.75,160.15,2025-01-30,Medium
+C001568,53,Male,Illinois,2024-12-14,Premium,1,50.8,50.8,2025-04-23,Medium
+C001569,55,Male,New York,2023-12-11,Premium,3,838.01,279.34,2024-01-15,High
+C001570,46,Female,Georgia,2023-12-30,Occasional,1,819.88,819.88,2025-06-03,Medium
+C001571,66,Female,Texas,2023-10-24,Occasional,4,767.35,191.84,2024-04-08,Low
+C001572,70,Male,Texas,2024-08-26,Premium,0,0.0,0.0,,High
+C001573,41,Female,Ohio,2024-08-30,Regular,0,0.0,0.0,,Medium
+C001574,50,Female,California,2023-06-30,Premium,7,2185.01,312.14,2023-09-20,Medium
+C001575,39,Male,Michigan,2024-05-20,Occasional,2,585.88,292.94,2025-01-18,High
+C001576,50,Female,Illinois,2024-08-16,Regular,2,696.06,348.03,2024-10-11,Medium
+C001577,66,Male,Texas,2023-11-23,Premium,1,488.67,488.67,2024-08-13,High
+C001578,45,Female,Michigan,2023-08-04,Occasional,0,0.0,0.0,,Medium
+C001579,40,Female,Texas,2023-04-12,Premium,7,1349.31,192.76,2025-07-07,Medium
+C001580,49,Female,Florida,2023-10-08,Premium,2,727.33,363.66,2024-05-19,Medium
+C001581,56,Male,Florida,2023-09-23,Occasional,3,773.38,257.79,2024-07-24,Medium
+C001582,24,Male,North Carolina,2023-05-25,Occasional,3,251.45,83.82,2024-09-06,Low
+C001583,56,Male,North Carolina,2023-01-29,Occasional,6,2332.64,388.77,2023-05-30,Low
+C001584,49,Male,Pennsylvania,2023-01-07,Premium,8,1242.91,155.36,2025-08-09,Medium
+C001585,45,Female,North Carolina,2024-08-07,Premium,5,1221.38,244.28,2025-06-08,Medium
+C001586,25,Male,Georgia,2023-10-30,Regular,3,302.4,100.8,2024-01-09,Medium
+C001587,23,Male,Illinois,2023-09-27,Occasional,4,254.6,63.65,2025-01-13,High
+C001588,40,Male,Florida,2023-04-30,Occasional,4,959.1,239.78,2023-06-18,Low
+C001589,28,Female,Illinois,2023-12-01,Regular,5,1142.82,228.56,2024-03-03,High
+C001590,61,Male,Pennsylvania,2024-06-09,Premium,3,1231.33,410.44,2024-11-22,Medium
+C001591,63,Female,Florida,2023-04-13,Occasional,6,851.55,141.92,2024-08-25,High
+C001592,20,Male,Florida,2024-10-03,Premium,0,0.0,0.0,,High
+C001593,32,Male,Illinois,2024-01-21,Regular,3,1395.7,465.23,2025-08-09,Low
+C001594,70,Male,Georgia,2024-05-11,Regular,4,1179.4,294.85,2025-05-29,Low
+C001595,58,Male,North Carolina,2023-07-23,Occasional,3,481.19,160.4,2024-02-19,High
+C001596,18,Female,California,2023-08-08,Regular,6,1278.56,213.09,2024-03-11,High
+C001597,31,Male,New York,2024-09-17,Regular,1,137.32,137.32,2025-07-20,High
+C001598,57,Female,Michigan,2023-09-27,Premium,4,542.97,135.74,2024-11-25,High
+C001599,48,Male,Illinois,2023-12-24,Premium,5,738.12,147.62,2025-05-31,Medium
+C001600,49,Female,Ohio,2024-11-15,Occasional,0,0.0,0.0,,Medium
+C001601,48,Female,California,2024-07-10,Premium,1,47.51,47.51,2025-02-06,Low
+C001602,44,Female,Pennsylvania,2023-10-22,Premium,3,357.25,119.08,2023-11-19,High
+C001603,25,Male,Georgia,2024-03-11,Regular,6,3522.22,587.04,2025-04-13,High
+C001604,40,Female,Texas,2023-04-27,Regular,7,1840.07,262.87,2025-01-27,Medium
+C001605,44,Male,New York,2024-09-07,Regular,3,334.33,111.44,2024-11-06,Medium
+C001606,31,Female,New York,2024-06-03,Occasional,4,2781.5,695.38,2025-08-11,Medium
+C001607,61,Female,Ohio,2023-09-25,Regular,6,1079.29,179.88,2024-07-29,Medium
+C001608,43,Female,New York,2024-03-11,Regular,3,1685.11,561.7,2025-08-10,Medium
+C001609,39,Male,Illinois,2023-08-13,Regular,5,854.75,170.95,2025-03-12,Medium
+C001610,54,Male,North Carolina,2023-08-15,Premium,0,0.0,0.0,,High
+C001611,57,Female,Texas,2023-04-23,Occasional,5,1586.24,317.25,2025-05-22,High
+C001612,64,Male,Ohio,2023-01-21,Premium,5,3007.37,601.47,2025-04-15,High
+C001613,40,Male,New York,2023-12-08,Occasional,3,1672.81,557.6,2025-06-01,Low
+C001614,52,Male,Texas,2024-01-06,Occasional,5,918.77,183.75,2024-09-17,Medium
+C001615,36,Male,Pennsylvania,2023-08-23,Regular,1,272.26,272.26,2025-02-08,Medium
+C001616,53,Male,New York,2023-08-09,Premium,1,139.92,139.92,2024-01-25,Low
+C001617,24,Female,Georgia,2024-06-23,Premium,2,813.35,406.67,2024-08-14,Low
+C001618,37,Male,Florida,2023-10-17,Occasional,3,442.09,147.36,2023-12-31,High
+C001619,20,Female,California,2023-09-11,Regular,3,421.41,140.47,2025-05-27,High
+C001620,26,Female,California,2024-02-15,Premium,3,1621.59,540.53,2025-06-01,Low
+C001621,64,Female,New York,2024-05-31,Premium,2,966.75,483.38,2025-06-17,High
+C001622,56,Male,California,2024-07-08,Occasional,3,659.63,219.88,2025-08-04,High
+C001623,30,Female,Pennsylvania,2024-02-05,Regular,1,137.73,137.73,2024-05-18,High
+C001624,37,Female,Georgia,2023-01-24,Premium,6,1227.25,204.54,2025-03-13,Low
+C001625,59,Female,Ohio,2023-09-28,Regular,5,2268.75,453.75,2024-05-10,Medium
+C001626,32,Female,North Carolina,2023-04-06,Regular,6,3797.13,632.86,2023-11-09,Medium
+C001627,62,Male,Ohio,2023-10-19,Premium,3,844.19,281.4,2024-04-14,Medium
+C001628,41,Male,Georgia,2024-02-08,Premium,1,77.91,77.91,2024-04-09,High
+C001629,43,Male,Georgia,2023-01-26,Regular,7,2845.56,406.51,2025-02-02,Medium
+C001630,24,Female,Pennsylvania,2024-07-30,Premium,0,0.0,0.0,,High
+C001631,24,Male,Florida,2023-03-27,Regular,4,1067.24,266.81,2024-10-13,High
+C001632,23,Male,Ohio,2023-09-13,Occasional,5,865.67,173.13,2025-05-19,Medium
+C001633,64,Male,New York,2024-06-19,Regular,3,695.35,231.78,2025-05-01,Medium
+C001634,37,Female,Texas,2024-02-26,Premium,4,795.2,198.8,2025-02-27,Medium
+C001635,54,Female,New York,2024-12-06,Regular,2,852.51,426.26,2025-03-31,High
+C001636,66,Female,North Carolina,2023-08-03,Regular,4,761.87,190.47,2024-06-25,Medium
+C001637,33,Female,Georgia,2024-10-29,Occasional,2,419.81,209.91,2025-06-02,Medium
+C001638,53,Male,California,2024-06-10,Regular,4,529.34,132.34,2024-11-24,High
+C001639,42,Male,New York,2023-03-21,Premium,4,689.6,172.4,2024-08-26,High
+C001640,28,Male,Georgia,2023-05-05,Premium,4,1096.07,274.02,2024-05-23,Low
+C001641,49,Male,North Carolina,2024-03-10,Regular,2,313.08,156.54,2024-07-23,Low
+C001642,44,Female,New York,2024-07-14,Regular,2,385.71,192.86,2025-08-13,Low
+C001643,36,Female,North Carolina,2024-03-21,Regular,2,511.2,255.6,2024-04-01,High
+C001644,54,Male,Texas,2024-01-16,Regular,5,1075.27,215.05,2024-12-25,High
+C001645,31,Female,North Carolina,2024-12-02,Occasional,2,504.08,252.04,2025-06-10,Medium
+C001646,47,Male,Pennsylvania,2024-04-28,Occasional,3,167.3,55.77,2024-11-06,High
+C001647,28,Female,New York,2023-05-19,Regular,7,1263.76,180.54,2024-03-04,Medium
+C001648,27,Female,California,2023-07-03,Premium,5,1880.27,376.05,2025-04-22,Medium
+C001649,30,Male,California,2024-12-19,Occasional,3,1072.25,357.42,2025-03-22,Medium
+C001650,24,Male,Michigan,2023-12-05,Regular,8,1723.95,215.49,2024-04-04,High
+C001651,22,Female,North Carolina,2023-06-10,Premium,6,1057.04,176.17,2024-06-10,Medium
+C001652,18,Male,Illinois,2024-10-05,Regular,0,0.0,0.0,,Medium
+C001653,64,Female,Pennsylvania,2024-08-21,Occasional,1,529.21,529.21,2024-09-26,Medium
+C001654,53,Male,California,2023-09-18,Occasional,3,615.86,205.29,2024-11-15,Low
+C001655,64,Male,Illinois,2023-04-16,Premium,8,6105.48,763.19,2024-04-24,Medium
+C001656,24,Male,North Carolina,2024-07-31,Occasional,2,1366.71,683.36,2024-10-12,High
+C001657,39,Female,Michigan,2024-01-28,Occasional,4,226.08,56.52,2025-06-07,Medium
+C001658,28,Male,Florida,2023-08-03,Premium,3,1608.27,536.09,2025-05-06,Low
+C001659,27,Male,Texas,2024-09-21,Regular,1,764.1,764.1,2025-08-12,Low
+C001660,22,Male,Texas,2023-11-28,Occasional,3,1719.97,573.32,2025-04-09,Medium
+C001661,60,Female,Pennsylvania,2024-03-11,Regular,3,673.15,224.38,2024-05-27,High
+C001662,33,Female,Ohio,2023-05-01,Regular,10,2395.62,239.56,2025-05-30,High
+C001663,40,Female,North Carolina,2024-04-30,Regular,1,132.24,132.24,2025-02-06,High
+C001664,56,Male,Texas,2023-03-22,Occasional,2,354.25,177.12,2023-11-21,Medium
+C001665,27,Female,North Carolina,2024-12-29,Regular,1,332.76,332.76,2025-03-20,Medium
+C001666,68,Female,California,2024-12-12,Occasional,1,50.2,50.2,2025-01-03,Medium
+C001667,40,Male,New York,2024-10-29,Regular,1,146.03,146.03,2024-11-08,Medium
+C001668,40,Female,Florida,2024-11-17,Occasional,2,148.42,74.21,2025-01-14,High
+C001669,42,Female,Texas,2023-07-15,Occasional,4,554.75,138.69,2024-04-07,Low
+C001670,46,Female,North Carolina,2023-07-20,Premium,6,1600.69,266.78,2025-03-26,Low
+C001671,37,Female,California,2024-08-23,Regular,1,65.75,65.75,2025-03-08,Medium
+C001672,18,Female,New York,2024-05-29,Occasional,4,729.65,182.41,2024-10-27,Medium
+C001673,48,Female,New York,2024-10-19,Occasional,2,104.08,52.04,2024-12-03,High
+C001674,35,Male,Michigan,2023-09-17,Premium,6,1307.73,217.95,2024-07-11,High
+C001675,56,Female,Georgia,2024-04-27,Premium,4,653.07,163.27,2025-06-06,Medium
+C001676,66,Male,New York,2024-10-25,Regular,2,408.61,204.31,2024-12-16,Low
+C001677,63,Male,Texas,2024-09-19,Premium,1,1231.78,1231.78,2025-03-07,Low
+C001678,25,Male,Georgia,2024-03-05,Occasional,4,456.53,114.13,2024-11-15,High
+C001679,38,Male,North Carolina,2023-03-05,Regular,5,946.38,189.28,2024-01-25,Low
+C001680,57,Male,Pennsylvania,2024-11-01,Occasional,2,531.78,265.89,2025-05-26,Medium
+C001681,28,Female,North Carolina,2024-12-27,Premium,3,539.47,179.82,2025-08-05,High
+C001682,44,Male,California,2024-02-17,Premium,3,585.55,195.18,2025-08-22,High
+C001683,64,Female,California,2023-06-01,Premium,7,909.77,129.97,2025-01-07,Medium
+C001684,35,Male,North Carolina,2023-02-15,Regular,2,103.61,51.81,2025-02-22,Low
+C001685,65,Male,Illinois,2024-10-12,Regular,3,225.84,75.28,2025-06-22,High
+C001686,25,Female,Georgia,2023-12-26,Occasional,4,1457.21,364.3,2024-04-11,High
+C001687,54,Female,California,2023-03-30,Premium,3,252.02,84.01,2023-10-27,Low
+C001688,64,Male,Texas,2023-07-06,Regular,6,629.09,104.85,2023-12-19,High
+C001689,19,Male,New York,2024-10-03,Premium,3,743.15,247.72,2024-11-16,High
+C001690,47,Male,Florida,2024-01-19,Regular,3,753.18,251.06,2024-05-17,High
+C001691,30,Male,Illinois,2024-10-19,Premium,2,921.28,460.64,2025-06-05,Medium
+C001692,36,Male,Illinois,2024-12-23,Premium,0,0.0,0.0,,High
+C001693,44,Male,Florida,2023-11-20,Regular,3,480.94,160.31,2024-07-04,Low
+C001694,36,Female,Georgia,2023-07-01,Regular,7,1783.0,254.71,2025-03-26,Low
+C001695,40,Female,Pennsylvania,2024-05-16,Occasional,3,694.64,231.55,2025-02-27,High
+C001696,58,Male,New York,2024-04-05,Occasional,2,369.03,184.52,2024-09-06,Medium
+C001697,52,Male,Ohio,2023-06-09,Regular,7,1387.68,198.24,2024-02-01,High
+C001698,68,Female,Florida,2024-11-29,Regular,1,195.44,195.44,2025-06-18,High
+C001699,53,Female,California,2024-05-30,Occasional,3,1654.86,551.62,2025-03-30,Low
+C001700,31,Female,Illinois,2023-09-22,Premium,6,1336.66,222.78,2024-10-16,Low
+C001701,60,Male,Georgia,2024-06-13,Premium,2,115.92,57.96,2025-07-03,Medium
+C001702,38,Female,Michigan,2024-08-23,Regular,4,1344.94,336.24,2025-07-15,High
+C001703,20,Female,California,2024-08-25,Occasional,2,324.76,162.38,2025-03-06,Medium
+C001704,28,Female,Georgia,2023-01-09,Regular,5,995.31,199.06,2023-07-31,Medium
+C001705,24,Male,Pennsylvania,2024-10-25,Regular,1,399.41,399.41,2024-12-09,Low
+C001706,52,Male,New York,2024-04-23,Regular,5,1598.5,319.7,2024-08-28,High
+C001707,55,Female,Ohio,2024-04-12,Regular,2,981.2,490.6,2024-09-01,Low
+C001708,64,Female,Michigan,2023-09-16,Regular,2,645.44,322.72,2025-08-06,Medium
+C001709,43,Female,New York,2024-11-25,Premium,2,372.56,186.28,2024-12-17,High
+C001710,44,Female,Illinois,2023-04-21,Occasional,5,1682.73,336.55,2024-01-27,Medium
+C001711,19,Male,North Carolina,2024-08-30,Premium,0,0.0,0.0,,Medium
+C001712,62,Male,Michigan,2024-09-03,Premium,3,2132.99,711.0,2025-06-05,Low
+C001713,39,Male,California,2024-11-10,Regular,1,302.12,302.12,2025-01-13,Low
+C001714,47,Female,Texas,2023-12-21,Regular,6,1152.65,192.11,2025-03-23,Low
+C001715,27,Male,Texas,2024-11-05,Regular,2,2407.32,1203.66,2025-03-08,Medium
+C001716,29,Male,Florida,2023-03-24,Regular,3,271.86,90.62,2024-12-27,Low
+C001717,27,Female,New York,2023-09-08,Regular,6,1529.73,254.96,2024-05-23,Low
+C001718,24,Female,North Carolina,2023-12-19,Occasional,3,728.04,242.68,2024-09-26,Medium
+C001719,31,Female,Ohio,2024-12-16,Regular,2,301.66,150.83,2025-01-14,High
+C001720,66,Male,Ohio,2023-09-06,Premium,5,645.64,129.13,2024-10-24,Medium
+C001721,43,Female,Illinois,2023-05-17,Occasional,6,2212.59,368.77,2023-08-30,High
+C001722,56,Female,North Carolina,2024-03-10,Premium,4,1169.06,292.27,2025-06-25,Medium
+C001723,60,Male,Florida,2024-05-15,Occasional,1,143.22,143.22,2024-10-30,Low
+C001724,41,Female,Pennsylvania,2023-08-29,Occasional,2,496.5,248.25,2023-12-20,Low
+C001725,56,Female,California,2024-09-17,Occasional,3,355.27,118.42,2025-05-25,Low
+C001726,49,Male,New York,2023-05-22,Premium,4,623.96,155.99,2023-08-01,Medium
+C001727,23,Female,Ohio,2024-03-21,Occasional,2,344.73,172.36,2025-08-12,Low
+C001728,27,Female,Illinois,2024-03-11,Regular,3,433.69,144.56,2025-01-03,High
+C001729,20,Female,Ohio,2024-05-07,Premium,2,819.56,409.78,2024-11-30,Low
+C001730,61,Male,Georgia,2024-02-12,Premium,1,58.46,58.46,2025-04-18,Medium
+C001731,64,Male,Ohio,2024-12-03,Premium,0,0.0,0.0,,Low
+C001732,26,Female,Georgia,2023-11-23,Premium,3,711.7,237.23,2023-12-15,Medium
+C001733,60,Female,Ohio,2024-10-31,Premium,1,63.35,63.35,2025-08-12,Medium
+C001734,34,Male,Michigan,2024-03-11,Regular,4,1373.47,343.37,2024-06-24,High
+C001735,67,Female,Pennsylvania,2024-01-17,Occasional,4,1056.93,264.23,2024-10-24,Medium
+C001736,68,Male,Ohio,2023-04-25,Occasional,7,953.7,136.24,2023-11-15,Medium
+C001737,23,Male,New York,2024-11-21,Regular,1,56.08,56.08,2025-05-03,High
+C001738,34,Male,North Carolina,2024-08-27,Occasional,2,520.14,260.07,2025-04-17,High
+C001739,45,Male,Georgia,2024-04-10,Regular,3,1125.68,375.23,2024-04-14,Low
+C001740,49,Female,Pennsylvania,2023-05-05,Premium,5,953.55,190.71,2024-10-16,High
+C001741,41,Female,Ohio,2024-12-03,Regular,1,384.99,384.99,2025-02-05,High
+C001742,67,Male,North Carolina,2023-10-31,Regular,5,1273.56,254.71,2024-04-29,Low
+C001743,40,Female,New York,2023-10-28,Regular,4,925.5,231.38,2024-07-20,Medium
+C001744,58,Male,Michigan,2023-11-01,Premium,3,530.72,176.91,2025-01-05,Medium
+C001745,52,Female,Florida,2023-02-07,Premium,8,2694.89,336.86,2024-08-21,Low
+C001746,24,Male,Texas,2024-07-01,Occasional,5,525.6,105.12,2024-12-15,Medium
+C001747,35,Female,Georgia,2024-03-17,Occasional,2,681.32,340.66,2024-09-10,High
+C001748,70,Female,New York,2023-09-07,Premium,8,2295.07,286.88,2024-06-24,Medium
+C001749,20,Male,Michigan,2024-01-17,Occasional,4,1620.46,405.11,2024-07-04,High
+C001750,42,Male,Pennsylvania,2023-04-14,Occasional,4,1114.38,278.6,2024-01-06,High
+C001751,45,Female,New York,2023-11-06,Premium,5,1205.69,241.14,2025-02-16,High
+C001752,64,Male,Ohio,2023-09-21,Premium,2,933.75,466.88,2025-06-29,Low
+C001753,34,Female,Michigan,2024-08-07,Occasional,2,517.57,258.78,2025-04-21,High
+C001754,62,Male,Pennsylvania,2023-09-07,Occasional,3,849.63,283.21,2025-08-11,Medium
+C001755,66,Female,Illinois,2023-08-09,Occasional,4,505.67,126.42,2025-05-04,High
+C001756,35,Male,Michigan,2023-07-10,Regular,3,1241.03,413.68,2025-04-27,Low
+C001757,36,Female,New York,2024-11-25,Regular,1,93.9,93.9,2025-03-14,Low
+C001758,68,Female,Texas,2023-01-20,Regular,5,640.36,128.07,2023-05-02,Medium
+C001759,56,Female,California,2024-04-18,Premium,3,877.52,292.51,2024-11-18,Low
+C001760,63,Female,Florida,2023-01-19,Premium,5,1059.7,211.94,2023-01-20,High
+C001761,64,Female,Michigan,2023-10-22,Regular,5,1126.83,225.37,2024-01-02,High
+C001762,39,Female,Georgia,2024-09-01,Occasional,3,2631.73,877.24,2024-12-16,Low
+C001763,39,Female,Pennsylvania,2023-12-18,Regular,7,979.5,139.93,2024-07-18,Low
+C001764,65,Female,Florida,2024-04-18,Occasional,0,0.0,0.0,,High
+C001765,61,Female,Illinois,2023-06-24,Regular,3,2376.92,792.31,2023-07-02,Low
+C001766,54,Male,Georgia,2024-11-07,Occasional,5,2203.2,440.64,2025-02-11,Medium
+C001767,31,Female,Illinois,2023-03-27,Regular,7,3114.01,444.86,2023-09-09,Medium
+C001768,61,Female,New York,2024-04-07,Premium,4,1128.8,282.2,2025-06-19,High
+C001769,28,Female,Michigan,2024-08-21,Regular,4,455.92,113.98,2025-04-01,Medium
+C001770,66,Female,North Carolina,2023-01-24,Occasional,6,1839.02,306.5,2024-06-07,Medium
+C001771,42,Male,Ohio,2023-08-29,Occasional,5,787.97,157.59,2023-09-07,Low
+C001772,43,Male,Florida,2023-04-10,Premium,4,407.4,101.85,2025-01-11,High
+C001773,29,Male,Ohio,2023-10-24,Occasional,3,819.43,273.14,2025-04-11,Medium
+C001774,66,Male,Ohio,2023-12-27,Occasional,6,2647.56,441.26,2025-03-07,Medium
+C001775,67,Female,California,2023-11-24,Occasional,7,2469.82,352.83,2025-01-28,High
+C001776,66,Female,North Carolina,2024-10-10,Occasional,2,146.49,73.24,2025-08-07,High
+C001777,32,Female,Georgia,2024-02-06,Regular,3,664.05,221.35,2025-08-07,Medium
+C001778,28,Male,Ohio,2024-04-05,Regular,1,88.05,88.05,2025-05-14,Low
+C001779,39,Female,Texas,2024-06-29,Occasional,4,1216.97,304.24,2025-08-14,Low
+C001780,55,Female,Ohio,2024-01-28,Regular,5,953.01,190.6,2024-09-02,Low
+C001781,19,Male,Texas,2024-10-13,Occasional,3,410.32,136.77,2024-10-28,High
+C001782,23,Female,New York,2024-05-30,Regular,3,920.09,306.7,2024-11-28,High
+C001783,28,Female,California,2023-09-13,Regular,4,773.03,193.26,2024-09-10,Low
+C001784,68,Female,North Carolina,2024-09-07,Occasional,2,1506.13,753.07,2025-02-09,Low
+C001785,47,Female,Florida,2023-06-15,Premium,8,3217.5,402.19,2023-11-27,Medium
+C001786,30,Female,Texas,2024-12-30,Regular,1,542.81,542.81,2025-08-04,Low
+C001787,31,Female,Georgia,2023-02-01,Premium,9,2509.42,278.82,2024-01-02,High
+C001788,46,Male,Texas,2024-09-09,Regular,2,334.81,167.41,2024-10-21,High
+C001789,25,Female,Texas,2024-10-18,Premium,2,166.23,83.12,2025-04-09,Medium
+C001790,18,Male,Ohio,2023-03-13,Occasional,5,1111.78,222.36,2024-06-12,Medium
+C001791,22,Female,Illinois,2024-01-30,Occasional,10,4977.67,497.77,2024-08-22,High
+C001792,63,Male,Georgia,2023-05-04,Regular,5,1778.98,355.8,2025-02-20,High
+C001793,36,Female,New York,2023-03-03,Regular,6,2591.61,431.93,2023-12-18,Medium
+C001794,58,Female,Ohio,2024-06-07,Premium,6,991.9,165.32,2025-01-21,Low
+C001795,34,Male,Texas,2023-05-30,Regular,6,1620.62,270.1,2024-03-07,Medium
+C001796,39,Male,Florida,2024-11-03,Regular,0,0.0,0.0,,Low
+C001797,24,Female,California,2023-09-28,Regular,4,2031.49,507.87,2023-12-29,High
+C001798,66,Male,Illinois,2024-05-18,Regular,1,133.72,133.72,2024-05-25,Medium
+C001799,46,Female,Georgia,2024-12-06,Occasional,2,589.19,294.6,2025-01-30,Medium
+C001800,35,Male,Texas,2024-08-04,Premium,2,265.93,132.97,2025-05-16,High
+C001801,19,Male,Pennsylvania,2023-10-23,Occasional,3,1095.84,365.28,2024-12-31,Medium
+C001802,36,Female,Texas,2024-12-31,Occasional,1,33.38,33.38,2025-08-19,High
+C001803,48,Female,Illinois,2023-11-09,Premium,4,673.06,168.27,2024-10-13,High
+C001804,26,Male,Michigan,2024-12-12,Regular,1,23.12,23.12,2025-06-08,Medium
+C001805,58,Male,New York,2023-09-21,Premium,6,1079.3,179.88,2024-03-15,High
+C001806,27,Male,Illinois,2023-11-07,Regular,3,605.89,201.96,2025-05-20,High
+C001807,65,Female,Georgia,2024-06-04,Occasional,1,138.52,138.52,2025-04-02,Low
+C001808,59,Male,Michigan,2023-12-19,Occasional,5,748.37,149.67,2024-05-28,Medium
+C001809,41,Female,Georgia,2024-06-19,Occasional,2,306.46,153.23,2025-01-27,Low
+C001810,48,Male,Georgia,2024-06-21,Regular,5,896.1,179.22,2025-03-19,Low
+C001811,22,Female,Florida,2024-11-15,Regular,3,456.47,152.16,2025-01-29,Low
+C001812,27,Female,Michigan,2023-08-18,Occasional,2,101.16,50.58,2025-01-21,Low
+C001813,30,Female,Georgia,2024-10-27,Regular,2,71.21,35.61,2025-07-07,High
+C001814,18,Male,Florida,2024-10-15,Regular,4,1244.65,311.16,2025-03-03,High
+C001815,43,Male,Pennsylvania,2023-02-03,Occasional,5,469.1,93.82,2025-07-06,Low
+C001816,53,Male,New York,2023-10-05,Regular,5,415.89,83.18,2024-01-30,High
+C001817,33,Male,Illinois,2024-06-19,Occasional,3,492.02,164.01,2024-12-31,Low
+C001818,59,Male,Florida,2024-12-07,Occasional,3,1216.36,405.45,2025-04-01,High
+C001819,29,Male,Michigan,2024-04-12,Regular,2,250.06,125.03,2025-03-18,High
+C001820,23,Male,California,2023-10-12,Premium,3,836.46,278.82,2024-02-07,High
+C001821,21,Male,Florida,2023-11-07,Premium,4,433.45,108.36,2024-10-15,High
+C001822,48,Female,California,2024-08-18,Occasional,4,768.68,192.17,2025-06-30,Low
+C001823,68,Male,Florida,2023-11-23,Regular,4,525.23,131.31,2024-10-31,Low
+C001824,23,Female,Florida,2024-03-28,Premium,2,1941.71,970.86,2024-08-31,High
+C001825,31,Female,Illinois,2024-08-26,Occasional,2,766.93,383.47,2025-05-29,Low
+C001826,45,Male,Georgia,2024-08-18,Occasional,3,747.05,249.02,2025-05-29,Low
+C001827,69,Female,New York,2024-08-26,Regular,3,604.21,201.4,2024-08-30,Medium
+C001828,35,Female,Texas,2024-09-07,Regular,2,447.9,223.95,2024-12-01,High
+C001829,50,Female,Illinois,2024-05-09,Regular,2,69.26,34.63,2025-02-05,High
+C001830,39,Female,North Carolina,2023-09-12,Occasional,5,1169.36,233.87,2025-03-18,Medium
+C001831,46,Male,Texas,2024-10-02,Regular,2,269.74,134.87,2025-05-14,Low
+C001832,50,Female,Georgia,2023-11-23,Premium,6,1006.04,167.67,2024-10-17,Low
+C001833,66,Female,Illinois,2023-03-09,Premium,10,1407.82,140.78,2025-04-07,Medium
+C001834,58,Male,Florida,2023-12-17,Premium,3,666.05,222.02,2025-06-25,Low
+C001835,37,Female,Pennsylvania,2023-08-07,Occasional,3,675.91,225.3,2023-11-04,Medium
+C001836,61,Female,Michigan,2023-04-16,Premium,8,2179.08,272.39,2025-04-21,High
+C001837,27,Female,Texas,2024-11-19,Premium,2,659.45,329.73,2025-03-21,Medium
+C001838,28,Male,Pennsylvania,2023-06-25,Occasional,9,1889.99,210.0,2025-04-16,Medium
+C001839,56,Female,Illinois,2024-10-31,Premium,0,0.0,0.0,,Medium
+C001840,37,Female,Texas,2024-04-28,Regular,2,352.01,176.0,2024-09-12,Medium
+C001841,65,Female,Georgia,2023-12-29,Regular,3,641.23,213.74,2025-07-02,Medium
+C001842,43,Female,New York,2024-07-30,Regular,2,231.94,115.97,2025-07-03,Low
+C001843,40,Male,Georgia,2024-02-23,Regular,5,1832.1,366.42,2025-03-26,Low
+C001844,30,Male,Illinois,2024-12-22,Regular,4,1271.34,317.84,2024-12-27,Medium
+C001845,38,Female,Ohio,2023-01-25,Regular,5,2255.26,451.05,2025-04-22,High
+C001846,65,Male,Florida,2024-07-27,Occasional,4,1095.46,273.87,2025-07-30,High
+C001847,35,Male,California,2024-03-26,Premium,0,0.0,0.0,,Low
+C001848,64,Female,Michigan,2023-11-30,Regular,1,104.86,104.86,2025-08-12,Low
+C001849,42,Female,Florida,2024-11-06,Regular,0,0.0,0.0,,High
+C001850,42,Male,California,2024-08-23,Premium,1,558.68,558.68,2024-11-24,High
+C001851,35,Female,Georgia,2023-12-17,Regular,6,1558.23,259.7,2025-02-03,Low
+C001852,26,Male,Pennsylvania,2024-04-28,Occasional,4,910.08,227.52,2024-11-14,Medium
+C001853,27,Female,Michigan,2023-06-05,Premium,3,1144.56,381.52,2025-06-10,High
+C001854,46,Male,Pennsylvania,2023-04-01,Occasional,5,2343.2,468.64,2024-10-07,High
+C001855,34,Female,New York,2024-11-07,Premium,2,552.64,276.32,2025-06-29,Low
+C001856,63,Female,Pennsylvania,2024-12-17,Regular,3,744.29,248.1,2025-05-18,High
+C001857,29,Female,Georgia,2023-08-08,Premium,4,1481.36,370.34,2024-09-18,Medium
+C001858,39,Male,Illinois,2024-01-06,Regular,7,550.88,78.7,2024-10-24,High
+C001859,26,Male,Ohio,2023-01-24,Regular,10,2777.13,277.71,2024-10-08,Medium
+C001860,69,Male,North Carolina,2024-05-13,Premium,4,1610.74,402.69,2025-02-09,High
+C001861,19,Female,New York,2024-01-18,Occasional,5,868.37,173.67,2025-02-23,Medium
+C001862,49,Female,Michigan,2024-07-05,Regular,6,850.18,141.7,2025-06-11,High
+C001863,65,Male,Michigan,2023-03-10,Premium,8,1892.43,236.55,2023-10-18,High
+C001864,52,Male,North Carolina,2023-04-26,Premium,3,1392.03,464.01,2023-11-09,High
+C001865,57,Male,California,2024-04-24,Occasional,2,1083.25,541.62,2024-07-27,Medium
+C001866,47,Female,Texas,2023-10-11,Occasional,1,192.63,192.63,2025-03-22,Medium
+C001867,29,Female,Georgia,2023-03-16,Occasional,3,537.5,179.17,2025-02-09,High
+C001868,19,Female,Michigan,2024-03-18,Regular,6,775.72,129.29,2025-08-16,Low
+C001869,42,Male,New York,2024-09-30,Premium,4,777.45,194.36,2025-03-18,Medium
+C001870,27,Female,Florida,2024-03-13,Occasional,5,2106.78,421.36,2025-02-01,High
+C001871,52,Female,Florida,2023-12-01,Occasional,4,531.27,132.82,2024-01-05,Medium
+C001872,27,Male,Texas,2024-08-13,Premium,3,724.25,241.42,2024-12-30,Medium
+C001873,24,Male,North Carolina,2023-07-05,Occasional,4,1362.26,340.56,2025-01-09,Low
+C001874,52,Female,California,2023-05-11,Regular,4,687.95,171.99,2024-04-26,Medium
+C001875,60,Male,Florida,2023-08-24,Regular,6,1664.8,277.47,2025-02-03,Low
+C001876,35,Male,Florida,2024-03-10,Regular,2,1006.77,503.38,2024-09-16,Low
+C001877,46,Male,Ohio,2023-05-21,Premium,3,777.15,259.05,2024-12-25,Medium
+C001878,42,Male,Georgia,2023-08-02,Regular,2,310.98,155.49,2025-07-25,Medium
+C001879,31,Female,Michigan,2023-07-23,Premium,11,2249.53,204.5,2025-07-19,Low
+C001880,50,Male,Texas,2023-06-29,Premium,5,1136.32,227.26,2024-05-22,Low
+C001881,65,Female,Pennsylvania,2024-05-15,Regular,4,1088.44,272.11,2024-07-07,Low
+C001882,23,Female,Georgia,2023-08-04,Regular,9,4422.31,491.37,2025-03-31,High
+C001883,47,Male,New York,2023-04-25,Regular,7,1092.11,156.02,2025-03-25,Medium
+C001884,24,Female,Pennsylvania,2024-02-14,Regular,1,286.66,286.66,2024-08-29,Low
+C001885,59,Female,Florida,2024-03-20,Occasional,5,954.75,190.95,2025-03-28,Low
+C001886,59,Female,Georgia,2024-10-28,Premium,1,340.89,340.89,2025-01-04,Medium
+C001887,38,Male,Texas,2024-10-24,Premium,1,219.64,219.64,2024-12-11,Low
+C001888,18,Male,North Carolina,2024-08-01,Premium,0,0.0,0.0,,Low
+C001889,48,Male,New York,2024-12-12,Occasional,2,76.92,38.46,2024-12-23,Low
+C001890,36,Female,Michigan,2024-11-07,Regular,2,1347.94,673.97,2025-06-09,Low
+C001891,29,Male,North Carolina,2024-03-05,Premium,4,392.76,98.19,2025-08-17,High
+C001892,29,Female,California,2024-11-15,Premium,1,49.6,49.6,2025-07-25,Low
+C001893,31,Female,Ohio,2024-05-24,Occasional,2,440.22,220.11,2025-08-16,Medium
+C001894,57,Female,New York,2023-09-29,Premium,6,1450.23,241.71,2024-04-06,Medium
+C001895,48,Male,Texas,2023-01-30,Regular,8,2052.53,256.57,2024-11-26,Low
+C001896,42,Male,Texas,2024-07-06,Premium,1,51.69,51.69,2025-07-31,Low
+C001897,32,Male,Ohio,2023-12-24,Premium,2,484.09,242.04,2025-01-28,Low
+C001898,47,Female,North Carolina,2024-05-02,Regular,2,1574.18,787.09,2025-01-06,Low
+C001899,69,Male,Illinois,2024-09-09,Regular,4,1044.75,261.19,2025-06-06,Medium
+C001900,26,Female,North Carolina,2023-09-21,Regular,4,733.35,183.34,2024-11-06,High
+C001901,63,Male,Georgia,2024-11-15,Regular,3,646.96,215.65,2025-07-09,High
+C001902,30,Male,Florida,2024-08-07,Occasional,3,578.31,192.77,2025-07-01,Low
+C001903,32,Male,California,2023-05-27,Occasional,3,1181.26,393.75,2024-11-24,Medium
+C001904,57,Male,Florida,2023-10-17,Premium,5,1185.36,237.07,2025-07-05,Medium
+C001905,64,Female,Pennsylvania,2023-07-09,Occasional,2,1264.14,632.07,2025-02-15,Medium
+C001906,55,Female,Texas,2024-11-15,Regular,2,250.16,125.08,2024-11-22,Medium
+C001907,60,Male,Michigan,2024-01-19,Occasional,2,597.28,298.64,2025-05-10,Low
+C001908,58,Male,Florida,2024-01-30,Premium,2,359.71,179.86,2025-01-14,Low
+C001909,58,Male,Florida,2023-05-27,Premium,4,891.77,222.94,2024-10-10,Medium
+C001910,18,Female,Georgia,2023-11-27,Regular,1,75.63,75.63,2025-01-05,Low
+C001911,70,Female,Georgia,2024-10-05,Premium,6,2175.1,362.52,2025-01-12,Medium
+C001912,34,Female,California,2024-09-28,Occasional,4,1141.78,285.44,2024-12-19,Medium
+C001913,67,Female,Pennsylvania,2024-11-02,Premium,7,2154.41,307.77,2025-05-23,Medium
+C001914,69,Female,North Carolina,2023-12-16,Regular,3,819.46,273.15,2025-07-26,High
+C001915,60,Female,North Carolina,2023-04-09,Regular,2,377.97,188.99,2025-06-23,Low
+C001916,45,Male,North Carolina,2024-01-10,Premium,5,880.33,176.07,2024-09-20,Low
+C001917,47,Male,California,2023-08-21,Occasional,3,147.52,49.17,2023-09-05,High
+C001918,26,Female,Illinois,2023-10-30,Regular,6,1192.62,198.77,2023-12-18,Medium
+C001919,23,Male,Ohio,2024-07-20,Occasional,3,214.26,71.42,2024-11-04,Low
+C001920,61,Male,New York,2023-05-26,Premium,4,792.3,198.08,2025-01-09,High
+C001921,51,Male,Michigan,2023-12-29,Occasional,2,379.27,189.63,2024-09-24,High
+C001922,69,Female,North Carolina,2023-02-18,Premium,4,654.86,163.72,2025-02-24,High
+C001923,28,Female,Texas,2024-06-27,Premium,0,0.0,0.0,,High
+C001924,58,Male,Texas,2023-06-19,Occasional,5,1113.23,222.65,2025-04-24,High
+C001925,30,Female,New York,2024-03-10,Regular,1,91.94,91.94,2024-10-03,Medium
+C001926,51,Female,Georgia,2024-02-04,Regular,0,0.0,0.0,,Medium
+C001927,64,Female,New York,2023-05-20,Premium,2,431.46,215.73,2025-07-19,Medium
+C001928,53,Female,Florida,2024-12-26,Occasional,1,63.83,63.83,2025-02-28,High
+C001929,22,Male,Ohio,2024-08-31,Premium,1,409.98,409.98,2024-10-20,Low
+C001930,70,Male,Florida,2024-05-07,Regular,4,318.44,79.61,2025-01-09,Low
+C001931,44,Female,Michigan,2024-10-23,Premium,1,45.7,45.7,2024-12-14,Low
+C001932,22,Male,Illinois,2023-12-25,Premium,6,1510.61,251.77,2024-05-14,Medium
+C001933,64,Male,Florida,2023-05-07,Regular,5,502.46,100.49,2023-12-24,Low
+C001934,35,Female,New York,2024-11-19,Occasional,4,695.41,173.85,2024-12-08,Low
+C001935,37,Male,Michigan,2024-06-17,Regular,3,839.7,279.9,2025-08-20,Low
+C001936,46,Female,California,2024-11-07,Occasional,3,1953.81,651.27,2025-03-08,High
+C001937,47,Male,California,2024-09-16,Occasional,3,763.36,254.45,2024-09-30,Medium
+C001938,20,Female,Illinois,2023-10-06,Premium,7,2041.49,291.64,2024-12-09,High
+C001939,45,Male,Georgia,2024-04-22,Regular,4,748.64,187.16,2025-04-15,Low
+C001940,24,Male,Michigan,2024-06-19,Occasional,3,709.82,236.61,2025-08-17,Medium
+C001941,60,Female,Ohio,2023-09-05,Regular,2,136.42,68.21,2023-11-24,Low
+C001942,24,Female,Illinois,2024-10-15,Regular,1,21.99,21.99,2025-06-10,High
+C001943,39,Female,Illinois,2024-06-04,Regular,2,673.29,336.65,2024-10-25,Low
+C001944,24,Female,Florida,2023-01-14,Occasional,5,1200.73,240.15,2023-04-21,Medium
+C001945,55,Female,Illinois,2023-08-15,Premium,5,1072.95,214.59,2024-11-11,High
+C001946,53,Female,Michigan,2024-05-14,Occasional,2,176.48,88.24,2024-12-05,High
+C001947,20,Male,Michigan,2024-01-27,Occasional,6,877.19,146.2,2024-03-31,Low
+C001948,24,Male,Florida,2024-08-12,Regular,4,1606.1,401.53,2025-05-27,High
+C001949,63,Female,Ohio,2024-11-19,Occasional,2,587.38,293.69,2025-03-25,High
+C001950,40,Female,Georgia,2023-02-10,Occasional,6,1896.08,316.01,2024-06-19,High
+C001951,43,Female,New York,2023-02-08,Premium,4,886.02,221.5,2025-03-12,High
+C001952,19,Female,California,2023-07-05,Regular,4,967.15,241.79,2024-05-24,Medium
+C001953,64,Female,Illinois,2023-01-30,Regular,8,2268.24,283.53,2025-05-25,High
+C001954,40,Male,Illinois,2023-12-19,Regular,6,1017.93,169.66,2025-08-19,Low
+C001955,47,Female,Texas,2023-11-29,Premium,3,1312.57,437.52,2024-03-16,High
+C001956,59,Female,Ohio,2024-07-14,Regular,1,86.52,86.52,2024-12-25,Low
+C001957,23,Female,Pennsylvania,2024-05-26,Occasional,2,175.92,87.96,2025-05-23,High
+C001958,38,Female,California,2023-08-22,Occasional,3,316.84,105.61,2024-05-30,Low
+C001959,43,Female,Michigan,2024-10-16,Regular,2,671.89,335.94,2025-05-12,High
+C001960,66,Female,Florida,2023-07-10,Regular,6,1974.25,329.04,2024-02-08,High
+C001961,40,Female,Georgia,2024-05-12,Regular,4,1273.46,318.36,2024-10-23,Low
+C001962,38,Male,California,2023-06-22,Premium,3,1021.53,340.51,2024-10-29,High
+C001963,50,Female,North Carolina,2023-11-14,Occasional,5,843.73,168.75,2025-04-25,Low
+C001964,57,Male,Florida,2024-02-12,Premium,5,1501.87,300.37,2024-10-12,Low
+C001965,56,Female,Illinois,2024-12-29,Premium,1,165.01,165.01,2025-02-07,High
+C001966,52,Female,Ohio,2023-12-15,Premium,3,139.69,46.56,2024-10-16,Medium
+C001967,65,Female,Michigan,2023-04-17,Occasional,5,832.25,166.45,2024-08-23,Low
+C001968,32,Female,New York,2023-11-28,Premium,5,255.9,51.18,2024-10-27,High
+C001969,60,Female,New York,2023-06-08,Regular,5,1386.39,277.28,2025-07-29,Low
+C001970,32,Male,Florida,2024-12-12,Regular,0,0.0,0.0,,High
+C001971,27,Male,Illinois,2023-08-10,Premium,3,662.6,220.87,2024-11-26,Low
+C001972,48,Female,Ohio,2024-09-18,Occasional,3,628.57,209.52,2025-06-20,High
+C001973,30,Female,Texas,2024-08-04,Occasional,1,242.21,242.21,2024-11-25,High
+C001974,58,Female,Illinois,2024-02-14,Occasional,7,1069.4,152.77,2025-08-02,Medium
+C001975,45,Female,Pennsylvania,2023-09-27,Premium,10,3227.24,322.72,2024-04-09,Medium
+C001976,40,Male,Texas,2024-07-07,Regular,1,166.69,166.69,2025-06-01,High
+C001977,68,Male,California,2023-09-10,Occasional,2,496.65,248.32,2024-09-16,High
+C001978,52,Female,California,2024-05-02,Occasional,2,907.55,453.78,2025-03-24,Low
+C001979,63,Male,Georgia,2023-12-23,Regular,5,1352.28,270.46,2025-01-26,High
+C001980,47,Female,Georgia,2023-02-24,Occasional,3,486.49,162.16,2023-08-14,Medium
+C001981,28,Male,North Carolina,2023-03-08,Regular,2,492.09,246.05,2025-06-21,High
+C001982,21,Female,Georgia,2024-10-27,Occasional,3,325.04,108.35,2025-03-18,Low
+C001983,61,Female,California,2023-03-07,Occasional,5,2242.76,448.55,2025-01-01,Medium
+C001984,34,Male,Michigan,2024-08-06,Regular,4,714.67,178.67,2024-10-28,Medium
+C001985,66,Male,Ohio,2024-12-22,Premium,1,54.86,54.86,2025-02-14,High
+C001986,37,Female,Pennsylvania,2024-04-07,Premium,2,239.8,119.9,2025-07-06,High
+C001987,44,Male,North Carolina,2024-06-04,Occasional,6,1923.78,320.63,2025-01-21,High
+C001988,18,Male,Pennsylvania,2023-11-19,Occasional,6,1819.66,303.28,2025-03-05,Low
+C001989,57,Male,North Carolina,2023-03-14,Regular,7,1533.52,219.07,2024-02-23,High
+C001990,64,Male,Florida,2023-06-15,Occasional,3,724.23,241.41,2023-07-28,Low
+C001991,19,Female,California,2023-07-05,Regular,4,1634.44,408.61,2024-08-12,Low
+C001992,43,Female,Ohio,2023-04-07,Regular,4,1195.1,298.78,2023-10-24,High
+C001993,26,Female,Texas,2024-04-30,Premium,4,1308.04,327.01,2025-04-14,Medium
+C001994,29,Female,Illinois,2023-12-30,Regular,2,73.52,36.76,2024-05-26,Low
+C001995,34,Female,Florida,2023-07-08,Premium,3,474.85,158.28,2024-08-09,Medium
+C001996,58,Male,Pennsylvania,2024-10-24,Regular,0,0.0,0.0,,Low
+C001997,34,Male,Michigan,2024-06-20,Premium,1,48.39,48.39,2025-06-08,High
+C001998,61,Female,California,2023-03-02,Premium,4,619.75,154.94,2025-03-22,Low
+C001999,18,Male,Pennsylvania,2024-06-25,Regular,2,475.13,237.56,2024-12-22,Medium
+C002000,69,Female,California,2023-01-29,Premium,7,1791.63,255.95,2023-06-17,Low

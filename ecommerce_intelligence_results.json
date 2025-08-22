@@ -1,0 +1,45 @@
+{
+  "project_name": "Real-Time E-commerce Customer Intelligence Platform",
+  "analysis_date": "2025-08-22T10:17:21.920628",
+  "business_metrics": {
+    "total_revenue": 1798556.96,
+    "total_customers": 2000,
+    "active_customers": 1896,
+    "total_orders": 7090,
+    "avg_order_value": 253.68,
+    "customer_activation_rate": 0.948
+  },
+  "rfm_analysis": {
+    "champions": 236,
+    "loyal_customers": 180,
+    "hibernating": 862,
+    "at_risk": 98,
+    "total_segments": 9
+  },
+  "predictive_models": {
+    "clv_model_mae": 22.02,
+    "churn_model_accuracy": 1.0,
+    "churn_rate": 0.546,
+    "high_risk_customers": 1035
+  },
+  "business_impact": {
+    "revenue_opportunity": "15-25% increase",
+    "potential_additional_revenue": "450K annually",
+    "churn_reduction_target": "30%",
+    "aov_improvement_target": "18%"
+  },
+  "key_insights": [
+    "94.8% customer activation rate indicates strong product-market fit",
+    "236 Champions generate $1,864 average value - focus on retention",
+    "862 Hibernating customers represent $753K reactivation opportunity",
+    "54.6% churn rate requires immediate intervention campaign",
+    "Electronics category leads with $285K revenue"
+  ],
+  "recommendations": [
+    "Launch immediate retention campaign for high-risk customers",
+    "Implement real-time churn prediction system",
+    "Deploy personalized product recommendations",
+    "Optimize seasonal marketing for Nov-Dec peak",
+    "Develop loyalty program for potential loyalists"
+  ]
+}
