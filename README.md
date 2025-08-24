@@ -25,7 +25,7 @@ High churn rate (54.6%) and untapped customer segments threatened revenue growth
 ![Executive Dashboard](executive_dashboard.png)
 ![Business Metrics Summary](business_metrics_summary.png)
 ![Customer Analysis Dashboard](customer_analysis_dashboard.png)
-[View Interactive Dashboard](interactive_dashboard.html)
+![View Interactive Dashboard](interactive_dashboard.png)
 
 
 ## Resources
