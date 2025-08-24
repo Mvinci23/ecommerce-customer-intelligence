@@ -29,9 +29,11 @@ High churn rate (54.6%) and untapped customer segments threatened revenue growth
 
 
 ## Resources
-- [Python Code (ecommerce-dashboard-generator.py)](./code/ecommerce-dashboard-generator.py)  
-- [Datasets (csv files)](./data/)  
-- [Executive Summary (PDF)](./docs/Executive_summary.pdf)  
+## Resources
+- [Executive Summary (PDF)](/Executive-summary.pdf)
+- [Python Code](/ecommerce_intelligence_platform.py)
+- [Datasets (CSV)](/ecommerce_customers.csv)
+
 
 ## Contact
 Reach out to discuss this project or similar opportunities: your.email@domain.com  
