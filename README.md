@@ -1,7 +1,6 @@
 # Real-Time E-commerce Customer Intelligence Platform
 
-## Project Overview
-Duration: 6-8 weeks  
+## Project Overview 
 Impact: 15-25% revenue increase potential  
 Technologies: Python, Scikit-learn, Pandas, Matplotlib, Plotly  
 
@@ -24,6 +23,9 @@ High churn rate (54.6%) and untapped customer segments threatened revenue growth
 
 ## Visual Dashboards
 ![Executive Dashboard](executive_dashboard.png)
+![Business Metrics Summary](business_metrics_summary.png)
+![Customer Analysis Dashboard](customer_analysis_dashboard.png)
+[View Interactive Dashboard](interactive_dashboard.html)
 
 
 ## Resources
