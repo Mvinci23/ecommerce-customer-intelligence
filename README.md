@@ -41,5 +41,4 @@ High churn rate (54.6%) and untapped customer segments threatened revenue growth
 
 
 
-## Contact
-Reach out to discuss this project or similar opportunities: your.email@domain.com  
+
